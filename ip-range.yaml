@@ -1,4 +1,4 @@
-createDate: 2018-12-08-02-43-24
+createDate: 2018-12-13-19-03-34
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -288,9 +288,6 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d079:8000::/40
   region: eu-west-1
   service: AMAZON
-- ipv6_prefix: 2600:1f01:48d0:1000::/56
-  region: eu-north-1
-  service: AMAZON
 - ipv6_prefix: 2a05:d050:6000::/40
   region: eu-north-1
   service: AMAZON
@@ -446,6 +443,9 @@ ipv6_prefixes:
   service: AMAZON
 - ipv6_prefix: 240f:80fc:8000::/40
   region: cn-north-1
+  service: AMAZON
+- ipv6_prefix: 2600:1f01:48d0::/47
+  region: eu-north-1
   service: AMAZON
 - ipv6_prefix: 2600:9000:a800::/40
   region: GLOBAL
@@ -5347,4 +5347,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1544237004'
+syncToken: '1544727814'
