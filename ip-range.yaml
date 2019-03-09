@@ -1,4 +1,4 @@
-createDate: 2019-03-09-01-01-29
+createDate: 2019-03-09-01-21-27
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -5437,6 +5437,12 @@ prefixes:
 - ip_prefix: 34.228.4.208/28
   region: us-east-1
   service: CODEBUILD
+- ip_prefix: 13.248.106.0/24
+  region: me-south-1
+  service: GLOBALACCELERATOR
+- ip_prefix: 13.248.103.0/24
+  region: us-east-1
+  service: GLOBALACCELERATOR
 - ip_prefix: 13.248.100.0/24
   region: eu-north-1
   service: GLOBALACCELERATOR
@@ -5467,6 +5473,9 @@ prefixes:
 - ip_prefix: 99.82.171.0/24
   region: us-east-1
   service: GLOBALACCELERATOR
+- ip_prefix: 13.248.105.0/24
+  region: ap-south-1
+  service: GLOBALACCELERATOR
 - ip_prefix: 99.82.162.0/24
   region: eu-west-1
   service: GLOBALACCELERATOR
@@ -5484,6 +5493,9 @@ prefixes:
   service: GLOBALACCELERATOR
 - ip_prefix: 99.82.175.0/24
   region: us-east-1
+  service: GLOBALACCELERATOR
+- ip_prefix: 13.248.104.0/24
+  region: sa-east-1
   service: GLOBALACCELERATOR
 - ip_prefix: 99.82.164.0/24
   region: sa-east-1
@@ -5647,4 +5659,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1552093289'
+syncToken: '1552094487'
