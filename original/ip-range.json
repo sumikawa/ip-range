@@ -1,6 +1,6 @@
 {
-  "syncToken": "1552093289",
-  "createDate": "2019-03-09-01-01-29",
+  "syncToken": "1552094487",
+  "createDate": "2019-03-09-01-21-27",
   "prefixes": [
     {
       "ip_prefix": "18.208.0.0/13",
@@ -6693,6 +6693,16 @@
       "service": "CODEBUILD"
     },
     {
+      "ip_prefix": "13.248.106.0/24",
+      "region": "me-south-1",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
+      "ip_prefix": "13.248.103.0/24",
+      "region": "us-east-1",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
       "ip_prefix": "13.248.100.0/24",
       "region": "eu-north-1",
       "service": "GLOBALACCELERATOR"
@@ -6743,6 +6753,11 @@
       "service": "GLOBALACCELERATOR"
     },
     {
+      "ip_prefix": "13.248.105.0/24",
+      "region": "ap-south-1",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
       "ip_prefix": "99.82.162.0/24",
       "region": "eu-west-1",
       "service": "GLOBALACCELERATOR"
@@ -6770,6 +6785,11 @@
     {
       "ip_prefix": "99.82.175.0/24",
       "region": "us-east-1",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
+      "ip_prefix": "13.248.104.0/24",
+      "region": "sa-east-1",
       "service": "GLOBALACCELERATOR"
     },
     {
