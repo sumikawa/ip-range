@@ -1,4 +1,4 @@
-createDate: 2019-03-09-01-21-27
+createDate: 2019-03-11-20-01-29
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -4006,6 +4006,9 @@ prefixes:
 - ip_prefix: 54.231.232.0/21
   region: us-west-1
   service: S3
+- ip_prefix: 54.222.52.0/22
+  region: cn-north-1
+  service: S3
 - ip_prefix: 54.231.128.0/19
   region: eu-west-1
   service: S3
@@ -4014,6 +4017,9 @@ prefixes:
   service: S3
 - ip_prefix: 52.95.157.0/24
   region: ap-northeast-3
+  service: S3
+- ip_prefix: 52.82.164.0/22
+  region: cn-northwest-1
   service: S3
 - ip_prefix: 52.219.76.0/22
   region: ap-southeast-1
@@ -5659,4 +5665,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1552094487'
+syncToken: '1552334489'
