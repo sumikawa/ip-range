@@ -1,4 +1,4 @@
-createDate: 2019-03-13-19-01-31
+createDate: 2019-03-14-20-01-30
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1447,6 +1447,9 @@ prefixes:
 - ip_prefix: 13.210.0.0/15
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 52.82.131.0/24
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 52.94.17.0/24
   region: eu-central-1
   service: AMAZON
@@ -1873,9 +1876,6 @@ prefixes:
 - ip_prefix: 13.248.128.0/17
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 52.82.128.0/19
-  region: cn-northwest-1
-  service: AMAZON
 - ip_prefix: 52.95.255.96/28
   region: us-west-1
   service: AMAZON
@@ -2290,6 +2290,9 @@ prefixes:
 - ip_prefix: 54.239.107.252/32
   region: eu-central-1
   service: AMAZON
+- ip_prefix: 52.82.144.0/20
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 52.94.16.0/24
   region: eu-west-3
   service: AMAZON
@@ -2545,6 +2548,9 @@ prefixes:
 - ip_prefix: 13.58.0.0/15
   region: us-east-2
   service: AMAZON
+- ip_prefix: 52.82.133.0/24
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 52.93.51.29/32
   region: us-east-1
   service: AMAZON
@@ -2568,6 +2574,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.46.168.0/23
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.82.134.0/24
+  region: cn-northwest-1
   service: AMAZON
 - ip_prefix: 52.93.151.0/24
   region: sa-east-1
@@ -2949,6 +2958,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.64.128.0/17
   region: ap-southeast-2
+  service: AMAZON
+- ip_prefix: 52.82.129.0/24
+  region: cn-northwest-1
   service: AMAZON
 - ip_prefix: 52.92.80.0/22
   region: ap-northeast-1
@@ -3679,6 +3691,9 @@ prefixes:
 - ip_prefix: 13.248.28.0/22
   region: ap-northeast-3
   service: AMAZON
+- ip_prefix: 52.82.128.0/24
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 54.239.56.0/21
   region: eu-central-1
   service: AMAZON
@@ -3844,6 +3859,9 @@ prefixes:
 - ip_prefix: 50.112.0.0/16
   region: us-west-2
   service: AMAZON
+- ip_prefix: 52.82.132.0/24
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 52.93.97.0/24
   region: us-east-1
   service: AMAZON
@@ -3882,6 +3900,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.239.4.0/22
   region: eu-central-1
+  service: AMAZON
+- ip_prefix: 52.82.135.0/24
+  region: GLOBAL
   service: AMAZON
 - ip_prefix: 54.172.0.0/15
   region: us-east-1
@@ -5233,6 +5254,9 @@ prefixes:
 - ip_prefix: 52.95.110.0/24
   region: GLOBAL
   service: ROUTE53
+- ip_prefix: 52.82.131.0/24
+  region: cn-northwest-1
+  service: CLOUDFRONT
 - ip_prefix: 13.124.199.0/24
   region: ap-northeast-2
   service: CLOUDFRONT
@@ -5247,9 +5271,6 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 54.239.128.0/18
   region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 52.82.128.0/19
-  region: cn-northwest-1
   service: CLOUDFRONT
 - ip_prefix: 99.84.0.0/16
   region: GLOBAL
@@ -5293,6 +5314,9 @@ prefixes:
 - ip_prefix: 52.66.194.128/26
   region: ap-south-1
   service: CLOUDFRONT
+- ip_prefix: 52.82.144.0/20
+  region: cn-northwest-1
+  service: CLOUDFRONT
 - ip_prefix: 54.239.192.0/19
   region: GLOBAL
   service: CLOUDFRONT
@@ -5305,8 +5329,14 @@ prefixes:
 - ip_prefix: 13.224.0.0/14
   region: GLOBAL
   service: CLOUDFRONT
+- ip_prefix: 52.82.133.0/24
+  region: cn-northwest-1
+  service: CLOUDFRONT
 - ip_prefix: 13.113.203.0/24
   region: ap-northeast-1
+  service: CLOUDFRONT
+- ip_prefix: 52.82.134.0/24
+  region: cn-northwest-1
   service: CLOUDFRONT
 - ip_prefix: 34.195.252.0/24
   region: us-east-1
@@ -5346,6 +5376,9 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 205.251.249.0/24
   region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 52.82.129.0/24
+  region: cn-northwest-1
   service: CLOUDFRONT
 - ip_prefix: 99.86.0.0/16
   region: GLOBAL
@@ -5392,6 +5425,9 @@ prefixes:
 - ip_prefix: 13.249.0.0/16
   region: GLOBAL
   service: CLOUDFRONT
+- ip_prefix: 52.82.128.0/24
+  region: cn-northwest-1
+  service: CLOUDFRONT
 - ip_prefix: 54.240.128.0/18
   region: GLOBAL
   service: CLOUDFRONT
@@ -5409,6 +5445,12 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 34.232.163.208/29
   region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 52.82.132.0/24
+  region: cn-northwest-1
+  service: CLOUDFRONT
+- ip_prefix: 52.82.135.0/24
+  region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 52.47.73.72/29
   region: eu-west-3
@@ -5686,4 +5728,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1552503691'
+syncToken: '1552593690'
