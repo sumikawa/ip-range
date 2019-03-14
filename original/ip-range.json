@@ -1,6 +1,6 @@
 {
-  "syncToken": "1552593690",
-  "createDate": "2019-03-14-20-01-30",
+  "syncToken": "1552594898",
+  "createDate": "2019-03-14-20-21-38",
   "prefixes": [
     {
       "ip_prefix": "18.208.0.0/13",
@@ -44,7 +44,7 @@
     },
     {
       "ip_prefix": "52.82.131.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -1449,7 +1449,7 @@
     },
     {
       "ip_prefix": "52.82.144.0/20",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -1879,7 +1879,7 @@
     },
     {
       "ip_prefix": "52.82.133.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -1924,7 +1924,7 @@
     },
     {
       "ip_prefix": "52.82.134.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -2564,7 +2564,7 @@
     },
     {
       "ip_prefix": "52.82.129.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -3784,7 +3784,7 @@
     },
     {
       "ip_prefix": "52.82.128.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -4064,7 +4064,7 @@
     },
     {
       "ip_prefix": "52.82.132.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -6389,7 +6389,7 @@
     },
     {
       "ip_prefix": "52.82.131.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6489,7 +6489,7 @@
     },
     {
       "ip_prefix": "52.82.144.0/20",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6514,7 +6514,7 @@
     },
     {
       "ip_prefix": "52.82.133.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6524,7 +6524,7 @@
     },
     {
       "ip_prefix": "52.82.134.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6594,7 +6594,7 @@
     },
     {
       "ip_prefix": "52.82.129.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6674,7 +6674,7 @@
     },
     {
       "ip_prefix": "52.82.128.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
@@ -6709,7 +6709,7 @@
     },
     {
       "ip_prefix": "52.82.132.0/24",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
