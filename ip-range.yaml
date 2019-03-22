@@ -1,4 +1,4 @@
-createDate: 2019-03-22-14-01-26
+createDate: 2019-03-22-17-01-29
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -2292,6 +2292,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.239.112.0/24
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 150.222.105.0/24
+  region: ap-northeast-1
   service: AMAZON
 - ip_prefix: 52.95.34.0/24
   region: ap-northeast-1
@@ -5677,4 +5680,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1553263286'
+syncToken: '1553274089'
