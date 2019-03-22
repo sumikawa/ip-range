@@ -1,4 +1,4 @@
-createDate: 2019-03-22-17-01-29
+createDate: 2019-03-22-19-01-27
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -5425,6 +5425,9 @@ prefixes:
 - ip_prefix: 177.71.207.16/29
   region: sa-east-1
   service: CODEBUILD
+- ip_prefix: 52.61.40.104/29
+  region: us-gov-west-1
+  service: CODEBUILD
 - ip_prefix: 13.124.145.16/29
   region: ap-northeast-2
   service: CODEBUILD
@@ -5680,4 +5683,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1553274089'
+syncToken: '1553281287'
