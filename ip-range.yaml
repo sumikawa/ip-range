@@ -1,4 +1,4 @@
-createDate: 2019-06-10-15-19-05
+createDate: 2019-06-10-23-59-04
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1762,6 +1762,9 @@ prefixes:
 - ip_prefix: 52.93.8.0/22
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 52.93.60.13/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.94.224.0/20
   region: us-east-1
   service: AMAZON
@@ -3103,6 +3106,9 @@ prefixes:
 - ip_prefix: 54.204.0.0/15
   region: us-east-1
   service: AMAZON
+- ip_prefix: 52.93.60.15/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.95.163.0/24
   region: sa-east-1
   service: AMAZON
@@ -3658,6 +3664,9 @@ prefixes:
 - ip_prefix: 18.184.0.0/15
   region: eu-central-1
   service: AMAZON
+- ip_prefix: 52.93.60.16/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 72.21.192.0/19
   region: us-east-1
   service: AMAZON
@@ -3835,6 +3844,9 @@ prefixes:
 - ip_prefix: 52.93.2.0/24
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 52.93.60.11/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.94.248.176/28
   region: ap-northeast-2
   service: AMAZON
@@ -3994,6 +4006,9 @@ prefixes:
 - ip_prefix: 54.169.0.0/16
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 52.93.60.17/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 54.66.0.0/16
   region: ap-southeast-2
   service: AMAZON
@@ -4113,6 +4128,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.80.0/24
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 52.93.60.14/32
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 52.94.198.128/28
   region: ca-central-1
@@ -4327,6 +4345,9 @@ prefixes:
 - ip_prefix: 50.112.0.0/16
   region: us-west-2
   service: AMAZON
+- ip_prefix: 52.93.60.10/32
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.93.97.0/24
   region: us-east-1
   service: AMAZON
@@ -4365,6 +4386,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.126.0.0/15
   region: ap-south-1
+  service: AMAZON
+- ip_prefix: 52.93.60.12/32
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 54.239.4.0/22
   region: eu-central-1
@@ -6346,4 +6370,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1560179945'
+syncToken: '1560211144'
