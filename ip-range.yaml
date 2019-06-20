@@ -1,4 +1,4 @@
-createDate: 2019-06-19-21-59-04
+createDate: 2019-06-20-14-59-05
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -645,9 +645,6 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d07f:8000::/40
   region: eu-west-1
   service: AMAZON
-- ipv6_prefix: 240f:8018::/36
-  region: cn-north-1
-  service: AMAZON
 - ipv6_prefix: 2600:1ffa:5000::/40
   region: us-gov-east-1
   service: AMAZON
@@ -716,9 +713,6 @@ ipv6_prefixes:
   service: AMAZON
 - ipv6_prefix: 2600:1ff8:8000::/40
   region: us-east-1
-  service: AMAZON
-- ipv6_prefix: 2400:6500:100:7100::/56
-  region: cn-north-1
   service: AMAZON
 - ipv6_prefix: 2600:1ff8:2000::/40
   region: us-gov-west-1
@@ -1535,9 +1529,6 @@ ipv6_prefixes:
   service: EC2
 - ipv6_prefix: 2a05:d07f:8000::/40
   region: eu-west-1
-  service: EC2
-- ipv6_prefix: 240f:8018::/36
-  region: cn-north-1
   service: EC2
 - ipv6_prefix: 2a01:578:13::/64
   region: eu-central-1
@@ -6394,4 +6385,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1560981544'
+syncToken: '1561042745'
