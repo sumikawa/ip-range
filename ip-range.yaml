@@ -1,4 +1,4 @@
-createDate: 2019-06-26-19-59-05
+createDate: 2019-06-27-12-59-05
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -4780,6 +4780,9 @@ prefixes:
 - ip_prefix: 52.119.224.0/21
   region: us-east-1
   service: DYNAMODB
+- ip_prefix: 52.119.249.0/24
+  region: me-south-1
+  service: DYNAMODB
 - ip_prefix: 52.94.8.0/24
   region: ap-northeast-1
   service: DYNAMODB
@@ -6451,4 +6454,4 @@ prefixes:
 - ip_prefix: 35.172.155.96/27
   region: us-east-1
   service: CLOUD9
-syncToken: '1561579145'
+syncToken: '1561640345'
