@@ -1,4 +1,4 @@
-createDate: 2019-06-27-18-19-05
+createDate: 2019-06-27-20-19-04
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -6478,9 +6478,6 @@ prefixes:
 - ip_prefix: 18.237.140.160/29
   region: us-west-2
   service: EC2_INSTANCE_CONNECT
-- ip_prefix: 18.237.140.160/29
-  region: us-west-2
-  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.0.5.32/29
   region: ap-southeast-1
   service: EC2_INSTANCE_CONNECT
@@ -6502,4 +6499,4 @@ prefixes:
 - ip_prefix: 35.183.92.176/29
   region: ca-central-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1561659545'
+syncToken: '1561666744'
