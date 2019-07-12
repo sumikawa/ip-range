@@ -1,4 +1,4 @@
-createDate: 2019-07-11-14-39-05
+createDate: 2019-07-12-18-19-04
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -6319,6 +6319,9 @@ prefixes:
 - ip_prefix: 99.83.128.0/17
   region: GLOBAL
   service: GLOBALACCELERATOR
+- ip_prefix: 13.248.112.0/24
+  region: us-west-2
+  service: GLOBALACCELERATOR
 - ip_prefix: 99.82.167.0/24
   region: us-east-1
   service: GLOBALACCELERATOR
@@ -6541,4 +6544,4 @@ prefixes:
 - ip_prefix: 35.183.92.176/29
   region: ca-central-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1562855945'
+syncToken: '1562955544'
