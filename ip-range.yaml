@@ -1,4 +1,4 @@
-createDate: 2019-07-13-16-19-04
+createDate: 2019-07-16-13-39-05
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -6040,6 +6040,9 @@ prefixes:
 - ip_prefix: 18.216.170.128/25
   region: us-east-2
   service: CLOUDFRONT
+- ip_prefix: 13.52.204.0/23
+  region: us-west-1
+  service: CLOUDFRONT
 - ip_prefix: 13.54.63.128/26
   region: ap-southeast-2
   service: CLOUDFRONT
@@ -6081,6 +6084,9 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 13.113.203.0/24
   region: ap-northeast-1
+  service: CLOUDFRONT
+- ip_prefix: 99.79.168.0/23
+  region: ca-central-1
   service: CLOUDFRONT
 - ip_prefix: 34.195.252.0/24
   region: us-east-1
@@ -6138,6 +6144,9 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 130.176.0.0/16
   region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 18.200.212.0/23
+  region: eu-west-1
   service: CLOUDFRONT
 - ip_prefix: 64.252.64.0/18
   region: GLOBAL
@@ -6547,4 +6556,4 @@ prefixes:
 - ip_prefix: 35.183.92.176/29
   region: ca-central-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1563034744'
+syncToken: '1563284345'
