@@ -1,4 +1,4 @@
-createDate: 2019-07-19-22-43-05
+createDate: 2019-07-25-23-43-04
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1909,6 +1909,9 @@ prefixes:
 - ip_prefix: 52.95.80.0/20
   region: ap-south-1
   service: AMAZON
+- ip_prefix: 52.219.132.0/22
+  region: ap-southeast-1
+  service: AMAZON
 - ip_prefix: 184.73.0.0/16
   region: us-east-1
   service: AMAZON
@@ -3796,6 +3799,9 @@ prefixes:
 - ip_prefix: 52.95.61.0/24
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 52.219.124.0/22
+  region: ap-southeast-1
+  service: AMAZON
 - ip_prefix: 54.240.241.0/24
   region: ap-east-1
   service: AMAZON
@@ -3927,6 +3933,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.144.216.4/31
   region: eu-north-1
+  service: AMAZON
+- ip_prefix: 52.219.128.0/22
+  region: ap-southeast-1
   service: AMAZON
 - ip_prefix: 99.77.141.0/24
   region: ap-northeast-2
@@ -4666,6 +4675,9 @@ prefixes:
 - ip_prefix: 52.92.0.0/20
   region: ap-northeast-2
   service: S3
+- ip_prefix: 52.219.132.0/22
+  region: ap-southeast-1
+  service: S3
 - ip_prefix: 52.95.170.0/23
   region: eu-north-1
   service: S3
@@ -4813,6 +4825,9 @@ prefixes:
 - ip_prefix: 52.219.16.0/22
   region: ap-northeast-1
   service: S3
+- ip_prefix: 52.219.124.0/22
+  region: ap-southeast-1
+  service: S3
 - ip_prefix: 3.5.128.0/22
   region: us-east-2
   service: S3
@@ -4830,6 +4845,9 @@ prefixes:
   service: S3
 - ip_prefix: 52.219.68.0/22
   region: ap-northeast-1
+  service: S3
+- ip_prefix: 52.219.128.0/22
+  region: ap-southeast-1
   service: S3
 - ip_prefix: 52.95.146.0/23
   region: ca-central-1
@@ -6709,4 +6727,4 @@ prefixes:
 - ip_prefix: 35.183.92.176/29
   region: ca-central-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1563576185'
+syncToken: '1564098184'
