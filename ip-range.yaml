@@ -1,4 +1,4 @@
-createDate: 2019-09-18-20-33-08
+createDate: 2019-09-20-18-43-08
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1966,6 +1966,9 @@ prefixes:
 - ip_prefix: 150.222.90.0/24
   region: ap-northeast-1
   service: AMAZON
+- ip_prefix: 15.193.4.0/24
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 35.181.0.0/16
   region: eu-west-3
   service: AMAZON
@@ -2040,6 +2043,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.208.0.0/16
   region: ap-northeast-3
+  service: AMAZON
+- ip_prefix: 15.193.7.0/24
+  region: us-west-2
   service: AMAZON
 - ip_prefix: 52.93.96.0/24
   region: eu-west-1
@@ -2286,6 +2292,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 3.104.0.0/14
   region: ap-southeast-2
+  service: AMAZON
+- ip_prefix: 15.193.5.0/24
+  region: eu-west-2
   service: AMAZON
 - ip_prefix: 52.80.0.0/16
   region: cn-north-1
@@ -4486,6 +4495,9 @@ prefixes:
 - ip_prefix: 13.249.0.0/16
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.193.6.0/24
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 13.248.28.0/22
   region: ap-northeast-3
   service: AMAZON
@@ -5278,6 +5290,9 @@ prefixes:
 - ip_prefix: 52.40.0.0/14
   region: us-west-2
   service: EC2
+- ip_prefix: 15.193.4.0/24
+  region: eu-central-1
+  service: EC2
 - ip_prefix: 35.181.0.0/16
   region: eu-west-3
   service: EC2
@@ -5313,6 +5328,9 @@ prefixes:
   service: EC2
 - ip_prefix: 13.208.0.0/16
   region: ap-northeast-3
+  service: EC2
+- ip_prefix: 15.193.7.0/24
+  region: us-west-2
   service: EC2
 - ip_prefix: 54.156.0.0/14
   region: us-east-1
@@ -5421,6 +5439,9 @@ prefixes:
   service: EC2
 - ip_prefix: 3.104.0.0/14
   region: ap-southeast-2
+  service: EC2
+- ip_prefix: 15.193.5.0/24
+  region: eu-west-2
   service: EC2
 - ip_prefix: 52.80.0.0/16
   region: cn-north-1
@@ -6268,6 +6289,9 @@ prefixes:
 - ip_prefix: 54.222.58.32/28
   region: cn-north-1
   service: EC2
+- ip_prefix: 15.193.6.0/24
+  region: us-east-1
+  service: EC2
 - ip_prefix: 18.176.0.0/15
   region: ap-northeast-1
   service: EC2
@@ -6994,4 +7018,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1568838788'
+syncToken: '1569004988'
