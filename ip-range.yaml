@@ -1,4 +1,4 @@
-createDate: 2019-10-07-10-33-09
+createDate: 2019-10-07-11-13-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1810,6 +1810,9 @@ prefixes:
 - ip_prefix: 107.20.0.0/14
   region: us-east-1
   service: AMAZON
+- ip_prefix: 150.222.202.56/31
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 52.93.8.0/22
   region: ap-southeast-1
   service: AMAZON
@@ -2415,6 +2418,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 99.77.137.0/24
   region: eu-north-1
+  service: AMAZON
+- ip_prefix: 150.222.202.50/31
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 52.144.192.0/26
   region: us-east-1
@@ -3142,6 +3148,9 @@ prefixes:
 - ip_prefix: 99.77.143.0/24
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 150.222.202.48/31
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 52.92.16.0/20
   region: us-east-1
   service: AMAZON
@@ -3156,6 +3165,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.11.0/31
   region: eu-central-1
+  service: AMAZON
+- ip_prefix: 150.222.202.58/31
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 172.96.97.0/24
   region: us-east-1
@@ -3433,6 +3445,9 @@ prefixes:
 - ip_prefix: 150.222.69.0/24
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 150.222.202.46/31
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 18.232.0.0/14
   region: us-east-1
   service: AMAZON
@@ -3666,6 +3681,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.95.148.0/23
   region: eu-west-2
+  service: AMAZON
+- ip_prefix: 150.222.202.52/31
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 3.208.0.0/12
   region: us-east-1
@@ -4180,6 +4198,9 @@ prefixes:
 - ip_prefix: 52.94.248.176/28
   region: ap-northeast-2
   service: AMAZON
+- ip_prefix: 150.222.202.54/31
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 52.93.245.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -4218,6 +4239,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.153.0.0/17
   region: us-west-1
+  service: AMAZON
+- ip_prefix: 150.222.202.44/31
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 52.24.0.0/14
   region: us-west-2
@@ -7156,4 +7180,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1570444389'
+syncToken: '1570446789'
