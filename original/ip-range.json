@@ -1,6 +1,6 @@
 {
-  "syncToken": "1570496589",
-  "createDate": "2019-10-08-01-03-09",
+  "syncToken": "1570543988",
+  "createDate": "2019-10-08-14-13-08",
   "prefixes": [
     {
       "ip_prefix": "13.248.118.0/24",
@@ -8668,6 +8668,11 @@
       "service": "CODEBUILD"
     },
     {
+      "ip_prefix": "13.248.118.0/24",
+      "region": "eu-west-1",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
       "ip_prefix": "13.248.106.0/24",
       "region": "me-south-1",
       "service": "GLOBALACCELERATOR"
@@ -8780,6 +8785,11 @@
     {
       "ip_prefix": "75.2.0.0/17",
       "region": "GLOBAL",
+      "service": "GLOBALACCELERATOR"
+    },
+    {
+      "ip_prefix": "13.248.117.0/24",
+      "region": "ap-south-1",
       "service": "GLOBALACCELERATOR"
     },
     {
