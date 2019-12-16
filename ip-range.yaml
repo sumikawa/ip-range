@@ -1,4 +1,4 @@
-createDate: 2019-12-14-13-53-10
+createDate: 2019-12-16-17-33-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -7246,11 +7246,41 @@ prefixes:
 - ip_prefix: 54.190.198.32/28
   region: us-west-2
   service: AMAZON_CONNECT
+- ip_prefix: 13.232.67.128/27
+  region: ap-south-1
+  service: CLOUD9
+- ip_prefix: 13.232.67.160/27
+  region: ap-south-1
+  service: CLOUD9
+- ip_prefix: 13.236.82.128/27
+  region: ap-southeast-2
+  service: CLOUD9
+- ip_prefix: 13.236.82.96/27
+  region: ap-southeast-2
+  service: CLOUD9
 - ip_prefix: 13.250.186.128/27
   region: ap-southeast-1
   service: CLOUD9
 - ip_prefix: 13.250.186.160/27
   region: ap-southeast-1
+  service: CLOUD9
+- ip_prefix: 13.48.186.128/27
+  region: eu-north-1
+  service: CLOUD9
+- ip_prefix: 13.48.186.160/27
+  region: eu-north-1
+  service: CLOUD9
+- ip_prefix: 15.164.243.192/27
+  region: ap-northeast-2
+  service: CLOUD9
+- ip_prefix: 15.164.243.32/27
+  region: ap-northeast-2
+  service: CLOUD9
+- ip_prefix: 15.222.16.96/27
+  region: ca-central-1
+  service: CLOUD9
+- ip_prefix: 15.222.43.0/27
+  region: ca-central-1
   service: CLOUD9
 - ip_prefix: 18.179.48.128/27
   region: ap-northeast-1
@@ -7269,6 +7299,12 @@ prefixes:
   service: CLOUD9
 - ip_prefix: 18.188.9.32/27
   region: us-east-2
+  service: CLOUD9
+- ip_prefix: 3.10.127.32/27
+  region: eu-west-2
+  service: CLOUD9
+- ip_prefix: 3.10.201.64/27
+  region: eu-west-2
   service: CLOUD9
 - ip_prefix: 34.217.141.224/27
   region: us-west-2
@@ -7375,4 +7411,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1576331590'
+syncToken: '1576517590'
