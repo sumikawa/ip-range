@@ -1,4 +1,4 @@
-createDate: 2019-12-17-00-53-10
+createDate: 2019-12-17-04-53-11
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -2364,6 +2364,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.99.0/24
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 150.222.218.0/24
+  region: us-west-2
   service: AMAZON
 - ip_prefix: 175.41.128.0/18
   region: ap-southeast-1
@@ -7411,4 +7414,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1576543990'
+syncToken: '1576558391'
