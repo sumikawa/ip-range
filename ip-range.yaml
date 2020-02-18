@@ -1,4 +1,4 @@
-createDate: 2020-02-17-20-13-10
+createDate: 2020-02-18-20-43-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -3289,6 +3289,9 @@ prefixes:
 - ip_prefix: 52.94.248.80/28
   region: ap-northeast-1
   service: AMAZON
+- ip_prefix: 64.252.64.0/24
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 99.77.143.0/24
   region: ap-southeast-1
   service: AMAZON
@@ -4284,9 +4287,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.228.0.0/16
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 64.252.64.0/18
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 52.92.52.0/22
   region: ap-southeast-2
@@ -6145,6 +6145,9 @@ prefixes:
 - ip_prefix: 52.94.248.80/28
   region: ap-northeast-1
   service: EC2
+- ip_prefix: 64.252.64.0/24
+  region: us-east-1
+  service: EC2
 - ip_prefix: 99.77.143.0/24
   region: ap-southeast-1
   service: EC2
@@ -6952,9 +6955,6 @@ prefixes:
 - ip_prefix: 130.176.0.0/16
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 64.252.64.0/18
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 204.246.174.0/23
   region: GLOBAL
   service: CLOUDFRONT
@@ -7282,6 +7282,9 @@ prefixes:
 - ip_prefix: 15.177.85.0/24
   region: ap-east-1
   service: ROUTE53_HEALTHCHECKS_PUBLISHING
+- ip_prefix: 64.252.64.0/18
+  region: GLOBAL
+  service: AMAZON
 - ip_prefix: 13.124.199.0/24
   region: ap-northeast-2
   service: CLOUDFRONT
@@ -7362,6 +7365,9 @@ prefixes:
   service: CLOUDFRONT
 - ip_prefix: 18.200.212.0/23
   region: eu-west-1
+  service: CLOUDFRONT
+- ip_prefix: 64.252.64.0/18
+  region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 52.52.191.128/26
   region: us-west-1
@@ -7753,4 +7759,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1581970390'
+syncToken: '1582058590'
