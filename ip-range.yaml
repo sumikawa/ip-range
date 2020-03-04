@@ -1,4 +1,4 @@
-createDate: 2020-03-04-02-13-10
+createDate: 2020-03-04-20-43-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -2827,9 +2827,6 @@ prefixes:
 - ip_prefix: 150.222.227.0/24
   region: us-east-1
   service: AMAZON
-- ip_prefix: 205.251.192.0/19
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 46.51.192.0/20
   region: eu-west-1
   service: AMAZON
@@ -3246,6 +3243,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.234.0/24
   region: us-west-1
+  service: AMAZON
+- ip_prefix: 205.251.208.0/20
+  region: GLOBAL
   service: AMAZON
 - ip_prefix: 3.5.132.0/23
   region: us-east-2
@@ -3778,6 +3778,9 @@ prefixes:
 - ip_prefix: 54.76.0.0/15
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 205.251.192.0/21
+  region: GLOBAL
+  service: AMAZON
 - ip_prefix: 52.94.80.0/20
   region: ca-central-1
   service: AMAZON
@@ -4275,6 +4278,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 72.21.192.0/19
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 205.251.200.0/21
+  region: GLOBAL
   service: AMAZON
 - ip_prefix: 52.93.57.0/24
   region: af-south-1
@@ -6985,9 +6991,6 @@ prefixes:
 - ip_prefix: 204.246.172.0/24
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 205.251.192.0/19
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 54.239.192.0/19
   region: GLOBAL
   service: CLOUDFRONT
@@ -6995,6 +6998,9 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 13.32.0.0/15
+  region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 205.251.208.0/20
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 13.224.0.0/14
@@ -7031,6 +7037,9 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 130.176.0.0/16
+  region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 205.251.200.0/21
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 204.246.174.0/23
@@ -7837,4 +7846,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1583287990'
+syncToken: '1583354590'
