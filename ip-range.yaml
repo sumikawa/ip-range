@@ -1,4 +1,4 @@
-createDate: 2020-03-17-10-43-11
+createDate: 2020-03-17-11-13-11
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -1783,9 +1783,6 @@ prefixes:
 - ip_prefix: 52.92.72.0/22
   region: sa-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.15/32
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 99.82.184.0/22
   region: ap-southeast-2
   service: AMAZON
@@ -1806,9 +1803,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.248.103.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.19/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.193.0.0/16
   region: us-west-1
@@ -1855,9 +1849,6 @@ prefixes:
 - ip_prefix: 52.93.8.0/22
   region: ap-southeast-1
   service: AMAZON
-- ip_prefix: 52.93.75.74/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.224.0/20
   region: us-east-1
   service: AMAZON
@@ -1872,9 +1863,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.46.224.0/20
   region: us-gov-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.44/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.156.0/24
   region: eu-west-3
@@ -1897,9 +1885,6 @@ prefixes:
 - ip_prefix: 52.30.0.0/15
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.128/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.8.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -1920,9 +1905,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.93.20.17/32
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.18/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.0.0/20
   region: us-east-2
@@ -1990,9 +1972,6 @@ prefixes:
 - ip_prefix: 52.93.37.223/32
   region: us-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.48/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.248.192/28
   region: eu-west-2
   service: AMAZON
@@ -2004,12 +1983,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.94.20.0/24
   region: ap-south-1
-  service: AMAZON
-- ip_prefix: 52.93.75.0/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.30/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.92.0.0/20
   region: ap-northeast-2
@@ -2041,12 +2014,6 @@ prefixes:
 - ip_prefix: 150.222.243.26/31
   region: eu-central-1
   service: AMAZON
-- ip_prefix: 52.93.75.36/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.90/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.208.64/26
   region: eu-west-1
   service: AMAZON
@@ -2064,9 +2031,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.40.0.0/14
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.4/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.170.0/23
   region: eu-north-1
@@ -2088,12 +2052,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 35.181.0.0/16
   region: eu-west-3
-  service: AMAZON
-- ip_prefix: 52.93.75.24/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.130/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.138.252/32
   region: eu-west-2
@@ -2170,12 +2128,6 @@ prefixes:
 - ip_prefix: 15.193.7.0/24
   region: us-west-2
   service: AMAZON
-- ip_prefix: 52.93.75.62/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.116/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.96.0/24
   region: eu-west-1
   service: AMAZON
@@ -2236,9 +2188,6 @@ prefixes:
 - ip_prefix: 52.32.0.0/14
   region: us-west-2
   service: AMAZON
-- ip_prefix: 52.93.75.146/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.252.0/24
   region: ap-northeast-2
   service: AMAZON
@@ -2262,9 +2211,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.93.21.14/32
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.140/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.76.0/24
   region: us-east-1
@@ -2298,9 +2244,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.248.48.0/21
   region: ap-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.40/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.142.0/23
   region: us-gov-west-1
@@ -2386,9 +2329,6 @@ prefixes:
 - ip_prefix: 52.82.128.0/19
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 52.93.75.64/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.255.96/28
   region: us-west-1
   service: AMAZON
@@ -2433,9 +2373,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.90.0.0/15
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.26/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.138.253/32
   region: eu-west-2
@@ -2509,17 +2446,11 @@ prefixes:
 - ip_prefix: 176.32.125.250/31
   region: us-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.10/32
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.32.0/20
   region: eu-west-2
   service: AMAZON
 - ip_prefix: 54.216.0.0/15
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.17/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.239.0.32/28
   region: us-west-2
@@ -2587,9 +2518,6 @@ prefixes:
 - ip_prefix: 13.248.0.0/20
   region: ap-northeast-3
   service: AMAZON
-- ip_prefix: 52.93.75.104/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.29.0/26
   region: us-east-2
   service: AMAZON
@@ -2599,15 +2527,6 @@ prefixes:
 - ip_prefix: 52.48.0.0/14
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.5/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.46/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.112/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.198.80/28
   region: ap-south-1
   service: AMAZON
@@ -2616,9 +2535,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 99.77.137.0/24
   region: eu-north-1
-  service: AMAZON
-- ip_prefix: 52.93.75.28/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.144.192.0/26
   region: us-east-1
@@ -2680,9 +2596,6 @@ prefixes:
 - ip_prefix: 52.93.34.56/32
   region: us-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.98/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.198.16/28
   region: sa-east-1
   service: AMAZON
@@ -2710,26 +2623,14 @@ prefixes:
 - ip_prefix: 150.222.205.0/24
   region: us-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.94/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.100/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.240.199.0/24
   region: ap-southeast-1
-  service: AMAZON
-- ip_prefix: 52.93.75.72/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.198.0.0/16
   region: us-east-1
   service: AMAZON
 - ip_prefix: 52.93.64.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.2/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.80.0/24
   region: eu-west-2
@@ -2784,9 +2685,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 205.251.232.0/22
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.80/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 13.248.116.0/24
   region: us-east-1
@@ -2845,9 +2743,6 @@ prefixes:
 - ip_prefix: 52.82.0.0/17
   region: cn-northwest-1
   service: AMAZON
-- ip_prefix: 52.93.75.9/32
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.249.32/28
   region: eu-west-3
   service: AMAZON
@@ -2856,9 +2751,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.240.227.0/24
   region: ap-southeast-1
-  service: AMAZON
-- ip_prefix: 52.93.75.144/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.23.0/24
   region: eu-north-1
@@ -2877,9 +2769,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.143.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.184/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.144.224.64/26
   region: ap-southeast-2
@@ -2911,17 +2800,8 @@ prefixes:
 - ip_prefix: 52.93.69.0/24
   region: me-south-1
   service: AMAZON
-- ip_prefix: 52.93.75.13/32
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.210.192/26
   region: eu-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.84/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.110/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.144.211.200/31
   region: eu-west-2
@@ -2950,9 +2830,6 @@ prefixes:
 - ip_prefix: 18.236.0.0/15
   region: us-west-2
   service: AMAZON
-- ip_prefix: 52.93.75.102/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.249.80/28
   region: us-west-1
   service: AMAZON
@@ -2964,15 +2841,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 46.51.192.0/20
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.14/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.34/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.162/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.174.0/24
   region: me-south-1
@@ -2997,9 +2865,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 108.175.48.0/22
   region: us-gov-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.60/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.231.248.0/22
   region: ap-southeast-2
@@ -3028,12 +2893,6 @@ prefixes:
 - ip_prefix: 3.24.0.0/14
   region: ap-southeast-2
   service: AMAZON
-- ip_prefix: 52.93.75.56/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.182/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.34.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -3054,9 +2913,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.79.0.0/16
   region: ap-northeast-2
-  service: AMAZON
-- ip_prefix: 52.93.75.16/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.137.0/24
   region: ap-northeast-2
@@ -3081,9 +2937,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.58.0.0/15
   region: eu-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.7/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.218.0.0/17
   region: eu-west-1
@@ -3223,9 +3076,6 @@ prefixes:
 - ip_prefix: 184.72.0.0/18
   region: us-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.156/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.246.0/24
   region: us-west-1
   service: AMAZON
@@ -3258,9 +3108,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.46.180.0/22
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.174/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.98.0/24
   region: ap-south-1
@@ -3319,9 +3166,6 @@ prefixes:
 - ip_prefix: 18.182.0.0/16
   region: ap-northeast-1
   service: AMAZON
-- ip_prefix: 52.93.75.138/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.152.0.0/16
   region: us-east-1
   service: AMAZON
@@ -3336,9 +3180,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.68.0.0/15
   region: ap-northeast-1
-  service: AMAZON
-- ip_prefix: 52.93.75.176/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.144.231.64/26
   region: ap-southeast-1
@@ -3399,9 +3240,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.82.184.0/23
   region: cn-northwest-1
-  service: AMAZON
-- ip_prefix: 52.93.75.122/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.93.250.0/23
   region: ap-northeast-1
@@ -3496,9 +3334,6 @@ prefixes:
 - ip_prefix: 52.46.168.0/23
   region: us-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.172/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.151.0/24
   region: sa-east-1
   service: AMAZON
@@ -3567,9 +3402,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.12.0.0/15
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.166/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.220.0.0/15
   region: ap-southeast-1
@@ -3643,9 +3475,6 @@ prefixes:
 - ip_prefix: 54.72.0.0/15
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.126/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.239.0.192/28
   region: ap-northeast-2
   service: AMAZON
@@ -3664,9 +3493,6 @@ prefixes:
 - ip_prefix: 204.246.164.0/22
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 52.93.75.164/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.223.0.0/16
   region: cn-north-1
   service: AMAZON
@@ -3684,9 +3510,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 18.156.0.0/14
   region: eu-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.42/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.24.0/22
   region: us-east-2
@@ -3712,9 +3535,6 @@ prefixes:
 - ip_prefix: 3.131.0.0/16
   region: us-east-2
   service: AMAZON
-- ip_prefix: 52.93.75.168/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.219.0.0/20
   region: ap-northeast-1
   service: AMAZON
@@ -3723,6 +3543,9 @@ prefixes:
   service: AMAZON
 - ip_prefix: 176.32.125.252/31
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.93.75.0/24
+  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.248.32/28
   region: ap-southeast-1
@@ -3750,9 +3573,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.248.117.0/24
   region: ap-south-1
-  service: AMAZON
-- ip_prefix: 52.93.75.120/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.24.0/23
   region: eu-west-1
@@ -3796,9 +3616,6 @@ prefixes:
 - ip_prefix: 52.15.0.0/16
   region: us-east-2
   service: AMAZON
-- ip_prefix: 52.93.75.190/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.209.128/26
   region: eu-west-3
   service: AMAZON
@@ -3807,9 +3624,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 18.162.0.0/16
   region: ap-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.82/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.30.0/23
   region: ap-northeast-1
@@ -3841,9 +3655,6 @@ prefixes:
 - ip_prefix: 52.92.40.0/21
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.118/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.219.32.0/21
   region: ap-southeast-1
   service: AMAZON
@@ -3862,9 +3673,6 @@ prefixes:
 - ip_prefix: 52.82.169.0/28
   region: cn-northwest-1
   service: AMAZON
-- ip_prefix: 52.93.75.192/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.112.0/24
   region: eu-west-1
   service: AMAZON
@@ -3879,9 +3687,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.93.16.0/24
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.160/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.249.144/28
   region: ap-east-1
@@ -3931,9 +3736,6 @@ prefixes:
 - ip_prefix: 52.93.51.28/32
   region: us-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.236/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.12.0/24
   region: us-west-1
   service: AMAZON
@@ -3954,9 +3756,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.2.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.86/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.79.0.0/16
   region: ap-southeast-2
@@ -3979,9 +3778,6 @@ prefixes:
 - ip_prefix: 18.202.0.0/15
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.158/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.239.1.48/28
   region: ap-northeast-3
   service: AMAZON
@@ -3993,9 +3789,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 18.196.0.0/15
   region: eu-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.78/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.76.0.0/15
   region: eu-west-1
@@ -4030,9 +3823,6 @@ prefixes:
 - ip_prefix: 13.232.0.0/14
   region: ap-south-1
   service: AMAZON
-- ip_prefix: 52.93.75.114/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.243.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -4056,12 +3846,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 15.221.4.0/23
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.11/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.194/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.144.211.64/26
   region: eu-west-2
@@ -4117,9 +3901,6 @@ prefixes:
 - ip_prefix: 96.127.0.0/17
   region: us-gov-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.200/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.119.252.0/22
   region: us-west-2
   service: AMAZON
@@ -4155,9 +3936,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.92.88.0/22
   region: eu-west-2
-  service: AMAZON
-- ip_prefix: 52.93.75.108/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.222.64.0/23
   region: cn-north-1
@@ -4207,9 +3985,6 @@ prefixes:
 - ip_prefix: 18.191.0.0/16
   region: us-east-2
   service: AMAZON
-- ip_prefix: 52.93.75.124/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.210.0/26
   region: eu-west-1
   service: AMAZON
@@ -4237,9 +4012,6 @@ prefixes:
 - ip_prefix: 18.178.0.0/16
   region: ap-northeast-1
   service: AMAZON
-- ip_prefix: 52.93.75.54/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.164.0/23
   region: sa-east-1
   service: AMAZON
@@ -4263,9 +4035,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 13.248.107.0/24
   region: ap-southeast-1
-  service: AMAZON
-- ip_prefix: 52.93.75.202/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.240.0/22
   region: us-east-1
@@ -4320,9 +4089,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 150.222.110.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.242/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.255.32/28
   region: ap-southeast-1
@@ -4471,9 +4237,6 @@ prefixes:
 - ip_prefix: 176.34.128.0/17
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.206/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.240.0/24
   region: sa-east-1
   service: AMAZON
@@ -4491,9 +4254,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.46.164.0/23
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.148/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.178.0.0/16
   region: ap-northeast-1
@@ -4540,14 +4300,8 @@ prefixes:
 - ip_prefix: 52.93.57.0/24
   region: af-south-1
   service: AMAZON
-- ip_prefix: 52.93.75.22/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.63.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.188/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.252.0/23
   region: us-east-1
@@ -4575,9 +4329,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.93.37.222/32
   region: us-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.1/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.64.0/22
   region: ca-central-1
@@ -4660,9 +4411,6 @@ prefixes:
 - ip_prefix: 18.138.0.0/15
   region: ap-southeast-1
   service: AMAZON
-- ip_prefix: 52.93.75.180/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.255.144/28
   region: cn-north-1
   service: AMAZON
@@ -4681,9 +4429,6 @@ prefixes:
 - ip_prefix: 52.93.38.0/24
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.66/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.216.4/31
   region: eu-north-1
   service: AMAZON
@@ -4699,9 +4444,6 @@ prefixes:
 - ip_prefix: 13.244.0.0/15
   region: af-south-1
   service: AMAZON
-- ip_prefix: 52.93.75.32/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.94.248.48/28
   region: sa-east-1
   service: AMAZON
@@ -4716,9 +4458,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 35.180.0.0/16
   region: eu-west-3
-  service: AMAZON
-- ip_prefix: 52.93.75.234/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.76.0/22
   region: us-west-2
@@ -4771,9 +4510,6 @@ prefixes:
 - ip_prefix: 52.94.248.176/28
   region: ap-northeast-2
   service: AMAZON
-- ip_prefix: 52.93.75.92/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.245.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -4811,9 +4547,6 @@ prefixes:
   region: GLOBAL
   service: AMAZON
 - ip_prefix: 15.177.84.0/24
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.132/31
   region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.249.176/28
@@ -4855,12 +4588,6 @@ prefixes:
 - ip_prefix: 52.93.12.13/32
   region: us-west-2
   service: AMAZON
-- ip_prefix: 52.93.75.20/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.240/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 54.239.96.0/24
   region: ap-northeast-1
   service: AMAZON
@@ -4878,9 +4605,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 15.177.66.0/23
   region: us-east-2
-  service: AMAZON
-- ip_prefix: 52.93.75.68/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.94.248.224/28
   region: us-gov-west-1
@@ -4924,15 +4648,6 @@ prefixes:
 - ip_prefix: 13.248.108.0/24
   region: us-east-1
   service: AMAZON
-- ip_prefix: 52.93.75.58/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.142/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.222/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.95.108.0/23
   region: us-east-1
   service: AMAZON
@@ -4956,9 +4671,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 18.231.0.0/16
   region: sa-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.88/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.252.0.0/16
   region: ap-southeast-2
@@ -4996,9 +4708,6 @@ prefixes:
 - ip_prefix: 205.251.252.0/23
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 52.93.75.150/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.119.176.0/21
   region: us-west-1
   service: AMAZON
@@ -5010,9 +4719,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 99.77.136.0/24
   region: eu-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.226/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 54.66.0.0/16
   region: ap-southeast-2
@@ -5104,9 +4810,6 @@ prefixes:
 - ip_prefix: 150.222.243.20/31
   region: eu-central-1
   service: AMAZON
-- ip_prefix: 52.93.75.106/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.119.184.0/22
   region: ap-southeast-1
   service: AMAZON
@@ -5145,15 +4848,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 15.177.79.0/24
   region: ap-northeast-1
-  service: AMAZON
-- ip_prefix: 52.93.75.6/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.134/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.216/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.160.0/23
   region: ap-east-1
@@ -5226,9 +4920,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 15.193.6.0/24
   region: us-east-1
-  service: AMAZON
-- ip_prefix: 52.93.75.38/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 13.248.28.0/22
   region: ap-northeast-3
@@ -5320,12 +5011,6 @@ prefixes:
 - ip_prefix: 205.251.250.0/23
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 52.93.75.8/32
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.52/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.144.200.64/26
   region: us-east-1
   service: AMAZON
@@ -5368,12 +5053,6 @@ prefixes:
 - ip_prefix: 52.93.43.0/24
   region: eu-west-1
   service: AMAZON
-- ip_prefix: 52.93.75.50/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.76/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.78.0/24
   region: ap-southeast-2
   service: AMAZON
@@ -5382,12 +5061,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 18.201.0.0/16
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.212/31
-  region: ca-central-1
-  service: AMAZON
-- ip_prefix: 52.93.75.238/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.119.214.0/23
   region: us-east-1
@@ -5406,9 +5079,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 52.81.0.0/16
   region: cn-north-1
-  service: AMAZON
-- ip_prefix: 52.93.75.70/31
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.222.128.0/17
   region: GLOBAL
@@ -5470,9 +5140,6 @@ prefixes:
 - ip_prefix: 50.112.0.0/16
   region: us-west-2
   service: AMAZON
-- ip_prefix: 52.93.75.136/31
-  region: ca-central-1
-  service: AMAZON
 - ip_prefix: 52.93.97.0/24
   region: us-east-1
   service: AMAZON
@@ -5484,9 +5151,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 87.238.80.0/21
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.93.75.3/32
-  region: ca-central-1
   service: AMAZON
 - ip_prefix: 52.95.255.80/28
   region: us-east-1
@@ -8203,4 +7867,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1584441791'
+syncToken: '1584443591'
