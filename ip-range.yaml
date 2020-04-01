@@ -1,4 +1,4 @@
-createDate: 2020-03-31-14-43-11
+createDate: 2020-04-01-02-13-11
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07c:2000::/40
   region: eu-west-3
@@ -4198,9 +4198,6 @@ prefixes:
 - ip_prefix: 99.82.164.0/24
   region: sa-east-1
   service: AMAZON
-- ip_prefix: 52.92.68.0/22
-  region: eu-central-1
-  service: AMAZON
 - ip_prefix: 52.94.0.0/22
   region: us-east-1
   service: AMAZON
@@ -4395,9 +4392,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 54.228.0.0/16
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 52.92.52.0/22
-  region: ap-southeast-2
   service: AMAZON
 - ip_prefix: 52.93.247.0/25
   region: ap-northeast-2
@@ -4710,9 +4704,6 @@ prefixes:
   service: AMAZON
 - ip_prefix: 46.137.224.0/19
   region: ap-southeast-1
-  service: AMAZON
-- ip_prefix: 52.92.248.0/22
-  region: ap-south-1
   service: AMAZON
 - ip_prefix: 52.95.42.0/24
   region: us-west-1
@@ -5479,9 +5470,6 @@ prefixes:
 - ip_prefix: 52.95.172.0/23
   region: me-south-1
   service: S3
-- ip_prefix: 52.92.68.0/22
-  region: eu-central-1
-  service: S3
 - ip_prefix: 52.219.112.0/21
   region: us-west-1
   service: S3
@@ -5500,9 +5488,6 @@ prefixes:
 - ip_prefix: 52.92.76.0/22
   region: us-east-2
   service: S3
-- ip_prefix: 52.92.52.0/22
-  region: ap-southeast-2
-  service: S3
 - ip_prefix: 52.92.60.0/22
   region: ap-northeast-1
   service: S3
@@ -5517,9 +5502,6 @@ prefixes:
   service: S3
 - ip_prefix: 52.95.162.0/24
   region: ap-east-1
-  service: S3
-- ip_prefix: 52.92.248.0/22
-  region: ap-south-1
   service: S3
 - ip_prefix: 52.95.128.0/21
   region: ap-southeast-2
@@ -7927,4 +7909,4 @@ prefixes:
 - ip_prefix: 54.250.251.0/24
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1585665791'
+syncToken: '1585707191'
