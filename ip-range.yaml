@@ -1,4 +1,4 @@
-createDate: 2020-04-21-19-13-11
+createDate: 2020-04-21-20-33-11
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -11321,6 +11321,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: WORKSPACES_GATEWAYS
+- ip_prefix: 15.223.100.0/24
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: WORKSPACES_GATEWAYS
 - ip_prefix: 18.132.21.0/24
   network_border_group: eu-west-2
   region: eu-west-2
@@ -11401,4 +11405,4 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: WORKSPACES_GATEWAYS
-syncToken: '1587496391'
+syncToken: '1587501191'
