@@ -1,4 +1,4 @@
-createDate: 2020-05-06-15-33-11
+createDate: 2020-05-07-20-53-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -11917,10 +11917,6 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: CLOUDFRONT
-- ip_prefix: 13.52.204.0/23
-  network_border_group: us-west-1
-  region: us-west-1
-  service: CLOUDFRONT
 - ip_prefix: 13.54.63.128/26
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -12633,4 +12629,4 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1588779191'
+syncToken: '1588884792'
