@@ -1,4 +1,4 @@
-createDate: 2020-06-01-19-53-12
+createDate: 2020-06-03-00-53-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -5028,6 +5028,10 @@ prefixes:
 - ip_prefix: 15.230.39.110/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 15.230.48.0/24
+  network_border_group: eu-north-1
+  region: eu-north-1
   service: AMAZON
 - ip_prefix: 52.144.211.64/26
   network_border_group: eu-west-2
@@ -12881,4 +12885,4 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1591041192'
+syncToken: '1591145592'
