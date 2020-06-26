@@ -1,4 +1,4 @@
-createDate: 2020-06-25-20-29-13
+createDate: 2020-06-26-00-19-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -4926,8 +4926,8 @@ prefixes:
   region: eu-west-1
   service: AMAZON
 - ip_prefix: 64.252.117.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 176.32.112.0/21
   network_border_group: us-west-1
@@ -7458,8 +7458,8 @@ prefixes:
   region: ap-southeast-1
   service: AMAZON
 - ip_prefix: 64.252.115.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 99.77.161.0/24
   network_border_group: ap-southeast-1
@@ -8330,8 +8330,8 @@ prefixes:
   region: us-west-2
   service: AMAZON
 - ip_prefix: 64.252.114.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: AMAZON
 - ip_prefix: 176.32.120.0/22
   network_border_group: us-east-1
@@ -10246,8 +10246,8 @@ prefixes:
   region: sa-east-1
   service: EC2
 - ip_prefix: 64.252.117.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: EC2
 - ip_prefix: 99.80.0.0/15
   network_border_group: eu-west-1
@@ -11118,8 +11118,8 @@ prefixes:
   region: eu-west-3
   service: EC2
 - ip_prefix: 64.252.115.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: EC2
 - ip_prefix: 99.77.161.0/24
   network_border_group: ap-southeast-1
@@ -11414,8 +11414,8 @@ prefixes:
   region: us-west-2
   service: EC2
 - ip_prefix: 64.252.114.0/24
-  network_border_group: us-west-2
-  region: us-west-2
+  network_border_group: eu-west-1
+  region: eu-west-1
   service: EC2
 - ip_prefix: 15.177.85.0/24
   network_border_group: ap-east-1
@@ -13145,4 +13145,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1593116953'
+syncToken: '1593130752'
