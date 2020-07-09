@@ -1,4 +1,4 @@
-createDate: 2020-07-09-12-49-12
+createDate: 2020-07-09-15-09-14
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -3564,6 +3564,10 @@ prefixes:
 - ip_prefix: 52.119.248.0/24
   network_border_group: ap-east-1
   region: ap-east-1
+  service: AMAZON
+- ip_prefix: 52.144.205.0/26
+  network_border_group: us-west-1
+  region: us-west-1
   service: AMAZON
 - ip_prefix: 54.239.0.144/28
   network_border_group: cn-north-1
@@ -13665,9 +13669,65 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON_APPFLOW
+- ip_prefix: 13.113.196.64/26
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: CLOUDFRONT
+- ip_prefix: 13.233.177.192/26
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: CLOUDFRONT
+- ip_prefix: 13.48.32.0/24
+  network_border_group: eu-north-1
+  region: eu-north-1
+  service: CLOUDFRONT
+- ip_prefix: 15.188.184.0/24
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: CLOUDFRONT
+- ip_prefix: 15.207.13.128/25
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: CLOUDFRONT
+- ip_prefix: 18.229.220.192/26
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: CLOUDFRONT
+- ip_prefix: 3.10.17.128/25
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CLOUDFRONT
+- ip_prefix: 3.11.53.0/24
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CLOUDFRONT
+- ip_prefix: 3.128.93.0/24
+  network_border_group: us-east-2
+  region: us-east-2
+  service: CLOUDFRONT
+- ip_prefix: 3.134.215.0/24
+  network_border_group: us-east-2
+  region: us-east-2
+  service: CLOUDFRONT
+- ip_prefix: 3.236.169.192/26
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
 - ip_prefix: 3.236.48.0/23
   network_border_group: us-east-1
   region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 44.227.178.0/24
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 44.234.108.128/25
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 44.234.90.252/30
+  network_border_group: us-west-2
+  region: us-west-2
   service: CLOUDFRONT
 - ip_prefix: 18.252.4.0/30
   network_border_group: us-gov-east-1
@@ -13685,4 +13745,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1594298952'
+syncToken: '1594307354'
