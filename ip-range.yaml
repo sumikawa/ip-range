@@ -1,4 +1,4 @@
-createDate: 2020-07-16-16-19-13
+createDate: 2020-07-16-16-59-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -4473,6 +4473,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 150.222.122.102/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 150.222.240.135/32
   network_border_group: eu-south-1
   region: eu-south-1
@@ -4733,6 +4737,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 150.222.122.92/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 176.34.0.0/19
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -4796,6 +4804,10 @@ prefixes:
 - ip_prefix: 99.77.129.0/24
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 150.222.122.94/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.46/31
   network_border_group: us-east-2
@@ -5269,6 +5281,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 150.222.122.96/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 50.19.0.0/16
   network_border_group: us-east-1
   region: us-east-1
@@ -5676,6 +5692,10 @@ prefixes:
 - ip_prefix: 108.166.232.0/21
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 150.222.122.100/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 216.137.32.0/19
   network_border_group: GLOBAL
@@ -9164,6 +9184,10 @@ prefixes:
 - ip_prefix: 99.77.189.0/24
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ip_prefix: 150.222.122.98/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.93.178.190/32
   network_border_group: us-west-1
@@ -13837,4 +13861,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1594916353'
+syncToken: '1594918752'
