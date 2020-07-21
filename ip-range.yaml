@@ -1,4 +1,4 @@
-createDate: 2020-07-21-14-39-14
+createDate: 2020-07-21-20-19-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -12605,10 +12605,6 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: CODEBUILD
-- ip_prefix: 177.71.207.16/29
-  network_border_group: sa-east-1
-  region: sa-east-1
-  service: CODEBUILD
 - ip_prefix: 52.47.73.72/29
   network_border_group: eu-west-3
   region: eu-west-3
@@ -13921,4 +13917,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1595342354'
+syncToken: '1595362752'
