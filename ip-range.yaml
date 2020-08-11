@@ -1,4 +1,4 @@
-createDate: 2020-08-10-07-09-14
+createDate: 2020-08-11-01-19-13
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -5873,10 +5873,6 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
-- ip_prefix: 15.230.131.7/32
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
 - ip_prefix: 52.93.75.0/24
   network_border_group: ca-central-1
   region: ca-central-1
@@ -8849,10 +8845,6 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
-- ip_prefix: 15.230.131.8/32
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
 - ip_prefix: 52.94.11.0/24
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -9084,10 +9076,6 @@ prefixes:
 - ip_prefix: 176.34.128.0/17
   network_border_group: eu-west-1
   region: eu-west-1
-  service: AMAZON
-- ip_prefix: 15.230.131.6/32
-  network_border_group: eu-central-1
-  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.93.178.216/32
   network_border_group: us-west-1
@@ -9336,10 +9324,6 @@ prefixes:
 - ip_prefix: 15.230.39.120/31
   network_border_group: us-east-2
   region: us-east-2
-  service: AMAZON
-- ip_prefix: 15.230.131.9/32
-  network_border_group: eu-central-1
-  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.119.205.0/24
   network_border_group: ap-southeast-1
@@ -13469,133 +13453,13 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
-- ip_prefix: 13.124.199.0/24
-  network_border_group: ap-northeast-2
-  region: ap-northeast-2
-  service: CLOUDFRONT
-- ip_prefix: 35.167.191.128/26
-  network_border_group: us-west-2
-  region: us-west-2
-  service: CLOUDFRONT
-- ip_prefix: 18.200.212.0/23
-  network_border_group: eu-west-1
-  region: eu-west-1
-  service: CLOUDFRONT
-- ip_prefix: 99.79.169.0/24
-  network_border_group: ca-central-1
-  region: ca-central-1
-  service: CLOUDFRONT
-- ip_prefix: 52.15.127.128/26
-  network_border_group: us-east-2
-  region: us-east-2
-  service: CLOUDFRONT
-- ip_prefix: 34.223.12.224/27
-  network_border_group: us-west-2
-  region: us-west-2
-  service: CLOUDFRONT
-- ip_prefix: 54.233.255.128/26
-  network_border_group: sa-east-1
-  region: sa-east-1
-  service: CLOUDFRONT
-- ip_prefix: 13.54.63.128/26
-  network_border_group: ap-southeast-2
-  region: ap-southeast-2
-  service: CLOUDFRONT
-- ip_prefix: 13.59.250.0/26
-  network_border_group: us-east-2
-  region: us-east-2
-  service: CLOUDFRONT
-- ip_prefix: 3.234.232.224/27
-  network_border_group: us-east-1
-  region: us-east-1
-  service: CLOUDFRONT
-- ip_prefix: 52.66.194.128/26
-  network_border_group: ap-south-1
-  region: ap-south-1
-  service: CLOUDFRONT
-- ip_prefix: 13.228.69.0/24
-  network_border_group: ap-southeast-1
-  region: ap-southeast-1
-  service: CLOUDFRONT
 - ip_prefix: 64.252.64.0/18
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 18.216.170.128/25
-  network_border_group: us-east-2
-  region: us-east-2
-  service: CLOUDFRONT
-- ip_prefix: 3.231.2.0/25
-  network_border_group: us-east-1
-  region: us-east-1
-  service: CLOUDFRONT
-- ip_prefix: 52.220.191.0/26
-  network_border_group: ap-southeast-1
-  region: ap-southeast-1
-  service: CLOUDFRONT
 - ip_prefix: 34.232.163.208/29
   network_border_group: us-east-1
   region: us-east-1
-  service: CLOUDFRONT
-- ip_prefix: 35.162.63.192/26
-  network_border_group: us-west-2
-  region: us-west-2
-  service: CLOUDFRONT
-- ip_prefix: 34.223.80.192/26
-  network_border_group: us-west-2
-  region: us-west-2
-  service: CLOUDFRONT
-- ip_prefix: 34.226.14.0/24
-  network_border_group: us-east-1
-  region: us-east-1
-  service: CLOUDFRONT
-- ip_prefix: 13.113.203.0/24
-  network_border_group: ap-northeast-1
-  region: ap-northeast-1
-  service: CLOUDFRONT
-- ip_prefix: 34.195.252.0/24
-  network_border_group: us-east-1
-  region: us-east-1
-  service: CLOUDFRONT
-- ip_prefix: 52.52.191.128/26
-  network_border_group: us-west-1
-  region: us-west-1
-  service: CLOUDFRONT
-- ip_prefix: 52.56.127.0/25
-  network_border_group: eu-west-2
-  region: eu-west-2
-  service: CLOUDFRONT
-- ip_prefix: 34.216.51.0/25
-  network_border_group: us-west-2
-  region: us-west-2
-  service: CLOUDFRONT
-- ip_prefix: 52.199.127.192/26
-  network_border_group: ap-northeast-1
-  region: ap-northeast-1
-  service: CLOUDFRONT
-- ip_prefix: 52.212.248.0/26
-  network_border_group: eu-west-1
-  region: eu-west-1
-  service: CLOUDFRONT
-- ip_prefix: 13.210.67.128/26
-  network_border_group: ap-southeast-2
-  region: ap-southeast-2
-  service: CLOUDFRONT
-- ip_prefix: 35.158.136.0/24
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: CLOUDFRONT
-- ip_prefix: 52.57.254.0/24
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: CLOUDFRONT
-- ip_prefix: 52.78.247.128/26
-  network_border_group: ap-northeast-2
-  region: ap-northeast-2
-  service: CLOUDFRONT
-- ip_prefix: 52.47.139.0/24
-  network_border_group: eu-west-3
-  region: eu-west-3
   service: CLOUDFRONT
 - ip_prefix: 99.77.128.0/18
   network_border_group: GLOBAL
@@ -14365,6 +14229,22 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: CLOUDFRONT
+- ip_prefix: 13.113.203.0/24
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: CLOUDFRONT
+- ip_prefix: 13.124.199.0/24
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: CLOUDFRONT
+- ip_prefix: 13.210.67.128/26
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: CLOUDFRONT
+- ip_prefix: 13.228.69.0/24
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: CLOUDFRONT
 - ip_prefix: 13.233.177.192/26
   network_border_group: ap-south-1
   region: ap-south-1
@@ -14373,6 +14253,14 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: CLOUDFRONT
+- ip_prefix: 13.54.63.128/26
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: CLOUDFRONT
+- ip_prefix: 13.59.250.0/26
+  network_border_group: us-east-2
+  region: us-east-2
+  service: CLOUDFRONT
 - ip_prefix: 15.188.184.0/24
   network_border_group: eu-west-3
   region: eu-west-3
@@ -14380,6 +14268,14 @@ prefixes:
 - ip_prefix: 15.207.13.128/25
   network_border_group: ap-south-1
   region: ap-south-1
+  service: CLOUDFRONT
+- ip_prefix: 18.200.212.0/23
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: CLOUDFRONT
+- ip_prefix: 18.216.170.128/25
+  network_border_group: us-east-2
+  region: us-east-2
   service: CLOUDFRONT
 - ip_prefix: 18.229.220.192/26
   network_border_group: sa-east-1
@@ -14401,6 +14297,14 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: CLOUDFRONT
+- ip_prefix: 3.231.2.0/25
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 3.234.232.224/27
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
 - ip_prefix: 3.236.169.192/26
   network_border_group: us-east-1
   region: us-east-1
@@ -14408,6 +14312,38 @@ prefixes:
 - ip_prefix: 3.236.48.0/23
   network_border_group: us-east-1
   region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 34.195.252.0/24
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 34.216.51.0/25
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 34.223.12.224/27
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 34.223.80.192/26
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 34.226.14.0/24
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 35.158.136.0/24
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: CLOUDFRONT
+- ip_prefix: 35.162.63.192/26
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 35.167.191.128/26
+  network_border_group: us-west-2
+  region: us-west-2
   service: CLOUDFRONT
 - ip_prefix: 44.227.178.0/24
   network_border_group: us-west-2
@@ -14420,6 +14356,54 @@ prefixes:
 - ip_prefix: 44.234.90.252/30
   network_border_group: us-west-2
   region: us-west-2
+  service: CLOUDFRONT
+- ip_prefix: 52.15.127.128/26
+  network_border_group: us-east-2
+  region: us-east-2
+  service: CLOUDFRONT
+- ip_prefix: 52.199.127.192/26
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: CLOUDFRONT
+- ip_prefix: 52.212.248.0/26
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: CLOUDFRONT
+- ip_prefix: 52.220.191.0/26
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: CLOUDFRONT
+- ip_prefix: 52.47.139.0/24
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: CLOUDFRONT
+- ip_prefix: 52.52.191.128/26
+  network_border_group: us-west-1
+  region: us-west-1
+  service: CLOUDFRONT
+- ip_prefix: 52.56.127.0/25
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CLOUDFRONT
+- ip_prefix: 52.57.254.0/24
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: CLOUDFRONT
+- ip_prefix: 52.66.194.128/26
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: CLOUDFRONT
+- ip_prefix: 52.78.247.128/26
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: CLOUDFRONT
+- ip_prefix: 54.233.255.128/26
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: CLOUDFRONT
+- ip_prefix: 99.79.169.0/24
+  network_border_group: ca-central-1
+  region: ca-central-1
   service: CLOUDFRONT
 - ip_prefix: 18.252.4.0/30
   network_border_group: us-gov-east-1
@@ -14437,4 +14421,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1597043354'
+syncToken: '1597108753'
