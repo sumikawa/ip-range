@@ -1,4 +1,4 @@
-createDate: 2020-09-09-04-51-15
+createDate: 2020-09-09-17-11-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -14265,6 +14265,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: API_GATEWAY
+- ip_prefix: 3.251.62.128/25
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: API_GATEWAY
 - ip_prefix: 3.9.94.0/24
   network_border_group: eu-west-2
   region: eu-west-2
@@ -15065,4 +15069,4 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2_INSTANCE_CONNECT
-syncToken: '1599627075'
+syncToken: '1599671476'
