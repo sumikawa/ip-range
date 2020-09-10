@@ -1,4 +1,4 @@
-createDate: 2020-09-10-20-51-16
+createDate: 2020-09-10-21-11-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -14689,6 +14689,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: CLOUD9
+- ip_prefix: 18.192.142.0/23
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: CLOUDFRONT
 - ip_prefix: 3.120.181.40/29
   network_border_group: eu-central-1
   region: eu-central-1
@@ -15541,4 +15545,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1599771076'
+syncToken: '1599772276'
