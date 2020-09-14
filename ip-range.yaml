@@ -1,4 +1,4 @@
-createDate: 2020-09-11-01-51-14
+createDate: 2020-09-14-15-41-17
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -14413,6 +14413,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: AMAZON_APPFLOW
+- ip_prefix: 3.35.130.128/25
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: CLOUDFRONT
 - ip_prefix: 52.78.247.128/26
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -15601,4 +15605,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1599789074'
+syncToken: '1600098077'
