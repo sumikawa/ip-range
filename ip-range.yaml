@@ -1,4 +1,4 @@
-createDate: 2020-09-15-17-21-16
+createDate: 2020-09-15-17-41-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -9921,6 +9921,14 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 13.34.27.96/27
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: AMAZON
+- ip_prefix: 13.34.27.128/27
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: AMAZON
 - ip_prefix: 52.18.0.0/15
   network_border_group: eu-west-1
   region: eu-west-1
@@ -14181,6 +14189,14 @@ prefixes:
   network_border_group: cn-north-1
   region: cn-north-1
   service: AMAZON
+- ip_prefix: 52.81.135.128/25
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: API_GATEWAY
+- ip_prefix: 52.81.137.0/24
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: API_GATEWAY
 - ip_prefix: 52.81.167.128/27
   network_border_group: cn-north-1
   region: cn-north-1
@@ -14189,10 +14205,18 @@ prefixes:
   network_border_group: cn-north-1
   region: cn-north-1
   service: DYNAMODB
+- ip_prefix: 52.81.216.0/23
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: API_GATEWAY
 - ip_prefix: 52.81.232.0/26
   network_border_group: cn-north-1
   region: cn-north-1
   service: AMAZON
+- ip_prefix: 161.189.148.0/23
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: API_GATEWAY
 - ip_prefix: 161.189.66.128/26
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -14201,6 +14225,10 @@ prefixes:
   network_border_group: cn-northwest-1
   region: cn-northwest-1
   service: DYNAMODB
+- ip_prefix: 52.82.127.0/24
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: API_GATEWAY
 - ip_prefix: 52.83.5.0/26
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -15725,4 +15753,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1600190476'
+syncToken: '1600191676'
