@@ -1,4 +1,4 @@
-createDate: 2020-09-15-17-41-16
+createDate: 2020-09-15-18-41-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -14237,10 +14237,26 @@ prefixes:
   network_border_group: us-gov-east-1
   region: us-gov-east-1
   service: EC2_INSTANCE_CONNECT
+- ip_prefix: 18.252.56.0/23
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: API_GATEWAY
+- ip_prefix: 18.253.186.0/24
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: API_GATEWAY
+- ip_prefix: 15.200.141.0/25
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: API_GATEWAY
 - ip_prefix: 15.200.28.80/30
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: EC2_INSTANCE_CONNECT
+- ip_prefix: 160.1.128.0/24
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: API_GATEWAY
 - ip_prefix: 13.244.121.0/26
   network_border_group: af-south-1
   region: af-south-1
@@ -15753,4 +15769,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1600191676'
+syncToken: '1600195276'
