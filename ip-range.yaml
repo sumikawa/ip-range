@@ -1,4 +1,4 @@
-createDate: 2020-09-18-05-11-16
+createDate: 2020-09-18-05-51-17
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -532,6 +532,10 @@ ipv6_prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ipv6_prefix: 2400:6500:0:7800::/56
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: AMAZON
 - ipv6_prefix: 2a05:d07c:4000::/40
   network_border_group: eu-central-1
   region: eu-central-1
@@ -615,6 +619,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffe:6000::/40
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ipv6_prefix: 2406:daf8:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
   service: AMAZON
 - ipv6_prefix: 240f:80fa:4000::/40
   network_border_group: cn-northwest-1
@@ -1172,6 +1180,10 @@ ipv6_prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ipv6_prefix: 2406:dafc:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: AMAZON
 - ipv6_prefix: 2600:1fa0:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -1272,6 +1284,10 @@ ipv6_prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ipv6_prefix: 2406:daa0:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: AMAZON
 - ipv6_prefix: 2406:dafa:8000::/40
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -1352,6 +1368,10 @@ ipv6_prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ipv6_prefix: 2406:dafe:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: AMAZON
 - ipv6_prefix: 2406:da70:2000::/40
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -1399,6 +1419,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffc:c000::/40
   network_border_group: us-west-1
   region: us-west-1
+  service: AMAZON
+- ipv6_prefix: 2406:daf9:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
   service: AMAZON
 - ipv6_prefix: 2600:1f01:4870::/47
   network_border_group: eu-west-2
@@ -1920,6 +1944,10 @@ ipv6_prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: S3
+- ipv6_prefix: 2406:daf8:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: S3
 - ipv6_prefix: 240f:80fa:4000::/40
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -2100,6 +2128,10 @@ ipv6_prefixes:
   network_border_group: cn-north-1
   region: cn-north-1
   service: S3
+- ipv6_prefix: 2406:daa0:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: S3
 - ipv6_prefix: 2406:dafa:8000::/40
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -2135,6 +2167,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1fa0:1000::/40
   network_border_group: ca-central-1
   region: ca-central-1
+  service: S3
+- ipv6_prefix: 2406:daf9:9000::/40
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
   service: S3
 - ipv6_prefix: 2a05:d079:e000::/40
   network_border_group: me-south-1
@@ -15781,4 +15817,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1600405876'
+syncToken: '1600408277'
