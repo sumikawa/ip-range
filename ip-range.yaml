@@ -1,4 +1,4 @@
-createDate: 2020-10-02-15-11-16
+createDate: 2020-10-02-15-51-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -4029,6 +4029,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 52.93.127.96/32
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 52.144.192.0/26
   network_border_group: us-east-1
   region: us-east-1
@@ -4496,6 +4500,10 @@ prefixes:
 - ip_prefix: 44.192.0.0/11
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.93.127.99/32
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
   service: AMAZON
 - ip_prefix: 52.95.166.0/23
   network_border_group: us-gov-east-1
@@ -6045,10 +6053,6 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
-- ip_prefix: 52.93.242.112/28
-  network_border_group: cn-northwest-1
-  region: cn-northwest-1
-  service: AMAZON
 - ip_prefix: 52.95.42.0/24
   network_border_group: us-west-1
   region: us-west-1
@@ -6280,6 +6284,10 @@ prefixes:
 - ip_prefix: 46.51.216.0/21
   network_border_group: ap-southeast-1
   region: ap-southeast-1
+  service: AMAZON
+- ip_prefix: 52.93.127.97/32
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
   service: AMAZON
 - ip_prefix: 150.222.120.226/31
   network_border_group: eu-central-1
@@ -9657,6 +9665,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 52.93.242.120/29
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: AMAZON
 - ip_prefix: 54.198.0.0/16
   network_border_group: us-east-1
   region: us-east-1
@@ -10132,6 +10144,10 @@ prefixes:
 - ip_prefix: 52.93.76.0/24
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.93.127.98/32
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
   service: AMAZON
 - ip_prefix: 52.93.178.171/32
   network_border_group: us-west-1
@@ -16065,4 +16081,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1601651476'
+syncToken: '1601653876'
