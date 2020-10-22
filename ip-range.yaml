@@ -1,4 +1,4 @@
-createDate: 2020-10-22-18-31-17
+createDate: 2020-10-22-19-11-17
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -3800,6 +3800,10 @@ prefixes:
 - ip_prefix: 150.222.129.134/31
   network_border_group: eu-central-1
   region: eu-central-1
+  service: AMAZON
+- ip_prefix: 13.36.0.0/14
+  network_border_group: eu-west-3
+  region: eu-west-3
   service: AMAZON
 - ip_prefix: 15.230.36.0/23
   network_border_group: us-west-1
@@ -12081,6 +12085,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: EC2
+- ip_prefix: 13.36.0.0/14
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: EC2
 - ip_prefix: 52.95.255.16/28
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -16537,4 +16545,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1603391477'
+syncToken: '1603393877'
