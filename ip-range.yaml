@@ -1,4 +1,4 @@
-createDate: 2020-10-23-10-21-18
+createDate: 2020-10-23-17-51-16
 ipv6_prefixes:
 - ipv6_prefix: 2600:1f15::/32
   network_border_group: us-gov-east-1
@@ -16189,6 +16189,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 15.228.72.64/26
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: API_GATEWAY
 - ip_prefix: 18.228.246.0/23
   network_border_group: sa-east-1
   region: sa-east-1
@@ -16677,4 +16681,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1603448478'
+syncToken: '1603475476'
