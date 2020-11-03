@@ -1,4 +1,4 @@
-createDate: 2020-11-02-23-41-10
+createDate: 2020-11-03-00-21-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -3557,6 +3557,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
+- ip_prefix: 13.34.29.224/27
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 13.248.124.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -4082,6 +4086,10 @@ prefixes:
   region: us-east-2
   service: AMAZON
 - ip_prefix: 150.222.227.0/24
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
+- ip_prefix: 13.34.29.128/27
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
@@ -5617,6 +5625,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 13.34.30.0/27
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.0.0.0/15
   network_border_group: us-east-1
   region: us-east-1
@@ -5916,6 +5928,10 @@ prefixes:
 - ip_prefix: 13.34.28.224/27
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 13.34.29.160/27
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 15.230.39.118/31
   network_border_group: us-east-2
@@ -9325,6 +9341,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 13.34.30.32/27
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 15.230.39.164/31
   network_border_group: us-east-2
   region: us-east-2
@@ -10236,6 +10256,10 @@ prefixes:
 - ip_prefix: 54.253.0.0/16
   network_border_group: ap-southeast-2
   region: ap-southeast-2
+  service: AMAZON
+- ip_prefix: 13.34.29.192/27
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 18.162.0.0/16
   network_border_group: ap-east-1
@@ -16893,4 +16917,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1604360470'
+syncToken: '1604362870'
