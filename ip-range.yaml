@@ -1,4 +1,4 @@
-createDate: 2020-11-13-01-51-10
+createDate: 2020-11-16-14-51-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -15805,6 +15805,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 13.244.202.40/29
+  network_border_group: af-south-1
+  region: af-south-1
+  service: CODEBUILD
 - ip_prefix: 13.244.35.128/26
   network_border_group: af-south-1
   region: af-south-1
@@ -16513,6 +16517,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
+- ip_prefix: 15.161.192.240/28
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: CODEBUILD
 - ip_prefix: 15.161.192.64/26
   network_border_group: eu-south-1
   region: eu-south-1
@@ -17305,4 +17313,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1605232270'
+syncToken: '1605538270'
