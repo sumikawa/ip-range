@@ -1,4 +1,4 @@
-createDate: 2020-11-19-22-51-18
+createDate: 2020-11-19-23-51-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -17433,6 +17433,66 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: CLOUDFRONT
+- ip_prefix: 44.242.143.180/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.224/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.242/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.244/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.248/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.250/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.143.252/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.0/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.10/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.12/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.16/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.20/30
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.4/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.6/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.161.8/31
+  network_border_group: us-west-2
+  region: us-west-2
+  service: KINESIS_VIDEO_STREAMS
 - ip_prefix: 54.190.198.32/28
   network_border_group: us-west-2
   region: us-west-2
@@ -17441,4 +17501,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1605826278'
+syncToken: '1605829878'
