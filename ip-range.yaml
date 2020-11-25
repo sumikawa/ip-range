@@ -1,4 +1,4 @@
-createDate: 2020-11-24-21-51-18
+createDate: 2020-11-25-13-51-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -15900,7 +15900,7 @@ prefixes:
 - ip_prefix: 18.163.201.0/26
   network_border_group: ap-east-1
   region: ap-east-1
-  service: DYNAMODB
+  service: AMAZON
 - ip_prefix: 18.163.201.96/27
   network_border_group: ap-east-1
   region: ap-east-1
@@ -16896,7 +16896,7 @@ prefixes:
 - ip_prefix: 15.185.141.192/26
   network_border_group: me-south-1
   region: me-south-1
-  service: DYNAMODB
+  service: AMAZON
 - ip_prefix: 15.185.144.0/23
   network_border_group: me-south-1
   region: me-south-1
@@ -17517,4 +17517,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1606254678'
+syncToken: '1606312278'
