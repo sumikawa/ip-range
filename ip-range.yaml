@@ -1,4 +1,4 @@
-createDate: 2020-12-04-19-51-22
+createDate: 2020-12-08-22-11-17
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -584,6 +584,10 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
+- ipv6_prefix: 2606:f40::/48
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ipv6_prefix: 2600:1fa0:8000::/40
   network_border_group: us-east-1
   region: us-east-1
@@ -687,6 +691,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffd:85e8::/48
   network_border_group: ap-southeast-2
   region: ap-southeast-2
+  service: AMAZON
+- ipv6_prefix: 2606:f40:1::/48
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2600:9000:a300::/40
   network_border_group: GLOBAL
@@ -2576,6 +2584,10 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: EC2
+- ipv6_prefix: 2606:f40::/48
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2a05:d07f:8000::/40
   network_border_group: eu-west-1
   region: eu-west-1
@@ -2635,6 +2647,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffd:85e8::/48
   network_border_group: ap-southeast-2
   region: ap-southeast-2
+  service: EC2
+- ipv6_prefix: 2606:f40:1::/48
+  network_border_group: us-west-2
+  region: us-west-2
   service: EC2
 - ipv6_prefix: 2600:1ffd:8188::/48
   network_border_group: ca-central-1
@@ -17613,4 +17629,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1607111482'
+syncToken: '1607465477'
