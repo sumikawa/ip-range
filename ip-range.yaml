@@ -1,4 +1,4 @@
-createDate: 2020-12-14-17-51-18
+createDate: 2020-12-14-18-11-17
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -3305,10 +3305,6 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: AMAZON
-- ip_prefix: 130.176.255.32/27
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.230.102/31
   network_border_group: eu-central-1
   region: eu-central-1
@@ -4321,10 +4317,6 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
-- ip_prefix: 130.176.243.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.85.0/24
   network_border_group: eu-west-1
   region: eu-west-1
@@ -4558,10 +4550,6 @@ prefixes:
   region: ap-southeast-2
   service: AMAZON
 - ip_prefix: 120.253.240.192/26
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
-- ip_prefix: 130.176.244.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
@@ -4932,10 +4920,6 @@ prefixes:
 - ip_prefix: 54.219.0.0/16
   network_border_group: us-west-1
   region: us-west-1
-  service: AMAZON
-- ip_prefix: 130.176.241.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 3.32.0.0/16
   network_border_group: us-gov-west-1
@@ -5753,10 +5737,6 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
-- ip_prefix: 130.176.249.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.122.102/31
   network_border_group: eu-central-1
   region: eu-central-1
@@ -5844,10 +5824,6 @@ prefixes:
 - ip_prefix: 54.239.120.0/21
   network_border_group: ap-northeast-2
   region: ap-northeast-2
-  service: AMAZON
-- ip_prefix: 130.176.242.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 140.179.0.0/16
   network_border_group: cn-north-1
@@ -6177,10 +6153,6 @@ prefixes:
   network_border_group: us-gov-east-1
   region: us-gov-east-1
   service: AMAZON
-- ip_prefix: 130.176.248.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.3.186/32
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -6485,10 +6457,6 @@ prefixes:
   network_border_group: cn-north-1
   region: cn-north-1
   service: AMAZON
-- ip_prefix: 130.176.245.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 205.251.232.0/22
   network_border_group: us-west-2
   region: us-west-2
@@ -6568,10 +6536,6 @@ prefixes:
 - ip_prefix: 54.218.0.0/16
   network_border_group: us-west-2
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 130.176.253.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 150.222.215.0/24
   network_border_group: eu-west-2
@@ -7189,10 +7153,6 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
-- ip_prefix: 130.176.255.64/27
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.14.72/31
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -7673,10 +7633,6 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
-- ip_prefix: 130.176.251.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 150.222.208.90/31
   network_border_group: af-south-1
   region: af-south-1
@@ -7744,10 +7700,6 @@ prefixes:
 - ip_prefix: 69.107.6.176/29
   network_border_group: us-west-1
   region: us-west-1
-  service: AMAZON
-- ip_prefix: 130.176.247.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 13.34.33.160/27
   network_border_group: eu-central-1
@@ -8012,10 +7964,6 @@ prefixes:
 - ip_prefix: 54.240.236.62/32
   network_border_group: eu-south-1
   region: eu-south-1
-  service: AMAZON
-- ip_prefix: 130.176.250.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 150.222.115.0/24
   network_border_group: ap-south-1
@@ -9194,10 +9142,6 @@ prefixes:
   region: sa-east-1
   service: AMAZON
 - ip_prefix: 120.52.153.192/26
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
-- ip_prefix: 130.176.255.0/27
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
@@ -15285,10 +15229,6 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.255.32/27
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 205.251.249.0/24
   network_border_group: GLOBAL
   region: GLOBAL
@@ -15302,10 +15242,6 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 205.251.252.0/23
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.243.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -15325,19 +15261,11 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.244.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 116.129.226.128/26
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 130.176.0.0/17
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.241.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -15377,14 +15305,6 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.249.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.242.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 205.251.208.0/20
   network_border_group: GLOBAL
   region: GLOBAL
@@ -15393,23 +15313,11 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.248.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 130.176.128.0/18
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.245.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 58.254.138.0/25
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.253.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -15426,10 +15334,6 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 64.252.128.0/18
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.255.64/27
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -15461,19 +15365,7 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
-- ip_prefix: 130.176.251.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.247.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
 - ip_prefix: 223.71.71.96/27
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.250.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -15538,10 +15430,6 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 120.52.153.192/26
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 130.176.255.0/27
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -17805,4 +17693,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1607968278'
+syncToken: '1607969477'
