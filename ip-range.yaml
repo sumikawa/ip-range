@@ -1,4 +1,4 @@
-createDate: 2020-12-16-05-51-18
+createDate: 2020-12-16-16-04-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -3148,9 +3148,25 @@ ipv6_prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
+- ipv6_prefix: 2400:7fc0:4000:200::/56
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: AMAZON
+- ipv6_prefix: 2400:7fc0:4000:400::/56
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: AMAZON
 - ipv6_prefix: 2400:7fc0:4000::/56
   network_border_group: cn-north-1
   region: cn-north-1
+  service: AMAZON
+- ipv6_prefix: 2404:c2c0:4000:200::/56
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: AMAZON
+- ipv6_prefix: 2404:c2c0:4000:400::/56
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
   service: AMAZON
 - ipv6_prefix: 2404:c2c0:4000::/56
   network_border_group: cn-northwest-1
@@ -17725,4 +17741,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1608097878'
+syncToken: '1608134658'
