@@ -1,4 +1,4 @@
-createDate: 2021-01-11-16-34-18
+createDate: 2021-01-11-21-34-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -17925,6 +17925,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 3.101.158.0/23
+  network_border_group: us-west-1
+  region: us-west-1
+  service: CLOUDFRONT
 - ip_prefix: 3.101.52.208/30
   network_border_group: us-west-1
   region: us-west-1
@@ -18125,4 +18129,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1610382858'
+syncToken: '1610400858'
