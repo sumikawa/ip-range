@@ -1,4 +1,4 @@
-createDate: 2021-01-08-23-14-18
+createDate: 2021-01-11-11-14-21
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -17353,6 +17353,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 3.251.106.128/25
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 3.251.56.0/24
   network_border_group: eu-west-1
   region: eu-west-1
@@ -18165,6 +18169,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 44.242.184.128/25
+  network_border_group: us-west-2
+  region: us-west-2
+  service: AMAZON
 - ip_prefix: 52.43.76.88/29
   network_border_group: us-west-2
   region: us-west-2
@@ -18177,4 +18185,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1610147658'
+syncToken: '1610363661'
