@@ -1,4 +1,4 @@
-createDate: 2021-01-26-01-14-18
+createDate: 2021-01-26-02-14-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -5677,6 +5677,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 99.151.80.0/21
+  network_border_group: eu-central-2
+  region: eu-central-2
+  service: AMAZON
 - ip_prefix: 120.253.245.128/26
   network_border_group: GLOBAL
   region: GLOBAL
@@ -6116,6 +6120,10 @@ prefixes:
 - ip_prefix: 15.230.39.170/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 16.62.0.0/15
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: AMAZON
 - ip_prefix: 52.54.0.0/15
   network_border_group: us-east-1
@@ -8612,6 +8620,10 @@ prefixes:
 - ip_prefix: 54.239.4.0/22
   network_border_group: eu-central-1
   region: eu-central-1
+  service: AMAZON
+- ip_prefix: 70.232.96.0/20
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: AMAZON
 - ip_prefix: 99.77.140.0/24
   network_border_group: ap-northeast-3
@@ -11513,6 +11525,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 70.232.120.0/22
+  network_border_group: eu-central-2
+  region: eu-central-2
+  service: AMAZON
 - ip_prefix: 3.34.0.0/15
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -12436,6 +12452,10 @@ prefixes:
 - ip_prefix: 52.93.127.158/32
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 70.232.112.0/21
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: AMAZON
 - ip_prefix: 99.77.135.0/24
   network_border_group: eu-west-3
@@ -13993,6 +14013,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: EC2
+- ip_prefix: 99.151.80.0/21
+  network_border_group: eu-central-2
+  region: eu-central-2
+  service: EC2
 - ip_prefix: 3.36.0.0/14
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -14104,6 +14128,10 @@ prefixes:
 - ip_prefix: 52.208.0.0/13
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ip_prefix: 16.62.0.0/15
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: EC2
 - ip_prefix: 52.54.0.0/15
   network_border_group: us-east-1
@@ -18349,4 +18377,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1611623658'
+syncToken: '1611627258'
