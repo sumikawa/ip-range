@@ -1,4 +1,4 @@
-createDate: 2021-02-03-22-04-18
+createDate: 2021-02-03-22-44-18
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -1603,6 +1603,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f70:e000::/40
   network_border_group: sa-east-1
   region: sa-east-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d019::/36
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: AMAZON
 - ipv6_prefix: 2406:dafe:9000::/40
   network_border_group: ap-southeast-3
@@ -3387,6 +3391,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f70:e000::/40
   network_border_group: sa-east-1
   region: sa-east-1
+  service: EC2
+- ipv6_prefix: 2a05:d019::/36
+  network_border_group: eu-central-2
+  region: eu-central-2
   service: EC2
 - ipv6_prefix: 2406:da70:2000::/40
   network_border_group: ap-northeast-2
@@ -18929,4 +18937,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1612389858'
+syncToken: '1612392258'
