@@ -1,4 +1,4 @@
-createDate: 2021-02-10-07-14-13
+createDate: 2021-02-10-13-34-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -5493,6 +5493,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: AMAZON
+- ip_prefix: 15.230.131.64/28
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 18.216.0.0/14
   network_border_group: us-east-2
   region: us-east-2
@@ -5532,6 +5536,10 @@ prefixes:
 - ip_prefix: 15.230.39.162/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 15.230.131.112/28
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.80.0.0/16
   network_border_group: cn-north-1
@@ -7825,6 +7833,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 15.230.131.96/28
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.127.198/32
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -9093,6 +9105,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 15.230.131.146/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.92.68/32
   network_border_group: us-west-1
   region: us-west-1
@@ -10041,6 +10057,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
+- ip_prefix: 52.93.123.136/32
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.93.178.144/32
   network_border_group: us-west-1
   region: us-west-1
@@ -10853,6 +10873,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.131.158/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.127.100/32
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -11496,6 +11520,10 @@ prefixes:
 - ip_prefix: 15.230.39.106/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 15.230.131.156/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.93.178.158/32
   network_border_group: us-west-1
@@ -12196,6 +12224,10 @@ prefixes:
 - ip_prefix: 15.230.56.250/31
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.131.152/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.150.0/23
   network_border_group: eu-south-2
@@ -13033,6 +13065,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.131.144/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.127.168/32
   network_border_group: us-east-1
   region: us-east-1
@@ -13345,6 +13381,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 15.230.131.80/28
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.153.178/32
   network_border_group: eu-west-2
   region: eu-west-2
@@ -13436,6 +13476,10 @@ prefixes:
 - ip_prefix: 15.230.39.62/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 15.230.131.150/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 18.183.0.0/16
   network_border_group: ap-northeast-1
@@ -13536,6 +13580,10 @@ prefixes:
 - ip_prefix: 15.230.39.86/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 15.230.131.128/28
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.93.127.176/32
   network_border_group: ap-northeast-1
@@ -19461,4 +19509,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1612941253'
+syncToken: '1612964053'
