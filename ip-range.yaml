@@ -1,4 +1,4 @@
-createDate: 2021-02-24-05-04-13
+createDate: 2021-02-24-22-04-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -5061,6 +5061,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 52.93.127.218/32
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 52.93.133.153/32
   network_border_group: eu-south-1
   region: eu-south-1
@@ -5592,6 +5596,10 @@ prefixes:
 - ip_prefix: 52.93.127.196/32
   network_border_group: ca-central-1
   region: ca-central-1
+  service: AMAZON
+- ip_prefix: 52.93.127.217/32
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 52.93.240.180/31
   network_border_group: us-west-2
@@ -6184,6 +6192,10 @@ prefixes:
 - ip_prefix: 15.230.39.240/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 52.93.127.219/32
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 52.93.153.177/32
   network_border_group: eu-west-2
@@ -7682,6 +7694,10 @@ prefixes:
   region: us-east-2
   service: AMAZON
 - ip_prefix: 15.230.56.114/31
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.93.127.221/32
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
@@ -9346,6 +9362,10 @@ prefixes:
   region: eu-west-3
   service: AMAZON
 - ip_prefix: 52.93.50.168/31
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
+- ip_prefix: 52.93.127.216/32
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
@@ -13288,6 +13308,10 @@ prefixes:
 - ip_prefix: 52.46.249.0/24
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 52.93.127.220/32
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 52.93.240.190/31
   network_border_group: us-west-2
@@ -19849,4 +19873,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1614143053'
+syncToken: '1614204253'
