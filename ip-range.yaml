@@ -1,4 +1,4 @@
-createDate: 2021-03-05-12-44-13
+createDate: 2021-03-05-13-44-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -7508,6 +7508,10 @@ prefixes:
 - ip_prefix: 15.230.39.126/31
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ip_prefix: 52.93.126.250/32
+  network_border_group: eu-west-3
+  region: eu-west-3
   service: AMAZON
 - ip_prefix: 52.93.127.155/32
   network_border_group: eu-west-1
@@ -20045,4 +20049,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1614948253'
+syncToken: '1614951853'
