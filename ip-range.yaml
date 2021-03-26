@@ -1,4 +1,4 @@
-createDate: 2021-03-26-19-44-10
+createDate: 2021-03-26-20-04-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -19837,6 +19837,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 18.168.133.0/24
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: API_GATEWAY
 - ip_prefix: 18.168.37.160/28
   network_border_group: eu-west-2
   region: eu-west-2
@@ -19901,6 +19905,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: CLOUDFRONT
+- ip_prefix: 13.36.155.0/24
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: API_GATEWAY
 - ip_prefix: 13.36.84.48/28
   network_border_group: eu-west-3
   region: eu-west-3
@@ -20677,4 +20685,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1616787850'
+syncToken: '1616789050'
