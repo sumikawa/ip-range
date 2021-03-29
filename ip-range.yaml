@@ -1,4 +1,4 @@
-createDate: 2021-03-29-09-14-13
+createDate: 2021-03-29-15-14-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -15317,6 +15317,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: DYNAMODB
+- ip_prefix: 35.71.96.0/24
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: DYNAMODB
 - ip_prefix: 52.119.240.0/21
   network_border_group: eu-west-1
   region: eu-west-1
@@ -15340,6 +15344,10 @@ prefixes:
 - ip_prefix: 52.94.31.0/24
   network_border_group: ap-southeast-3
   region: ap-southeast-3
+  service: DYNAMODB
+- ip_prefix: 35.71.64.0/22
+  network_border_group: us-west-2
+  region: us-west-2
   service: DYNAMODB
 - ip_prefix: 52.94.14.0/24
   network_border_group: ca-central-1
@@ -20729,4 +20737,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1617009253'
+syncToken: '1617030853'
