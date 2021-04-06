@@ -1,4 +1,4 @@
-createDate: 2021-04-05-18-44-12
+createDate: 2021-04-06-12-44-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -19353,6 +19353,10 @@ prefixes:
   network_border_group: ap-northeast-3
   region: ap-northeast-3
   service: API_GATEWAY
+- ip_prefix: 13.126.243.0/24
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: WORKSPACES_GATEWAYS
 - ip_prefix: 13.127.70.136/29
   network_border_group: ap-south-1
   region: ap-south-1
@@ -20921,4 +20925,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1617648252'
+syncToken: '1617713053'
