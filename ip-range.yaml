@@ -1,4 +1,4 @@
-createDate: 2021-04-16-13-24-13
+createDate: 2021-04-16-18-44-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -5785,6 +5785,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 99.151.120.0/21
+  network_border_group: us-west-1
+  region: us-west-1
+  service: AMAZON
 - ip_prefix: 108.136.0.0/15
   network_border_group: ap-southeast-3
   region: ap-southeast-3
@@ -7901,6 +7905,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 99.151.112.0/21
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: AMAZON
 - ip_prefix: 205.251.232.0/22
   network_border_group: us-west-2
   region: us-west-2
@@ -8064,6 +8072,14 @@ prefixes:
 - ip_prefix: 64.252.117.0/24
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 99.151.104.0/21
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: AMAZON
+- ip_prefix: 99.151.128.0/21
+  network_border_group: ca-central-1
+  region: ca-central-1
   service: AMAZON
 - ip_prefix: 150.222.217.248/30
   network_border_group: ap-south-1
@@ -16089,6 +16105,10 @@ prefixes:
   network_border_group: cn-northwest-1
   region: cn-northwest-1
   service: EC2
+- ip_prefix: 99.151.120.0/21
+  network_border_group: us-west-1
+  region: us-west-1
+  service: EC2
 - ip_prefix: 108.136.0.0/15
   network_border_group: ap-southeast-3
   region: ap-southeast-3
@@ -16633,6 +16653,10 @@ prefixes:
   network_border_group: eu-south-2
   region: eu-south-2
   service: EC2
+- ip_prefix: 99.151.112.0/21
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: EC2
 - ip_prefix: 34.224.0.0/12
   network_border_group: us-east-1
   region: us-east-1
@@ -16672,6 +16696,14 @@ prefixes:
 - ip_prefix: 64.252.117.0/24
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ip_prefix: 99.151.104.0/21
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: EC2
+- ip_prefix: 99.151.128.0/21
+  network_border_group: ca-central-1
+  region: ca-central-1
   service: EC2
 - ip_prefix: 99.80.0.0/15
   network_border_group: eu-west-1
@@ -21069,4 +21101,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: WORKSPACES_GATEWAYS
-syncToken: '1618579453'
+syncToken: '1618598653'
