@@ -1,4 +1,4 @@
-createDate: 2021-05-13-13-24-12
+createDate: 2021-05-13-15-24-11
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -19533,6 +19533,10 @@ prefixes:
   network_border_group: cn-north-1
   region: cn-north-1
   service: AMAZON
+- ip_prefix: 140.179.58.88/29
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: EBS
 - ip_prefix: 52.80.197.0/25
   network_border_group: cn-north-1
   region: cn-north-1
@@ -19633,6 +19637,14 @@ prefixes:
   network_border_group: cn-northwest-1
   region: cn-northwest-1
   service: AMAZON
+- ip_prefix: 68.79.2.244/30
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: EBS
+- ip_prefix: 68.79.2.248/29
+  network_border_group: cn-northwest-1
+  region: cn-northwest-1
+  service: EBS
 - ip_prefix: 69.230.219.0/24
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -19641,6 +19653,14 @@ prefixes:
   network_border_group: us-gov-east-1
   region: us-gov-east-1
   service: AMAZON
+- ip_prefix: 18.252.145.156/30
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: EBS
+- ip_prefix: 18.252.145.160/29
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: EBS
 - ip_prefix: 18.252.145.192/28
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -19689,6 +19709,14 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: AMAZON
+- ip_prefix: 3.32.190.244/30
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: EBS
+- ip_prefix: 3.32.190.248/29
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: EBS
 - ip_prefix: 52.61.193.0/24
   network_border_group: us-gov-west-1
   region: us-gov-west-1
@@ -21817,4 +21845,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1620912252'
+syncToken: '1620919451'
