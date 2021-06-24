@@ -1,4 +1,4 @@
-createDate: 2021-06-24-09-14-15
+createDate: 2021-06-24-19-44-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -13477,6 +13477,10 @@ prefixes:
   network_border_group: eu-west-3
   region: eu-west-3
   service: AMAZON
+- ip_prefix: 15.230.131.162/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.149.0/24
   network_border_group: us-west-1
   region: us-west-1
@@ -21033,6 +21037,26 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: CODEBUILD
+- ip_prefix: 13.244.244.192/27
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.244.244.224/27
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.244.33.0/26
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.244.33.128/26
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.244.33.64/26
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 13.244.35.128/26
   network_border_group: af-south-1
   region: af-south-1
@@ -21041,6 +21065,22 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 13.245.1.32/27
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.245.112.0/24
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.245.113.0/24
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 13.245.114.0/24
+  network_border_group: af-south-1
+  region: af-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 13.245.155.128/27
   network_border_group: af-south-1
   region: af-south-1
@@ -23189,4 +23229,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1624526055'
+syncToken: '1624563853'
