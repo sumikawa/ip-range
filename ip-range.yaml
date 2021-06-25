@@ -1,4 +1,4 @@
-createDate: 2021-06-25-21-14-15
+createDate: 2021-06-25-22-14-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -21413,6 +21413,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: S3
+- ip_prefix: 3.36.245.204/30
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: EBS
 - ip_prefix: 52.78.247.128/26
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -21849,6 +21853,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: API_GATEWAY
+- ip_prefix: 3.98.171.92/30
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: EBS
 - ip_prefix: 3.98.24.0/28
   network_border_group: ca-central-1
   region: ca-central-1
@@ -22529,6 +22537,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: S3
+- ip_prefix: 15.228.126.48/30
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: EBS
 - ip_prefix: 15.228.72.64/26
   network_border_group: sa-east-1
   region: sa-east-1
@@ -23245,4 +23257,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1624655655'
+syncToken: '1624659253'
