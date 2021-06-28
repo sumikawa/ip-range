@@ -1,4 +1,4 @@
-createDate: 2021-06-28-12-44-13
+createDate: 2021-06-28-14-14-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -21149,10 +21149,34 @@ prefixes:
   network_border_group: ap-east-1
   region: ap-east-1
   service: API_GATEWAY
+- ip_prefix: 18.162.127.0/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.162.127.32/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.162.127.64/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 18.162.189.0/24
   network_border_group: ap-east-1
   region: ap-east-1
   service: API_GATEWAY
+- ip_prefix: 18.162.221.128/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.162.221.160/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.162.221.192/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 18.163.139.32/27
   network_border_group: ap-east-1
   region: ap-east-1
@@ -21189,6 +21213,30 @@ prefixes:
   network_border_group: ap-east-1
   region: ap-east-1
   service: AMAZON
+- ip_prefix: 18.166.237.128/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.166.237.64/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.166.237.96/27
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.167.111.0/24
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.167.112.0/24
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 18.167.113.0/24
+  network_border_group: ap-east-1
+  region: ap-east-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 18.167.88.112/28
   network_border_group: ap-east-1
   region: ap-east-1
@@ -22873,6 +22921,30 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
+- ip_prefix: 15.161.247.128/27
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.161.247.64/27
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.161.247.96/27
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.161.66.0/26
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.161.66.128/26
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.161.66.64/26
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 15.161.68.128/26
   network_border_group: eu-south-1
   region: eu-south-1
@@ -22897,6 +22969,18 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: S3
+- ip_prefix: 35.152.86.0/24
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 35.152.87.0/24
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 35.152.88.0/24
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 108.128.160.0/23
   network_border_group: eu-west-1
   region: eu-west-1
@@ -23505,6 +23589,14 @@ prefixes:
   network_border_group: me-south-1
   region: me-south-1
   service: AMAZON
+- ip_prefix: 15.184.125.0/26
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.184.125.128/26
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 15.184.125.224/29
   network_border_group: me-south-1
   region: me-south-1
@@ -23517,10 +23609,22 @@ prefixes:
   network_border_group: me-south-1
   region: me-south-1
   service: S3
+- ip_prefix: 15.184.125.64/26
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 15.184.153.0/28
   network_border_group: me-south-1
   region: me-south-1
   service: S3
+- ip_prefix: 15.184.70.200/29
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.184.70.224/29
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 15.185.141.160/27
   network_border_group: me-south-1
   region: me-south-1
@@ -23541,6 +23645,18 @@ prefixes:
   network_border_group: me-south-1
   region: me-south-1
   service: AMAZON
+- ip_prefix: 15.185.33.32/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.185.33.64/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 15.185.33.96/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 15.185.86.0/23
   network_border_group: me-south-1
   region: me-south-1
@@ -23549,6 +23665,18 @@ prefixes:
   network_border_group: me-south-1
   region: me-south-1
   service: CLOUD9
+- ip_prefix: 157.175.102.128/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 157.175.102.160/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
+- ip_prefix: 157.175.102.96/27
+  network_border_group: me-south-1
+  region: me-south-1
+  service: ROUTE53_RESOLVER
 - ip_prefix: 157.175.140.0/23
   network_border_group: me-south-1
   region: me-south-1
@@ -25205,4 +25333,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1624884253'
+syncToken: '1624889653'
