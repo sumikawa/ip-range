@@ -1,4 +1,4 @@
-createDate: 2021-07-23-01-44-15
+createDate: 2021-07-23-02-44-15
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -17881,6 +17881,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: EC2
+- ip_prefix: 70.232.86.125/32
+  network_border_group: ap-southeast-4
+  region: ap-southeast-4
+  service: EC2
 - ip_prefix: 99.77.152.0/24
   network_border_group: us-west-2
   region: us-west-2
@@ -19552,6 +19556,10 @@ prefixes:
 - ip_prefix: 54.222.64.0/23
   network_border_group: cn-north-1
   region: cn-north-1
+  service: EC2
+- ip_prefix: 70.232.86.124/32
+  network_border_group: ap-southeast-4
+  region: ap-southeast-4
   service: EC2
 - ip_prefix: 99.77.157.0/24
   network_border_group: eu-west-3
@@ -25461,4 +25469,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1627004655'
+syncToken: '1627008255'
