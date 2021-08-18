@@ -1,4 +1,4 @@
-createDate: 2021-08-18-14-01-16
+createDate: 2021-08-18-16-31-13
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -22097,6 +22097,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON_APPFLOW
+- ip_prefix: 13.245.166.176/29
+  network_border_group: af-south-1
+  region: af-south-1
+  service: CODEBUILD
 - ip_prefix: 13.245.93.140/30
   network_border_group: af-south-1
   region: af-south-1
@@ -26373,4 +26377,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1629295276'
+syncToken: '1629304273'
