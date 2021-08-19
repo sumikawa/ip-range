@@ -1,4 +1,4 @@
-createDate: 2021-08-19-07-31-15
+createDate: 2021-08-19-13-01-14
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -22485,6 +22485,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: API_GATEWAY
+- ip_prefix: 35.75.131.80/29
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: CODEBUILD
 - ip_prefix: 52.199.127.192/26
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -22697,6 +22701,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: ROUTE53_RESOLVER
+- ip_prefix: 3.38.90.8/29
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: CODEBUILD
 - ip_prefix: 52.78.247.128/26
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -22817,6 +22825,10 @@ prefixes:
   network_border_group: ap-northeast-3
   region: ap-northeast-3
   service: CLOUD9
+- ip_prefix: 15.152.24.128/29
+  network_border_group: ap-northeast-3
+  region: ap-northeast-3
+  service: CODEBUILD
 - ip_prefix: 15.152.24.32/27
   network_border_group: ap-northeast-3
   region: ap-northeast-3
@@ -22945,6 +22957,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: API_GATEWAY
+- ip_prefix: 3.109.72.152/29
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: CODEBUILD
 - ip_prefix: 3.6.70.128/26
   network_border_group: ap-south-1
   region: ap-south-1
@@ -23353,6 +23369,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON_APPFLOW
+- ip_prefix: 3.26.127.24/29
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: CODEBUILD
 - ip_prefix: 3.26.58.224/27
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -23513,6 +23533,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: AMAZON_APPFLOW
+- ip_prefix: 3.98.171.224/29
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: CODEBUILD
 - ip_prefix: 3.98.171.92/30
   network_border_group: ca-central-1
   region: ca-central-1
@@ -23761,6 +23785,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON_APPFLOW
+- ip_prefix: 3.68.251.232/29
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: CODEBUILD
 - ip_prefix: 35.157.127.248/29
   network_border_group: eu-central-1
   region: eu-central-1
@@ -23861,6 +23889,10 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: API_GATEWAY
+- ip_prefix: 13.51.253.80/29
+  network_border_group: eu-north-1
+  region: eu-north-1
+  service: CODEBUILD
 - ip_prefix: 13.51.29.0/27
   network_border_group: eu-north-1
   region: eu-north-1
@@ -24361,6 +24393,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON_APPFLOW
+- ip_prefix: 18.169.230.200/29
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CODEBUILD
 - ip_prefix: 3.10.127.32/27
   network_border_group: eu-west-2
   region: eu-west-2
@@ -24497,6 +24533,10 @@ prefixes:
   network_border_group: eu-west-3
   region: eu-west-3
   service: ROUTE53_RESOLVER
+- ip_prefix: 13.36.84.112/29
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: CODEBUILD
 - ip_prefix: 13.36.84.24/29
   network_border_group: eu-west-3
   region: eu-west-3
@@ -24761,6 +24801,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: S3
+- ip_prefix: 15.228.126.200/29
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: CODEBUILD
 - ip_prefix: 15.228.126.48/30
   network_border_group: sa-east-1
   region: sa-east-1
@@ -25965,6 +26009,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON_APPFLOW
+- ip_prefix: 3.101.177.48/29
+  network_border_group: us-west-1
+  region: us-west-1
+  service: CODEBUILD
 - ip_prefix: 3.101.52.208/30
   network_border_group: us-west-1
   region: us-west-1
@@ -26405,4 +26453,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1629358275'
+syncToken: '1629378074'
