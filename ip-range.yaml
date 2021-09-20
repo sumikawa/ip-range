@@ -1,4 +1,4 @@
-createDate: 2021-09-20-09-13-16
+createDate: 2021-09-20-17-43-14
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -24833,6 +24833,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: API_GATEWAY
+- ip_prefix: 15.228.144.0/24
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: API_GATEWAY
 - ip_prefix: 15.228.72.64/26
   network_border_group: sa-east-1
   region: sa-east-1
@@ -26469,4 +26473,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1632129196'
+syncToken: '1632159794'
