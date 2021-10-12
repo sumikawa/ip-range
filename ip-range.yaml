@@ -1,4 +1,4 @@
-createDate: 2021-10-08-20-13-16
+createDate: 2021-10-12-12-13-14
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -23669,6 +23669,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: CODEBUILD
+- ip_prefix: 3.26.138.0/23
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: API_GATEWAY
 - ip_prefix: 3.26.58.224/27
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -26761,4 +26765,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1633723996'
+syncToken: '1634040794'
