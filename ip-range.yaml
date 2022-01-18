@@ -1,4 +1,4 @@
-createDate: 2022-01-18-19-33-19
+createDate: 2022-01-18-20-33-22
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -26753,6 +26753,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: API_GATEWAY
+- ip_prefix: 35.77.124.0/23
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: API_GATEWAY
 - ip_prefix: 52.199.127.192/26
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -26974,6 +26978,10 @@ prefixes:
   region: ap-northeast-2
   service: AMAZON
 - ip_prefix: 3.38.229.0/25
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: API_GATEWAY
+- ip_prefix: 3.38.248.0/23
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: API_GATEWAY
@@ -27257,6 +27265,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: AMAZON
+- ip_prefix: 3.111.110.0/23
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: API_GATEWAY
 - ip_prefix: 3.111.90.0/23
   network_border_group: ap-south-1
   region: ap-south-1
@@ -27390,6 +27402,10 @@ prefixes:
   region: ap-southeast-1
   service: AMAZON
 - ip_prefix: 13.214.224.0/23
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: API_GATEWAY
+- ip_prefix: 13.214.228.0/22
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: API_GATEWAY
@@ -27698,6 +27714,10 @@ prefixes:
   region: ap-southeast-2
   service: AMAZON
 - ip_prefix: 3.26.246.0/23
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: API_GATEWAY
+- ip_prefix: 3.26.248.0/22
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: API_GATEWAY
@@ -28162,6 +28182,10 @@ prefixes:
   region: eu-central-1
   service: AMAZON
 - ip_prefix: 3.71.104.0/24
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: API_GATEWAY
+- ip_prefix: 3.71.120.0/22
   network_border_group: eu-central-1
   region: eu-central-1
   service: API_GATEWAY
@@ -28709,6 +28733,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 13.40.202.0/23
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: API_GATEWAY
 - ip_prefix: 13.40.204.0/22
   network_border_group: eu-west-2
   region: eu-west-2
@@ -30257,6 +30285,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: API_GATEWAY
+- ip_prefix: 3.145.220.0/22
+  network_border_group: us-east-2
+  region: us-east-2
+  service: API_GATEWAY
 - ip_prefix: 3.145.31.0/26
   network_border_group: us-east-2
   region: us-east-2
@@ -30506,6 +30538,10 @@ prefixes:
   region: us-west-1
   service: AMAZON
 - ip_prefix: 3.101.200.0/24
+  network_border_group: us-west-1
+  region: us-west-1
+  service: API_GATEWAY
+- ip_prefix: 3.101.202.0/23
   network_border_group: us-west-1
   region: us-west-1
   service: API_GATEWAY
@@ -30957,4 +30993,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1642534399'
+syncToken: '1642538002'
