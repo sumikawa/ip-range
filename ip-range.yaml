@@ -1,4 +1,4 @@
-createDate: 2022-02-15-17-43-21
+createDate: 2022-02-16-01-23-20
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -207,6 +207,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:9000:f500::/43
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ipv6_prefix: 2a05:d015:800::/38
+  network_border_group: il-central-1
+  region: il-central-1
   service: AMAZON
 - ipv6_prefix: 2a05:d030:1000::/40
   network_border_group: eu-south-2
@@ -1140,6 +1144,10 @@ ipv6_prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ipv6_prefix: 2a05:d000:5000::/64
+  network_border_group: il-central-1
+  region: il-central-1
+  service: AMAZON
 - ipv6_prefix: 2a05:d012::/36
   network_border_group: eu-west-3
   region: eu-west-3
@@ -1443,6 +1451,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d018::/36
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d015:400::/38
+  network_border_group: il-central-1
+  region: il-central-1
   service: AMAZON
 - ipv6_prefix: 2406:dafc:f000::/40
   network_border_group: ap-southeast-4
@@ -2408,6 +2420,10 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
+- ipv6_prefix: 2a05:d015::/38
+  network_border_group: il-central-1
+  region: il-central-1
+  service: AMAZON
 - ipv6_prefix: 2a05:d07c:c000::/40
   network_border_group: eu-west-2
   region: eu-west-2
@@ -2547,6 +2563,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da70:a000::/40
   network_border_group: ap-south-1
   region: ap-south-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d015:c00::/38
+  network_border_group: il-central-1
+  region: il-central-1
   service: AMAZON
 - ipv6_prefix: 2a05:d078:6000::/40
   network_border_group: eu-north-1
@@ -3428,6 +3448,10 @@ ipv6_prefixes:
   network_border_group: cn-northwest-1
   region: cn-northwest-1
   service: EC2
+- ipv6_prefix: 2a05:d015:800::/38
+  network_border_group: il-central-1
+  region: il-central-1
+  service: EC2
 - ipv6_prefix: 2a05:d030:1000::/40
   network_border_group: eu-south-2
   region: eu-south-2
@@ -3880,6 +3904,10 @@ ipv6_prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: EC2
+- ipv6_prefix: 2a05:d000:5000::/64
+  network_border_group: il-central-1
+  region: il-central-1
+  service: EC2
 - ipv6_prefix: 2a05:d012::/36
   network_border_group: eu-west-3
   region: eu-west-3
@@ -4027,6 +4055,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d018::/36
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ipv6_prefix: 2a05:d015:400::/38
+  network_border_group: il-central-1
+  region: il-central-1
   service: EC2
 - ipv6_prefix: 2600:1ff0:4000::/40
   network_border_group: us-west-2
@@ -4476,6 +4508,10 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: EC2
+- ipv6_prefix: 2a05:d015::/38
+  network_border_group: il-central-1
+  region: il-central-1
+  service: EC2
 - ipv6_prefix: 2620:107:4005::/48
   network_border_group: us-west-2
   region: us-west-2
@@ -4543,6 +4579,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da70:a000::/40
   network_border_group: ap-south-1
   region: ap-south-1
+  service: EC2
+- ipv6_prefix: 2a05:d015:c00::/38
+  network_border_group: il-central-1
+  region: il-central-1
   service: EC2
 - ipv6_prefix: 2a05:d03a:8000::/40
   network_border_group: eu-west-1
@@ -20605,6 +20645,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 15.230.133.30/31
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: AMAZON
 - ip_prefix: 52.46.191.110/31
   network_border_group: us-east-1
   region: us-east-1
@@ -31329,4 +31373,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1644947001'
+syncToken: '1644974600'
