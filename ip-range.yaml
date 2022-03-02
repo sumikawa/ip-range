@@ -1,4 +1,4 @@
-createDate: 2022-03-02-18-33-20
+createDate: 2022-03-02-19-33-20
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -4952,6 +4952,22 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
+- ipv6_prefix: 2a05:d03a:4000:100::/56
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:4000:200::/56
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:4000:300::/56
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:4000:400::/56
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ipv6_prefix: 2a05:d03a:4000::/56
   network_border_group: eu-central-1
   region: eu-central-1
@@ -5024,6 +5040,22 @@ ipv6_prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: AMAZON
+- ipv6_prefix: 2a05:d03a:8000:100::/56
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:8000:200::/56
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:8000:300::/56
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:8000:400::/56
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
 - ipv6_prefix: 2a05:d03a:8000::/56
   network_border_group: eu-west-1
   region: eu-west-1
@@ -5041,6 +5073,22 @@ ipv6_prefixes:
   region: eu-west-2
   service: AMAZON
 - ipv6_prefix: 2a05:d038:c000:400::/56
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:c000:100::/56
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:c000:200::/56
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:c000:300::/56
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:c000:400::/56
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
@@ -5064,6 +5112,22 @@ ipv6_prefixes:
   network_border_group: eu-west-3
   region: eu-west-3
   service: AMAZON
+- ipv6_prefix: 2a05:d03a:2000:100::/56
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:2000:200::/56
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:2000:300::/56
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:2000:400::/56
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: AMAZON
 - ipv6_prefix: 2a05:d03a:2000::/56
   network_border_group: eu-west-3
   region: eu-west-3
@@ -5077,6 +5141,18 @@ ipv6_prefixes:
   region: me-south-1
   service: AMAZON
 - ipv6_prefix: 2a05:d038:e000:400::/56
+  network_border_group: me-south-1
+  region: me-south-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:e000:100::/56
+  network_border_group: me-south-1
+  region: me-south-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:e000:200::/56
+  network_border_group: me-south-1
+  region: me-south-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d03a:e000:400::/56
   network_border_group: me-south-1
   region: me-south-1
   service: AMAZON
@@ -31321,4 +31397,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1646246000'
+syncToken: '1646249600'
