@@ -1,4 +1,4 @@
-createDate: 2022-03-02-21-03-20
+createDate: 2022-03-02-22-03-26
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -4936,22 +4936,6 @@ ipv6_prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: AMAZON
-- ipv6_prefix: 2a05:d038:4000:100::/56
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:4000:200::/56
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:4000:300::/56
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:4000:400::/56
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: AMAZON
 - ipv6_prefix: 2a05:d03a:4000:100::/56
   network_border_group: eu-central-1
   region: eu-central-1
@@ -4996,10 +4980,6 @@ ipv6_prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
-- ipv6_prefix: 2a05:d038:a000:400::/56
-  network_border_group: eu-south-1
-  region: eu-south-1
-  service: AMAZON
 - ipv6_prefix: 2a05:d03a:a000:100::/56
   network_border_group: eu-south-1
   region: eu-south-1
@@ -5024,10 +5004,6 @@ ipv6_prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: ROUTE53_HEALTHCHECKS
-- ipv6_prefix: 2a05:d038:8000:300::/56
-  network_border_group: eu-west-1
-  region: eu-west-1
-  service: AMAZON
 - ipv6_prefix: 2a05:d03a:8000:100::/56
   network_border_group: eu-west-1
   region: eu-west-1
@@ -5047,22 +5023,6 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d03a:8000::/56
   network_border_group: eu-west-1
   region: eu-west-1
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:c000:100::/56
-  network_border_group: eu-west-2
-  region: eu-west-2
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:c000:200::/56
-  network_border_group: eu-west-2
-  region: eu-west-2
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:c000:300::/56
-  network_border_group: eu-west-2
-  region: eu-west-2
-  service: AMAZON
-- ipv6_prefix: 2a05:d038:c000:400::/56
-  network_border_group: eu-west-2
-  region: eu-west-2
   service: AMAZON
 - ipv6_prefix: 2a05:d03a:c000:100::/56
   network_border_group: eu-west-2
@@ -31357,4 +31317,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1646255000'
+syncToken: '1646258606'
