@@ -1,4 +1,4 @@
-createDate: 2022-03-10-18-43-22
+createDate: 2022-03-14-20-23-21
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -2240,6 +2240,10 @@ ipv6_prefixes:
   network_border_group: eu-south-2
   region: eu-south-2
   service: AMAZON
+- ipv6_prefix: 2600:1ffb:40c0::/46
+  network_border_group: us-west-2
+  region: us-west-2
+  service: AMAZON
 - ipv6_prefix: 2600:1fff:6000::/40
   network_border_group: us-east-2
   region: us-east-2
@@ -4467,6 +4471,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d07f:1000::/40
   network_border_group: eu-south-2
   region: eu-south-2
+  service: EC2
+- ipv6_prefix: 2600:1ffb:40c0::/46
+  network_border_group: us-west-2
+  region: us-west-2
   service: EC2
 - ipv6_prefix: 2600:1fff:6000::/40
   network_border_group: us-east-2
@@ -31357,4 +31365,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1646937802'
+syncToken: '1647289401'
