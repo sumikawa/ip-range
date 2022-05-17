@@ -1,4 +1,4 @@
-createDate: 2022-05-17-17-33-21
+createDate: 2022-05-17-18-33-17
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -5881,6 +5881,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 15.197.36.0/22
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: AMAZON
 - ip_prefix: 15.230.158.0/23
   network_border_group: eu-west-2
   region: eu-west-2
@@ -6637,10 +6641,6 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
-- ip_prefix: 15.197.39.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 15.230.39.34/31
   network_border_group: us-east-2
   region: us-east-2
@@ -7340,10 +7340,6 @@ prefixes:
 - ip_prefix: 13.34.26.96/27
   network_border_group: us-west-2
   region: us-west-2
-  service: AMAZON
-- ip_prefix: 15.197.36.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 15.230.74.192/26
   network_border_group: ap-northeast-2
@@ -13464,10 +13460,6 @@ prefixes:
 - ip_prefix: 13.34.20.96/27
   network_border_group: me-south-1
   region: me-south-1
-  service: AMAZON
-- ip_prefix: 15.197.38.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 15.230.39.74/31
   network_border_group: us-east-2
@@ -21201,10 +21193,6 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
-- ip_prefix: 15.197.37.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: AMAZON
 - ip_prefix: 15.230.94.0/24
   network_border_group: sa-east-1
   region: sa-east-1
@@ -26397,6 +26385,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: GLOBALACCELERATOR
+- ip_prefix: 15.197.36.0/22
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: GLOBALACCELERATOR
 - ip_prefix: 13.248.124.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -26405,10 +26397,6 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: GLOBALACCELERATOR
-- ip_prefix: 15.197.39.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: GLOBALACCELERATOR
 - ip_prefix: 13.248.100.0/24
   network_border_group: eu-north-1
   region: eu-north-1
@@ -26416,10 +26404,6 @@ prefixes:
 - ip_prefix: 13.248.113.0/24
   network_border_group: eu-west-1
   region: eu-west-1
-  service: GLOBALACCELERATOR
-- ip_prefix: 15.197.36.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: GLOBALACCELERATOR
 - ip_prefix: 15.197.32.0/23
   network_border_group: GLOBAL
@@ -26564,10 +26548,6 @@ prefixes:
 - ip_prefix: 99.82.175.0/24
   network_border_group: us-east-1
   region: us-east-1
-  service: GLOBALACCELERATOR
-- ip_prefix: 15.197.38.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: GLOBALACCELERATOR
 - ip_prefix: 3.2.8.0/21
   network_border_group: GLOBAL
@@ -26728,10 +26708,6 @@ prefixes:
 - ip_prefix: 13.248.102.0/24
   network_border_group: ap-southeast-2
   region: ap-southeast-2
-  service: GLOBALACCELERATOR
-- ip_prefix: 15.197.37.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: GLOBALACCELERATOR
 - ip_prefix: 15.197.30.0/23
   network_border_group: GLOBAL
@@ -32125,4 +32101,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1652808801'
+syncToken: '1652812397'
