@@ -1,4 +1,4 @@
-createDate: 2022-05-30-07-53-27
+createDate: 2022-05-31-23-03-26
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -26517,6 +26517,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: GLOBALACCELERATOR
+- ip_prefix: 13.248.110.0/24
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
+  service: GLOBALACCELERATOR
 - ip_prefix: 15.197.32.0/23
   network_border_group: GLOBAL
   region: GLOBAL
@@ -32225,4 +32229,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1653897207'
+syncToken: '1654038206'
