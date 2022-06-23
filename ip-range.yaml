@@ -1,4 +1,4 @@
-createDate: 2022-06-22-22-33-05
+createDate: 2022-06-23-21-43-05
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -651,6 +651,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:9000:ac00::/40
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ipv6_prefix: 2600:f0f0:4000::/44
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2406:daf9:7000::/40
   network_border_group: me-central-1
@@ -3707,6 +3711,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f60:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
+  service: EC2
+- ipv6_prefix: 2600:f0f0:4000::/44
+  network_border_group: us-west-2
+  region: us-west-2
   service: EC2
 - ipv6_prefix: 2620:108:700f::/64
   network_border_group: us-west-2
@@ -18461,6 +18469,10 @@ prefixes:
   network_border_group: me-central-1
   region: me-central-1
   service: AMAZON
+- ip_prefix: 63.246.120.0/21
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: AMAZON
 - ip_prefix: 99.78.196.0/22
   network_border_group: us-west-2
   region: us-west-2
@@ -27033,6 +27045,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: GLOBALACCELERATOR
+- ip_prefix: 63.246.120.0/21
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: GLOBALACCELERATOR
 - ip_prefix: 99.83.99.0/24
   network_border_group: eu-central-1
   region: eu-central-1
@@ -32565,4 +32581,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1655937185'
+syncToken: '1656020585'
