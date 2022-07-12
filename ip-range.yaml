@@ -1,4 +1,4 @@
-createDate: 2022-07-12-10-13-09
+createDate: 2022-07-12-17-23-05
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -26485,6 +26485,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: EC2
+- ip_prefix: 3.3.2.0/24
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: EC2
 - ip_prefix: 3.5.134.0/23
   network_border_group: eu-central-1
   region: eu-central-1
@@ -27213,10 +27217,6 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: GLOBALACCELERATOR
-- ip_prefix: 3.3.2.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: GLOBALACCELERATOR
 - ip_prefix: 15.193.0.0/19
   network_border_group: GLOBAL
   region: GLOBAL
@@ -27356,6 +27356,10 @@ prefixes:
 - ip_prefix: 64.252.64.0/18
   network_border_group: GLOBAL
   region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 52.52.191.128/26
+  network_border_group: us-west-1
+  region: us-west-1
   service: CLOUDFRONT
 - ip_prefix: 99.77.128.0/18
   network_border_group: GLOBAL
@@ -32225,10 +32229,6 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
-- ip_prefix: 52.52.191.128/26
-  network_border_group: us-west-1
-  region: us-west-1
-  service: CLOUDFRONT
 - ip_prefix: 54.183.255.128/26
   network_border_group: us-west-1
   region: us-west-1
@@ -32665,4 +32665,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1657620789'
+syncToken: '1657646585'
