@@ -1,4 +1,4 @@
-createDate: 2022-07-22-08-13-05
+createDate: 2022-07-22-15-03-08
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -18465,6 +18465,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 18.68.0.0/16
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: AMAZON
 - ip_prefix: 43.224.76.44/30
   network_border_group: us-west-2
   region: us-west-2
@@ -27353,6 +27357,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
+- ip_prefix: 18.68.0.0/16
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: CLOUDFRONT
 - ip_prefix: 18.64.0.0/14
   network_border_group: GLOBAL
   region: GLOBAL
@@ -33233,4 +33241,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1658477585'
+syncToken: '1658502188'
