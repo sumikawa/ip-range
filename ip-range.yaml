@@ -1,4 +1,4 @@
-createDate: 2022-07-26-15-33-07
+createDate: 2022-07-26-19-53-05
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -28617,6 +28617,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: S3
+- ip_prefix: 13.246.108.0/22
+  network_border_group: af-south-1
+  region: af-south-1
+  service: WORKSPACES_GATEWAYS
 - ip_prefix: 13.246.70.0/23
   network_border_group: af-south-1
   region: af-south-1
@@ -33285,4 +33289,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1658849587'
+syncToken: '1658865185'
