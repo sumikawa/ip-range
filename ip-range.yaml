@@ -1,4 +1,4 @@
-createDate: 2022-08-01-23-53-08
+createDate: 2022-08-02-16-13-09
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -28405,6 +28405,10 @@ prefixes:
   network_border_group: us-gov-east-1
   region: us-gov-east-1
   service: API_GATEWAY
+- ip_prefix: 18.254.23.64/26
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: AMAZON
 - ip_prefix: 18.254.68.0/23
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -28457,6 +28461,10 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 3.30.98.64/26
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: AMAZON
 - ip_prefix: 3.32.139.0/24
   network_border_group: us-gov-west-1
   region: us-gov-west-1
@@ -33225,6 +33233,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 35.90.103.192/26
+  network_border_group: us-west-2
+  region: us-west-2
+  service: AMAZON
 - ip_prefix: 35.90.132.0/23
   network_border_group: us-west-2
   region: us-west-2
@@ -33405,4 +33417,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1659397988'
+syncToken: '1659456789'
