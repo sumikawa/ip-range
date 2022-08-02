@@ -1,4 +1,4 @@
-createDate: 2022-08-01-22-13-05
+createDate: 2022-08-01-23-53-08
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -33229,6 +33229,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: API_GATEWAY
+- ip_prefix: 35.92.26.0/24
+  network_border_group: us-west-2
+  region: us-west-2
+  service: API_GATEWAY
 - ip_prefix: 44.227.178.0/24
   network_border_group: us-west-2
   region: us-west-2
@@ -33401,4 +33405,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1659391985'
+syncToken: '1659397988'
