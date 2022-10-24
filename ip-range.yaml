@@ -1,4 +1,4 @@
-createDate: 2022-10-21-06-03-08
+createDate: 2022-10-24-18-23-05
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -663,6 +663,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:9000:f400::/40
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ipv6_prefix: 2600:f0f0:0:100::/56
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2a05:d071:9000::/40
   network_border_group: eu-central-2
@@ -4007,6 +4011,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da19::/36
   network_border_group: ap-southeast-3
   region: ap-southeast-3
+  service: EC2
+- ipv6_prefix: 2600:f0f0:0:100::/56
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ipv6_prefix: 2a05:d071:9000::/40
   network_border_group: eu-central-2
@@ -30085,14 +30093,6 @@ prefixes:
   network_border_group: cn-northwest-1
   region: cn-northwest-1
   service: API_GATEWAY
-- ip_prefix: 18.252.4.0/30
-  network_border_group: us-gov-east-1
-  region: us-gov-east-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 15.200.28.80/30
-  network_border_group: us-gov-west-1
-  region: us-gov-west-1
-  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 18.252.126.0/25
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -30125,6 +30125,10 @@ prefixes:
   network_border_group: us-gov-east-1
   region: us-gov-east-1
   service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 18.252.4.0/30
+  network_border_group: us-gov-east-1
+  region: us-gov-east-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 18.252.4.16/29
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -30173,6 +30177,10 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: S3
+- ip_prefix: 15.200.28.80/30
+  network_border_group: us-gov-west-1
+  region: us-gov-west-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 15.200.28.88/29
   network_border_group: us-gov-west-1
   region: us-gov-west-1
@@ -30233,70 +30241,6 @@ prefixes:
   network_border_group: us-gov-west-1
   region: us-gov-west-1
   service: CODEBUILD
-- ip_prefix: 3.112.23.0/29
-  network_border_group: ap-northeast-1
-  region: ap-northeast-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 18.202.216.48/29
-  network_border_group: eu-west-1
-  region: eu-west-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 18.206.107.24/29
-  network_border_group: us-east-1
-  region: us-east-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 18.237.140.160/29
-  network_border_group: us-west-2
-  region: us-west-2
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.52.6.112/29
-  network_border_group: us-west-1
-  region: us-west-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 3.0.5.32/29
-  network_border_group: ap-southeast-1
-  region: ap-southeast-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.233.177.0/29
-  network_border_group: ap-south-1
-  region: ap-south-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 3.120.181.40/29
-  network_border_group: eu-central-1
-  region: eu-central-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 18.228.70.32/29
-  network_border_group: sa-east-1
-  region: sa-east-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.209.1.56/29
-  network_border_group: ap-northeast-2
-  region: ap-northeast-2
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.239.158.0/29
-  network_border_group: ap-southeast-2
-  region: ap-southeast-2
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.48.4.200/30
-  network_border_group: eu-north-1
-  region: eu-north-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 35.180.112.80/29
-  network_border_group: eu-west-3
-  region: eu-west-3
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 3.16.146.0/29
-  network_border_group: us-east-2
-  region: us-east-2
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 3.8.37.24/29
-  network_border_group: eu-west-2
-  region: eu-west-2
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 35.183.92.176/29
-  network_border_group: ca-central-1
-  region: ca-central-1
-  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.244.121.0/26
   network_border_group: af-south-1
   region: af-south-1
@@ -30661,6 +30605,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: API_GATEWAY
+- ip_prefix: 3.112.23.0/29
+  network_border_group: ap-northeast-1
+  region: ap-northeast-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.112.64.0/23
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -30877,6 +30825,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: ROUTE53_RESOLVER
+- ip_prefix: 13.209.1.56/29
+  network_border_group: ap-northeast-2
+  region: ap-northeast-2
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.209.1.8/29
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -31269,6 +31221,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: CLOUD9
+- ip_prefix: 13.233.177.0/29
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.233.177.192/26
   network_border_group: ap-south-1
   region: ap-south-1
@@ -31649,6 +31605,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 3.0.5.32/29
+  network_border_group: ap-southeast-1
+  region: ap-southeast-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 52.220.191.0/26
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -31721,6 +31681,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: CLOUD9
+- ip_prefix: 13.239.158.0/29
+  network_border_group: ap-southeast-2
+  region: ap-southeast-2
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.54.63.128/26
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -32109,6 +32073,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 35.183.92.176/29
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 99.79.126.0/24
   network_border_group: ca-central-1
   region: ca-central-1
@@ -32201,6 +32169,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 3.120.181.40/29
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.122.128.0/23
   network_border_group: eu-central-1
   region: eu-central-1
@@ -32405,6 +32377,10 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: CODEBUILD
+- ip_prefix: 13.48.4.200/30
+  network_border_group: eu-north-1
+  region: eu-north-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.48.4.208/29
   network_border_group: eu-north-1
   region: eu-north-1
@@ -32657,6 +32633,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: CLOUDFRONT
+- ip_prefix: 18.202.216.48/29
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.248.176.0/22
   network_border_group: eu-west-1
   region: eu-west-1
@@ -33057,6 +33037,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 3.8.37.24/29
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.8.37.96/27
   network_border_group: eu-west-2
   region: eu-west-2
@@ -33281,6 +33265,10 @@ prefixes:
   network_border_group: eu-west-3
   region: eu-west-3
   service: ROUTE53_RESOLVER
+- ip_prefix: 35.180.112.80/29
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 35.180.244.0/23
   network_border_group: eu-west-3
   region: eu-west-3
@@ -33553,6 +33541,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 18.228.70.32/29
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 18.229.100.0/26
   network_border_group: sa-east-1
   region: sa-east-1
@@ -33673,6 +33665,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 18.206.107.24/29
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 18.209.113.240/28
   network_border_group: us-east-1
   region: us-east-1
@@ -34545,6 +34541,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 3.16.146.0/29
+  network_border_group: us-east-2
+  region: us-east-2
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 3.17.136.0/23
   network_border_group: us-east-2
   region: us-east-2
@@ -34625,6 +34625,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 13.52.6.112/29
+  network_border_group: us-west-1
+  region: us-west-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.56.112.168/29
   network_border_group: us-west-1
   region: us-west-1
@@ -34813,6 +34817,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON_CONNECT
+- ip_prefix: 18.237.140.160/29
+  network_border_group: us-west-2
+  region: us-west-2
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 34.216.226.136/29
   network_border_group: us-west-2
   region: us-west-2
@@ -35257,4 +35265,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1666332188'
+syncToken: '1666635785'
