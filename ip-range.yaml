@@ -1,4 +1,4 @@
-createDate: 2023-02-02-01-43-08
+createDate: 2023-02-02-05-43-08
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -16604,6 +16604,10 @@ prefixes:
 - ip_prefix: 142.4.160.16/29
   network_border_group: us-west-2-den-1
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 150.222.28.22/31
+  network_border_group: sa-east-1
+  region: sa-east-1
   service: AMAZON
 - ip_prefix: 150.222.83.0/24
   network_border_group: ap-south-1
@@ -35181,4 +35185,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1675302188'
+syncToken: '1675316588'
