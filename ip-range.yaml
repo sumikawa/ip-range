@@ -1,4 +1,4 @@
-createDate: 2023-03-08-12-33-09
+createDate: 2023-03-08-19-13-06
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -23729,6 +23729,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: CHIME_VOICECONNECTOR
+- ip_prefix: 99.77.232.0/24
+  network_border_group: us-west-2
+  region: us-west-2
+  service: CHIME_VOICECONNECTOR
 - ip_prefix: 99.77.246.0/24
   network_border_group: eu-north-1
   region: eu-north-1
@@ -35741,4 +35745,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1678278789'
+syncToken: '1678302786'
