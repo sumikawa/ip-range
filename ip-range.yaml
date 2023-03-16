@@ -1,4 +1,4 @@
-createDate: 2023-03-16-17-53-08
+createDate: 2023-03-16-18-53-12
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -15021,6 +15021,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 142.4.161.104/29
+  network_border_group: ap-southeast-1-mnl-1
+  region: ap-southeast-1
+  service: AMAZON
 - ip_prefix: 150.222.224.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -16460,6 +16464,10 @@ prefixes:
 - ip_prefix: 142.4.160.88/29
   network_border_group: us-east-1-phl-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 142.4.161.112/29
+  network_border_group: ap-southeast-1-sggov-sin-1a
+  region: ap-southeast-1
   service: AMAZON
 - ip_prefix: 150.222.3.218/31
   network_border_group: ap-southeast-1
@@ -22989,6 +22997,10 @@ prefixes:
   network_border_group: us-east-1-chi-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 142.4.161.120/29
+  network_border_group: ap-southeast-1-sggov-sin-1b
+  region: ap-southeast-1
+  service: AMAZON
 - ip_prefix: 150.222.11.76/31
   network_border_group: eu-west-1
   region: eu-west-1
@@ -26833,6 +26845,10 @@ prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: EC2
+- ip_prefix: 142.4.161.104/29
+  network_border_group: ap-southeast-1-mnl-1
+  region: ap-southeast-1
+  service: EC2
 - ip_prefix: 18.189.0.0/16
   network_border_group: us-east-2
   region: us-east-2
@@ -27172,6 +27188,10 @@ prefixes:
 - ip_prefix: 142.4.160.88/29
   network_border_group: us-east-1-phl-1
   region: us-east-1
+  service: EC2
+- ip_prefix: 142.4.161.112/29
+  network_border_group: ap-southeast-1-sggov-sin-1a
+  region: ap-southeast-1
   service: EC2
 - ip_prefix: 18.136.0.0/16
   network_border_group: ap-southeast-1
@@ -28740,6 +28760,10 @@ prefixes:
 - ip_prefix: 96.0.92.0/23
   network_border_group: us-east-1-chi-1
   region: us-east-1
+  service: EC2
+- ip_prefix: 142.4.161.120/29
+  network_border_group: ap-southeast-1-sggov-sin-1b
+  region: ap-southeast-1
   service: EC2
 - ip_prefix: 3.4.24.0/21
   network_border_group: us-gov-east-1
@@ -35805,4 +35829,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1678989188'
+syncToken: '1678992792'
