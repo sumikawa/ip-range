@@ -1,4 +1,4 @@
-createDate: 2023-04-10-14-33-06
+createDate: 2023-04-10-17-33-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -127,10 +127,6 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:e000::/40
   network_border_group: sa-east-1
   region: sa-east-1
-  service: AMAZON
-- ipv6_prefix: 2600:f0f0:1:fd00::/56
-  network_border_group: us-west-2
-  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2406:da70:6000::/40
   network_border_group: ap-northeast-3
@@ -4351,10 +4347,6 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffd:80a7::/48
   network_border_group: eu-central-1
   region: eu-central-1
-  service: EC2
-- ipv6_prefix: 2600:f0f0:1:fd00::/56
-  network_border_group: us-west-2
-  region: us-west-2
   service: EC2
 - ipv6_prefix: 2406:da70:6000::/40
   network_border_group: ap-northeast-3
@@ -13305,6 +13297,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 13.34.95.96/27
+  network_border_group: us-east-2
+  region: us-east-2
+  service: AMAZON
 - ip_prefix: 15.230.39.50/31
   network_border_group: us-east-2
   region: us-east-2
@@ -13897,6 +13893,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 13.34.95.64/27
+  network_border_group: us-east-2
+  region: us-east-2
+  service: AMAZON
 - ip_prefix: 46.137.224.0/19
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -14084,6 +14084,10 @@ prefixes:
 - ip_prefix: 13.34.61.0/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 13.34.95.160/27
+  network_border_group: us-east-2
+  region: us-east-2
   service: AMAZON
 - ip_prefix: 15.221.4.0/23
   network_border_group: us-east-1
@@ -21404,6 +21408,10 @@ prefixes:
 - ip_prefix: 13.34.39.0/27
   network_border_group: eu-central-2
   region: eu-central-2
+  service: AMAZON
+- ip_prefix: 13.34.95.128/27
+  network_border_group: us-east-2
+  region: us-east-2
   service: AMAZON
 - ip_prefix: 15.230.9.44/32
   network_border_group: eu-west-2
@@ -36141,4 +36149,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1681137186'
+syncToken: '1681147990'
