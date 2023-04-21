@@ -1,4 +1,4 @@
-createDate: 2023-04-20-19-23-09
+createDate: 2023-04-21-17-13-09
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -29797,6 +29797,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: GLOBALACCELERATOR
+- ip_prefix: 3.2.49.0/24
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: GLOBALACCELERATOR
 - ip_prefix: 15.197.18.0/23
   network_border_group: GLOBAL
   region: GLOBAL
@@ -29956,6 +29960,14 @@ prefixes:
 - ip_prefix: 15.197.2.0/24
   network_border_group: GLOBAL
   region: GLOBAL
+  service: GLOBALACCELERATOR
+- ip_prefix: 3.2.48.0/24
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: GLOBALACCELERATOR
+- ip_prefix: 3.2.50.0/24
+  network_border_group: us-east-1
+  region: us-east-1
   service: GLOBALACCELERATOR
 - ip_prefix: 99.83.128.0/17
   network_border_group: GLOBAL
@@ -36413,4 +36425,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1682018589'
+syncToken: '1682097189'
