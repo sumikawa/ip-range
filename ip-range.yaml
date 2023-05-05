@@ -1,4 +1,4 @@
-createDate: 2023-05-04-20-43-09
+createDate: 2023-05-04-23-43-09
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff2:4000::/40
   network_border_group: us-west-2
@@ -8201,6 +8201,10 @@ prefixes:
   network_border_group: af-south-1-los-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 142.4.161.168/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 150.222.120.242/31
   network_border_group: eu-central-1
   region: eu-central-1
@@ -10877,6 +10881,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 142.4.161.160/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 150.222.203.0/24
   network_border_group: eu-north-1
   region: eu-north-1
@@ -10936,6 +10944,10 @@ prefixes:
 - ip_prefix: 99.77.138.0/24
   network_border_group: eu-south-1
   region: eu-south-1
+  service: AMAZON
+- ip_prefix: 142.4.161.176/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 150.222.5.0/24
   network_border_group: eu-central-1
@@ -18529,6 +18541,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 142.4.161.152/29
+  network_border_group: us-east-1-atl-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 150.222.3.179/32
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -22945,6 +22961,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: AMAZON
+- ip_prefix: 142.4.161.136/29
+  network_border_group: us-east-1-atl-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 150.222.3.196/31
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -23703,6 +23723,10 @@ prefixes:
   service: AMAZON
 - ip_prefix: 69.107.7.32/29
   network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
+- ip_prefix: 142.4.161.144/29
+  network_border_group: us-east-1-atl-1
   region: us-east-1
   service: AMAZON
 - ip_prefix: 150.222.129.142/31
@@ -25613,6 +25637,10 @@ prefixes:
   network_border_group: af-south-1-los-1
   region: af-south-1
   service: EC2
+- ip_prefix: 142.4.161.168/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
+  service: EC2
 - ip_prefix: 15.181.247.0/24
   network_border_group: us-east-1-atl-1
   region: us-east-1
@@ -26265,6 +26293,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: EC2
+- ip_prefix: 142.4.161.160/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
+  service: EC2
 - ip_prefix: 15.168.0.0/16
   network_border_group: ap-northeast-3
   region: ap-northeast-3
@@ -26276,6 +26308,10 @@ prefixes:
 - ip_prefix: 99.77.138.0/24
   network_border_group: eu-south-1
   region: eu-south-1
+  service: EC2
+- ip_prefix: 142.4.161.176/29
+  network_border_group: eu-central-1-waw-1
+  region: eu-central-1
   service: EC2
 - ip_prefix: 162.250.238.0/23
   network_border_group: us-east-1
@@ -28169,6 +28205,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: EC2
+- ip_prefix: 142.4.161.152/29
+  network_border_group: us-east-1-atl-1
+  region: us-east-1
+  service: EC2
 - ip_prefix: 3.5.144.0/23
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -29221,6 +29261,10 @@ prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: EC2
+- ip_prefix: 142.4.161.136/29
+  network_border_group: us-east-1-atl-1
+  region: us-east-1
+  service: EC2
 - ip_prefix: 52.10.0.0/15
   network_border_group: us-west-2
   region: us-west-2
@@ -29400,6 +29444,10 @@ prefixes:
 - ip_prefix: 99.77.55.255/32
   network_border_group: eu-south-2
   region: eu-south-2
+  service: EC2
+- ip_prefix: 142.4.161.144/29
+  network_border_group: us-east-1-atl-1
+  region: us-east-1
   service: EC2
 - ip_prefix: 3.5.236.0/22
   network_border_group: ap-east-1
@@ -36613,4 +36661,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1683232989'
+syncToken: '1683243789'
