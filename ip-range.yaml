@@ -1,4 +1,4 @@
-createDate: 2023-05-21-05-43-10
+createDate: 2023-05-22-16-03-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -291,6 +291,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da69:b000::/40
   network_border_group: ap-south-2
   region: ap-south-2
+  service: AMAZON
+- ipv6_prefix: 2600:1f25:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2600:1f70:a400:500::/56
   network_border_group: ca-west-1
@@ -1688,6 +1692,10 @@ ipv6_prefixes:
   network_border_group: ap-east-1
   region: ap-east-1
   service: AMAZON
+- ipv6_prefix: 2600:1f1d:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ipv6_prefix: 2409:8c00:2421:400::/56
   network_border_group: GLOBAL
   region: GLOBAL
@@ -2127,6 +2135,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f01:48e0::/47
   network_border_group: me-south-1
   region: me-south-1
+  service: AMAZON
+- ipv6_prefix: 2600:1f15:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2620:107:4000:2::95/128
   network_border_group: us-west-1
@@ -3080,6 +3092,10 @@ ipv6_prefixes:
   network_border_group: ap-southeast-3
   region: ap-southeast-3
   service: AMAZON
+- ipv6_prefix: 2600:1f11:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ipv6_prefix: 2600:1ff2:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -3364,6 +3380,10 @@ ipv6_prefixes:
   network_border_group: ap-southeast-3
   region: ap-southeast-3
   service: AMAZON
+- ipv6_prefix: 2600:1f21:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ipv6_prefix: 2a01:578:3::/48
   network_border_group: eu-west-1
   region: eu-west-1
@@ -3387,6 +3407,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f16:8000::/36
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ipv6_prefix: 2600:1f1e:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2600:1ffd:8143::/48
   network_border_group: ap-northeast-1
@@ -3439,6 +3463,10 @@ ipv6_prefixes:
 - ipv6_prefix: 240f:8018::/36
   network_border_group: cn-north-1
   region: cn-north-1
+  service: AMAZON
+- ipv6_prefix: 2600:1f2d:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2600:1f70:8000::/39
   network_border_group: us-east-1
@@ -4524,6 +4552,10 @@ ipv6_prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: EC2
+- ipv6_prefix: 2600:1f25:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2600:1f70:a400:500::/56
   network_border_group: ca-west-1
   region: ca-west-1
@@ -5416,6 +5448,10 @@ ipv6_prefixes:
   network_border_group: ap-east-1
   region: ap-east-1
   service: EC2
+- ipv6_prefix: 2600:1f1d:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2600:1fff:e000::/40
   network_border_group: sa-east-1
   region: sa-east-1
@@ -5671,6 +5707,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:daf0:8000::/40
   network_border_group: ap-southeast-1
   region: ap-southeast-1
+  service: EC2
+- ipv6_prefix: 2600:1f15:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ipv6_prefix: 2a05:d02a::/36
   network_border_group: eu-south-1
@@ -6312,6 +6352,10 @@ ipv6_prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: EC2
+- ipv6_prefix: 2600:1f11:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2600:1ff2:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
@@ -6492,6 +6536,10 @@ ipv6_prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: EC2
+- ipv6_prefix: 2600:1f21:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2a01:578:3::/48
   network_border_group: eu-west-1
   region: eu-west-1
@@ -6507,6 +6555,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f16:8000::/36
   network_border_group: us-east-2
   region: us-east-2
+  service: EC2
+- ipv6_prefix: 2600:1f1e:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ipv6_prefix: 2600:1ffd:8143::/48
   network_border_group: ap-northeast-1
@@ -6527,6 +6579,10 @@ ipv6_prefixes:
 - ipv6_prefix: 240f:8018::/36
   network_border_group: cn-north-1
   region: cn-north-1
+  service: EC2
+- ipv6_prefix: 2600:1f2d:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ipv6_prefix: 2600:1f70:8000::/39
   network_border_group: us-east-1
@@ -36869,4 +36925,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1684647790'
+syncToken: '1684771389'
