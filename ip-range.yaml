@@ -1,4 +1,4 @@
-createDate: 2023-06-16-13-03-09
+createDate: 2023-06-16-14-03-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -34485,6 +34485,22 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: MEDIA_PACKAGE_V2
+- ip_prefix: 3.253.212.0/22
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ip_prefix: 3.253.216.0/22
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ip_prefix: 3.253.220.0/22
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
+- ip_prefix: 3.253.224.0/22
+  network_border_group: eu-west-1
+  region: eu-west-1
+  service: AMAZON
 - ip_prefix: 34.242.153.128/26
   network_border_group: eu-west-1
   region: eu-west-1
@@ -37333,4 +37349,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1686920589'
+syncToken: '1686924190'
