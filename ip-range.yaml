@@ -1,4 +1,4 @@
-createDate: 2023-06-19-19-33-10
+createDate: 2023-06-19-20-33-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -35057,6 +35057,10 @@ prefixes:
   network_border_group: il-central-1
   region: il-central-1
   service: AMAZON
+- ip_prefix: 51.16.103.16/28
+  network_border_group: il-central-1
+  region: il-central-1
+  service: CODEBUILD
 - ip_prefix: 51.16.104.0/23
   network_border_group: il-central-1
   region: il-central-1
@@ -37369,4 +37373,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1687203190'
+syncToken: '1687206789'
