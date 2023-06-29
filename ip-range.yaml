@@ -1,4 +1,4 @@
-createDate: 2023-06-29-06-43-09
+createDate: 2023-06-29-15-13-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -2948,6 +2948,10 @@ ipv6_prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ipv6_prefix: 2605:9cc0:1ff0:fa00::/56
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: AMAZON
 - ipv6_prefix: 2606:f40:8000::/39
   network_border_group: us-east-1
   region: us-east-1
@@ -3311,6 +3315,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f70:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
+  service: AMAZON
+- ipv6_prefix: 2605:9cc0:1ff0:f800::/56
+  network_border_group: ap-south-1
+  region: ap-south-1
   service: AMAZON
 - ipv6_prefix: 2620:107:4000:5::/64
   network_border_group: us-gov-west-1
@@ -6260,6 +6268,10 @@ ipv6_prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: EC2
+- ipv6_prefix: 2605:9cc0:1ff0:fa00::/56
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: EC2
 - ipv6_prefix: 2606:f40:8000::/39
   network_border_group: us-east-1
   region: us-east-1
@@ -6503,6 +6515,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1f70:5000::/40
   network_border_group: us-gov-east-1
   region: us-gov-east-1
+  service: EC2
+- ipv6_prefix: 2605:9cc0:1ff0:f800::/56
+  network_border_group: ap-south-1
+  region: ap-south-1
   service: EC2
 - ipv6_prefix: 2a05:d035:8000::/40
   network_border_group: eu-west-1
@@ -15152,6 +15168,10 @@ prefixes:
 - ip_prefix: 150.222.208.84/31
   network_border_group: af-south-1
   region: af-south-1
+  service: AMAZON
+- ip_prefix: 161.188.164.0/23
+  network_border_group: us-west-2-den-1
+  region: us-west-2
   service: AMAZON
 - ip_prefix: 3.5.132.0/23
   network_border_group: us-east-2
@@ -27653,6 +27673,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: EC2
+- ip_prefix: 161.188.164.0/23
+  network_border_group: us-west-2-den-1
+  region: us-west-2
+  service: EC2
 - ip_prefix: 3.5.132.0/23
   network_border_group: us-east-2
   region: us-east-2
@@ -37525,4 +37549,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1688020989'
+syncToken: '1688051589'
