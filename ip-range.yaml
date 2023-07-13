@@ -1,4 +1,4 @@
-createDate: 2023-07-13-10-53-06
+createDate: 2023-07-13-12-53-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -7953,6 +7953,10 @@ prefixes:
   network_border_group: ca-west-1
   region: ca-west-1
   service: AMAZON
+- ip_prefix: 15.190.32.0/20
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: AMAZON
 - ip_prefix: 15.230.39.44/31
   network_border_group: us-east-2
   region: us-east-2
@@ -8040,6 +8044,10 @@ prefixes:
 - ip_prefix: 52.95.224.0/24
   network_border_group: eu-south-1
   region: eu-south-1
+  service: AMAZON
+- ip_prefix: 99.151.160.0/21
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: AMAZON
 - ip_prefix: 104.255.59.104/32
   network_border_group: ap-southeast-3
@@ -11149,6 +11157,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: AMAZON
+- ip_prefix: 3.2.37.192/26
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: AMAZON
 - ip_prefix: 13.34.26.64/27
   network_border_group: us-west-2
   region: us-west-2
@@ -11216,6 +11228,10 @@ prefixes:
 - ip_prefix: 150.222.52.0/27
   network_border_group: il-central-1
   region: il-central-1
+  service: AMAZON
+- ip_prefix: 156.4.0.0/15
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: AMAZON
 - ip_prefix: 3.4.9.0/24
   network_border_group: us-east-1
@@ -12633,6 +12649,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.190.4.0/22
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: AMAZON
 - ip_prefix: 15.193.6.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -12961,6 +12981,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 15.177.95.0/24
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: AMAZON
 - ip_prefix: 15.230.9.45/32
   network_border_group: eu-west-2
   region: eu-west-2
@@ -13200,6 +13224,10 @@ prefixes:
 - ip_prefix: 15.230.216.9/32
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 43.216.0.0/15
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: AMAZON
 - ip_prefix: 52.46.224.0/20
   network_border_group: us-gov-west-1
@@ -26121,6 +26149,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: EC2
+- ip_prefix: 99.151.160.0/21
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: EC2
 - ip_prefix: 15.193.3.0/24
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -26917,6 +26949,10 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: EC2
+- ip_prefix: 3.2.37.192/26
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: EC2
 - ip_prefix: 64.252.102.0/24
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -27361,6 +27397,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: EC2
+- ip_prefix: 15.177.95.0/24
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: EC2
 - ip_prefix: 16.62.0.0/15
   network_border_group: eu-central-2
   region: eu-central-2
@@ -27432,6 +27472,10 @@ prefixes:
 - ip_prefix: 15.177.90.0/24
   network_border_group: eu-south-1
   region: eu-south-1
+  service: EC2
+- ip_prefix: 43.216.0.0/15
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: EC2
 - ip_prefix: 54.180.0.0/15
   network_border_group: ap-northeast-2
@@ -31076,6 +31120,10 @@ prefixes:
 - ip_prefix: 15.177.86.0/24
   network_border_group: ap-east-1
   region: ap-east-1
+  service: ROUTE53_HEALTHCHECKS_PUBLISHING
+- ip_prefix: 15.177.95.0/24
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: ROUTE53_HEALTHCHECKS_PUBLISHING
 - ip_prefix: 15.177.89.0/24
   network_border_group: eu-west-1
@@ -37861,4 +37909,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1689245586'
+syncToken: '1689252789'
