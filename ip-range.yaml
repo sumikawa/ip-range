@@ -1,4 +1,4 @@
-createDate: 2023-07-13-19-23-08
+createDate: 2023-07-14-01-23-09
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -31397,6 +31397,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT_ORIGIN_FACING
+- ip_prefix: 3.172.0.0/18
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: CLOUDFRONT_ORIGIN_FACING
 - ip_prefix: 130.176.80.0/22
   network_border_group: GLOBAL
   region: GLOBAL
@@ -37901,4 +37905,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1689276188'
+syncToken: '1689297789'
