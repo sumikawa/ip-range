@@ -1,4 +1,4 @@
-createDate: 2023-08-09-18-23-09
+createDate: 2023-08-10-15-23-10
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -23905,6 +23905,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: S3
+- ip_prefix: 54.222.100.0/22
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: S3
 - ip_prefix: 18.34.72.0/21
   network_border_group: us-east-2
   region: us-east-2
@@ -36789,4 +36793,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1691605389'
+syncToken: '1691680990'
