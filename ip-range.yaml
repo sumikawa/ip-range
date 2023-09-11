@@ -1,4 +1,4 @@
-createDate: 2023-09-11-18-43-07
+createDate: 2023-09-11-20-43-07
 ipv6_prefixes:
 - ipv6_prefix: 2a05:d07a:a000::/40
   network_border_group: eu-south-1
@@ -1700,6 +1700,10 @@ ipv6_prefixes:
   network_border_group: ap-northeast-3
   region: ap-northeast-3
   service: AMAZON
+- ipv6_prefix: 2600:1f1b:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ipv6_prefix: 2600:1ffd:8188::/48
   network_border_group: ca-central-1
   region: ca-central-1
@@ -2855,6 +2859,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da70:7000::/40
   network_border_group: me-central-1
   region: me-central-1
+  service: AMAZON
+- ipv6_prefix: 2600:1f2b:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ipv6_prefix: 2600:1f60:a400::/40
   network_border_group: ca-west-1
@@ -5720,6 +5728,10 @@ ipv6_prefixes:
   network_border_group: ap-northeast-3
   region: ap-northeast-3
   service: EC2
+- ipv6_prefix: 2600:1f1b:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ipv6_prefix: 2600:1ffd:8188::/48
   network_border_group: ca-central-1
   region: ca-central-1
@@ -6451,6 +6463,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:da70:7000::/40
   network_border_group: me-central-1
   region: me-central-1
+  service: EC2
+- ipv6_prefix: 2600:1f2b:4000::/36
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ipv6_prefix: 2600:1f60:a400::/40
   network_border_group: ca-west-1
@@ -31209,6 +31225,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 13.244.121.196/30
+  network_border_group: af-south-1
+  region: af-south-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.244.122.0/24
   network_border_group: af-south-1
   region: af-south-1
@@ -33877,6 +33897,10 @@ prefixes:
   network_border_group: eu-south-1
   region: eu-south-1
   service: AMAZON
+- ip_prefix: 15.161.135.164/30
+  network_border_group: eu-south-1
+  region: eu-south-1
+  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 15.161.135.64/27
   network_border_group: eu-south-1
   region: eu-south-1
@@ -37197,4 +37221,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1694457787'
+syncToken: '1694464987'
