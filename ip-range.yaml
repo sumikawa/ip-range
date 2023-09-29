@@ -1,4 +1,4 @@
-createDate: 2023-09-29-08-33-08
+createDate: 2023-09-29-09-33-06
 ipv6_prefixes:
 - ipv6_prefix: 2605:9cc0:1ff0:500::/56
   network_border_group: us-east-1
@@ -35137,6 +35137,10 @@ prefixes:
   network_border_group: me-central-1
   region: me-central-1
   service: EC2_INSTANCE_CONNECT
+- ip_prefix: 3.29.147.48/28
+  network_border_group: me-central-1
+  region: me-central-1
+  service: S3
 - ip_prefix: 3.29.156.0/22
   network_border_group: me-central-1
   region: me-central-1
@@ -37433,4 +37437,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1695976388'
+syncToken: '1695979986'
