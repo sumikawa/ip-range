@@ -1,4 +1,4 @@
-createDate: 2023-10-03-22-03-07
+createDate: 2023-10-04-07-33-09
 ipv6_prefixes:
 - ipv6_prefix: 2605:9cc0:1ff0:500::/56
   network_border_group: us-east-1
@@ -7945,6 +7945,14 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.29/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.76/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.221.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -8253,6 +8261,14 @@ prefixes:
   network_border_group: ap-northeast-1
   region: ap-northeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.104/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.162/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.73.192/26
   network_border_group: ap-east-1
   region: ap-east-1
@@ -8336,6 +8352,10 @@ prefixes:
 - ip_prefix: 15.220.216.0/22
   network_border_group: ap-south-1-del-2
   region: ap-south-1
+  service: AMAZON
+- ip_prefix: 15.230.15.48/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 35.71.115.0/24
   network_border_group: us-gov-east-1
@@ -8444,6 +8464,14 @@ prefixes:
 - ip_prefix: 15.197.36.0/22
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ip_prefix: 15.230.15.178/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.188/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.158.0/23
   network_border_group: eu-west-2
@@ -8925,6 +8953,14 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.25/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.94/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.206/31
   network_border_group: us-east-2
   region: us-east-2
@@ -9085,6 +9121,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.72/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.108/31
   network_border_group: us-east-2
   region: us-east-2
@@ -9217,6 +9257,10 @@ prefixes:
   network_border_group: us-east-1-atl-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.126/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.241.0/24
   network_border_group: eu-central-1
   region: eu-central-1
@@ -9284,6 +9328,10 @@ prefixes:
 - ip_prefix: 15.230.9.12/31
   network_border_group: eu-west-2
   region: eu-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.118/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.34/31
   network_border_group: us-east-2
@@ -9456,6 +9504,14 @@ prefixes:
 - ip_prefix: 15.230.9.47/32
   network_border_group: eu-west-2
   region: eu-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.164/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.176/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.40.0/24
   network_border_group: us-east-1
@@ -9789,6 +9845,10 @@ prefixes:
   network_border_group: eu-west-3
   region: eu-west-3
   service: AMAZON
+- ip_prefix: 15.230.15.120/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.220/31
   network_border_group: us-east-2
   region: us-east-2
@@ -9905,6 +9965,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.192/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 16.26.0.0/15
   network_border_group: ap-southeast-4
   region: ap-southeast-4
@@ -9948,6 +10012,10 @@ prefixes:
 - ip_prefix: 13.34.83.0/27
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 15.230.15.58/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.74.192/26
   network_border_group: ap-northeast-2
@@ -10061,6 +10129,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.102/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.40/31
   network_border_group: us-east-2
   region: us-east-2
@@ -10116,6 +10188,10 @@ prefixes:
 - ip_prefix: 15.222.0.0/15
   network_border_group: ca-central-1
   region: ca-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.90/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.93.12.0/24
   network_border_group: us-west-2
@@ -10176,6 +10252,14 @@ prefixes:
 - ip_prefix: 15.221.50.0/24
   network_border_group: eu-west-3
   region: eu-west-3
+  service: AMAZON
+- ip_prefix: 15.230.15.52/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.208/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.106.0/24
   network_border_group: eu-west-2
@@ -10449,6 +10533,10 @@ prefixes:
   network_border_group: eu-central-2
   region: eu-central-2
   service: AMAZON
+- ip_prefix: 15.230.15.136/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.2/31
   network_border_group: us-east-2
   region: us-east-2
@@ -10557,6 +10645,14 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.28/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.170/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.57.0/24
   network_border_group: af-south-1
   region: af-south-1
@@ -10604,6 +10700,10 @@ prefixes:
 - ip_prefix: 15.181.112.0/22
   network_border_group: us-east-1-bos-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.32/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.189.128/25
   network_border_group: eu-west-2
@@ -11165,6 +11265,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.160/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 35.182.0.0/15
   network_border_group: ca-central-1
   region: ca-central-1
@@ -11213,6 +11317,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.168/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.104/31
   network_border_group: us-east-2
   region: us-east-2
@@ -11260,6 +11368,10 @@ prefixes:
 - ip_prefix: 13.34.70.0/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.200/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.136/31
   network_border_group: us-east-2
@@ -11417,6 +11529,10 @@ prefixes:
   network_border_group: ap-northeast-3
   region: ap-northeast-3
   service: AMAZON
+- ip_prefix: 15.230.15.30/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.32.0/24
   network_border_group: eu-west-1
   region: eu-west-1
@@ -11565,6 +11681,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: AMAZON
+- ip_prefix: 15.230.15.150/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 16.12.16.0/23
   network_border_group: eu-west-2
   region: eu-west-2
@@ -11697,6 +11817,10 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.74/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.158/31
   network_border_group: us-east-2
   region: us-east-2
@@ -11809,6 +11933,10 @@ prefixes:
   network_border_group: eu-central-1-waw-1
   region: eu-central-1
   service: AMAZON
+- ip_prefix: 15.230.15.8/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.197.0/24
   network_border_group: sa-east-1
   region: sa-east-1
@@ -11860,6 +11988,10 @@ prefixes:
 - ip_prefix: 15.220.232.0/24
   network_border_group: ap-south-1-ccu-2
   region: ap-south-1
+  service: AMAZON
+- ip_prefix: 15.230.15.255/32
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 16.52.0.0/14
   network_border_group: ca-central-1
@@ -12056,6 +12188,10 @@ prefixes:
 - ip_prefix: 15.181.144.0/20
   network_border_group: us-east-1-phl-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.182/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.66/31
   network_border_group: us-east-2
@@ -12713,6 +12849,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.112/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.212/31
   network_border_group: us-east-2
   region: us-east-2
@@ -12933,6 +13073,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.230.15.138/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.254.4/32
   network_border_group: us-east-1
   region: us-east-1
@@ -13016,6 +13160,10 @@ prefixes:
 - ip_prefix: 15.230.9.45/32
   network_border_group: eu-west-2
   region: eu-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.142/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.170/31
   network_border_group: us-east-2
@@ -13153,6 +13301,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.31/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 18.156.0.0/14
   network_border_group: eu-central-1
   region: eu-central-1
@@ -13288,6 +13440,14 @@ prefixes:
 - ip_prefix: 15.220.208.128/26
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.100/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.180/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.122/31
   network_border_group: us-east-2
@@ -13977,6 +14137,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 15.230.15.15/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.50/31
   network_border_group: us-east-2
   region: us-east-2
@@ -14205,6 +14369,14 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.230.15.44/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.172/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.254.0/31
   network_border_group: us-east-1
   region: us-east-1
@@ -14240,6 +14412,10 @@ prefixes:
 - ip_prefix: 15.181.0.0/20
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.64/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.164.0/24
   network_border_group: ap-southeast-1
@@ -14353,6 +14529,10 @@ prefixes:
   network_border_group: us-west-1
   region: us-west-1
   service: AMAZON
+- ip_prefix: 15.230.15.98/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.124/31
   network_border_group: us-east-2
   region: us-east-2
@@ -14424,6 +14604,10 @@ prefixes:
 - ip_prefix: 13.248.121.0/24
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 15.230.15.70/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.166/31
   network_border_group: us-east-2
@@ -14589,6 +14773,10 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.26/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 51.96.0.0/16
   network_border_group: eu-central-2
   region: eu-central-2
@@ -14632,6 +14820,10 @@ prefixes:
 - ip_prefix: 13.34.77.160/27
   network_border_group: eu-west-2
   region: eu-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.152/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.179.8/29
   network_border_group: us-east-2
@@ -14684,6 +14876,10 @@ prefixes:
 - ip_prefix: 13.34.66.192/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.122/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.251.0.3/32
   network_border_group: us-west-1
@@ -14744,6 +14940,10 @@ prefixes:
 - ip_prefix: 15.221.4.0/23
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.202/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.110/31
   network_border_group: us-east-2
@@ -14829,6 +15029,10 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: AMAZON
+- ip_prefix: 15.230.15.5/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.38.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -14884,6 +15088,10 @@ prefixes:
 - ip_prefix: 13.34.89.64/27
   network_border_group: ca-west-1
   region: ca-west-1
+  service: AMAZON
+- ip_prefix: 15.230.15.206/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.174.0/24
   network_border_group: me-south-1
@@ -15029,6 +15237,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.214/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 18.208.0.0/13
   network_border_group: us-east-1
   region: us-east-1
@@ -15089,6 +15301,10 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.130/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.189.0/25
   network_border_group: eu-west-1
   region: eu-west-1
@@ -15140,6 +15356,10 @@ prefixes:
 - ip_prefix: 13.34.92.160/27
   network_border_group: ap-northeast-3
   region: ap-northeast-3
+  service: AMAZON
+- ip_prefix: 15.230.15.116/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.0/31
   network_border_group: us-east-2
@@ -15489,6 +15709,10 @@ prefixes:
   network_border_group: us-west-2-las-1
   region: us-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.50/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.127.115/32
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -15652,6 +15876,10 @@ prefixes:
 - ip_prefix: 13.248.98.0/24
   network_border_group: ap-northeast-1
   region: ap-northeast-1
+  service: AMAZON
+- ip_prefix: 15.230.15.154/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.16/31
   network_border_group: us-east-2
@@ -15964,6 +16192,10 @@ prefixes:
 - ip_prefix: 13.34.12.96/27
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.108/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.170.0/23
   network_border_group: eu-central-2
@@ -16797,6 +17029,14 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.88/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.156/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.66.128/25
   network_border_group: us-east-1
   region: us-east-1
@@ -16957,6 +17197,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.230.15.42/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.52/31
   network_border_group: us-east-2
   region: us-east-2
@@ -17024,6 +17268,10 @@ prefixes:
 - ip_prefix: 15.221.164.0/22
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.174/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.218/31
   network_border_group: us-east-2
@@ -17140,6 +17388,10 @@ prefixes:
 - ip_prefix: 15.177.97.0/24
   network_border_group: eu-south-2
   region: eu-south-2
+  service: AMAZON
+- ip_prefix: 15.230.15.184/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.216/31
   network_border_group: us-east-2
@@ -17288,6 +17540,10 @@ prefixes:
 - ip_prefix: 13.34.83.224/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.46/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 16.12.21.0/24
   network_border_group: eu-south-1
@@ -17553,6 +17809,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: AMAZON
+- ip_prefix: 15.230.15.68/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.109.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -17592,6 +17852,14 @@ prefixes:
 - ip_prefix: 13.34.64.224/27
   network_border_group: il-central-1
   region: il-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.86/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.146/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.68.0/26
   network_border_group: us-west-2
@@ -17648,6 +17916,10 @@ prefixes:
 - ip_prefix: 13.248.128.0/17
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ip_prefix: 15.230.15.24/32
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.19.0/24
   network_border_group: eu-west-1
@@ -17712,6 +17984,14 @@ prefixes:
 - ip_prefix: 13.34.70.128/27
   network_border_group: ap-south-1
   region: ap-south-1
+  service: AMAZON
+- ip_prefix: 15.230.15.27/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.96/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.156.0/24
   network_border_group: eu-west-3
@@ -17828,6 +18108,10 @@ prefixes:
 - ip_prefix: 15.181.248.0/24
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.13/32
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.22/31
   network_border_group: us-east-2
@@ -18092,10 +18376,6 @@ prefixes:
 - ip_prefix: 13.248.48.0/21
   network_border_group: ap-east-1
   region: ap-east-1
-  service: AMAZON
-- ip_prefix: 15.230.15.0/24
-  network_border_group: eu-central-1
-  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.246.0/24
   network_border_group: ap-south-2
@@ -18373,6 +18653,14 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: AMAZON
+- ip_prefix: 15.230.15.9/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.128/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.64/31
   network_border_group: us-east-2
   region: us-east-2
@@ -18601,6 +18889,10 @@ prefixes:
   network_border_group: me-south-1
   region: me-south-1
   service: AMAZON
+- ip_prefix: 15.230.15.190/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.220.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -18765,6 +19057,10 @@ prefixes:
   network_border_group: eu-north-1-hel-1
   region: eu-north-1
   service: AMAZON
+- ip_prefix: 15.230.15.140/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.83.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -18828,6 +19124,18 @@ prefixes:
 - ip_prefix: 13.248.112.0/24
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ip_prefix: 15.230.15.11/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.84/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.110/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.26/31
   network_border_group: us-east-2
@@ -18948,6 +19256,10 @@ prefixes:
 - ip_prefix: 15.221.20.0/22
   network_border_group: ap-southeast-2
   region: ap-southeast-2
+  service: AMAZON
+- ip_prefix: 15.230.15.134/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.70.128/26
   network_border_group: ap-south-1
@@ -19137,6 +19449,14 @@ prefixes:
   network_border_group: us-east-1-nyc-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.106/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.186/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 18.34.48.0/20
   network_border_group: us-west-2
   region: us-west-2
@@ -19210,6 +19530,14 @@ prefixes:
   region: ap-southeast-1
   service: AMAZON
 - ip_prefix: 15.221.3.0/24
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.60/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.166/31
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
@@ -19461,6 +19789,10 @@ prefixes:
   network_border_group: eu-south-2
   region: eu-south-2
   service: AMAZON
+- ip_prefix: 15.230.15.114/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.251.0.23/32
   network_border_group: sa-east-1
   region: sa-east-1
@@ -19669,6 +20001,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.204/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.248.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -19772,6 +20108,10 @@ prefixes:
 - ip_prefix: 13.34.75.128/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.62/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.202/31
   network_border_group: us-east-2
@@ -19910,6 +20250,10 @@ prefixes:
   region: us-west-2
   service: AMAZON
 - ip_prefix: 13.248.123.0/24
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.38/31
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
@@ -20120,6 +20464,10 @@ prefixes:
 - ip_prefix: 13.34.58.96/27
   network_border_group: us-west-1
   region: us-west-1
+  service: AMAZON
+- ip_prefix: 15.230.15.10/32
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 52.62.0.0/15
   network_border_group: ap-southeast-2
@@ -20649,6 +20997,14 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.7/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.216/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.198/31
   network_border_group: us-east-2
   region: us-east-2
@@ -20824,6 +21180,10 @@ prefixes:
 - ip_prefix: 15.221.40.0/21
   network_border_group: sa-east-1
   region: sa-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.4/32
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.144/31
   network_border_group: us-east-2
@@ -21117,6 +21477,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 15.230.15.254/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 52.93.127.138/32
   network_border_group: eu-central-1
   region: eu-central-1
@@ -21180,6 +21544,14 @@ prefixes:
 - ip_prefix: 15.221.146.0/23
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.54/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.210/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.156/31
   network_border_group: us-east-2
@@ -21521,6 +21893,10 @@ prefixes:
   network_border_group: eu-central-2
   region: eu-central-2
   service: AMAZON
+- ip_prefix: 15.230.15.218/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.228/31
   network_border_group: us-east-2
   region: us-east-2
@@ -21581,6 +21957,14 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ip_prefix: 15.230.15.14/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.148/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.90/31
   network_border_group: us-east-2
   region: us-east-2
@@ -21636,6 +22020,14 @@ prefixes:
 - ip_prefix: 15.230.4.150/31
   network_border_group: ap-southeast-1
   region: ap-southeast-1
+  service: AMAZON
+- ip_prefix: 15.230.15.0/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.40/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.28.0/24
   network_border_group: us-west-1
@@ -21704,6 +22096,10 @@ prefixes:
 - ip_prefix: 13.35.0.0/16
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ip_prefix: 15.230.15.56/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.178/31
   network_border_group: us-east-2
@@ -21784,6 +22180,10 @@ prefixes:
 - ip_prefix: 13.34.29.192/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.158/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.73.0/26
   network_border_group: sa-east-1
@@ -22557,6 +22957,14 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.230.15.6/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.132/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.56.0/24
   network_border_group: us-east-1
   region: us-east-1
@@ -22756,6 +23164,10 @@ prefixes:
 - ip_prefix: 13.248.126.0/24
   network_border_group: ca-central-1
   region: ca-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.82/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.120/31
   network_border_group: us-east-2
@@ -22968,6 +23380,10 @@ prefixes:
 - ip_prefix: 15.177.91.0/24
   network_border_group: af-south-1
   region: af-south-1
+  service: AMAZON
+- ip_prefix: 15.230.15.194/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.102/31
   network_border_group: us-east-2
@@ -23249,6 +23665,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: AMAZON
+- ip_prefix: 15.230.15.16/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.172/31
   network_border_group: us-east-2
   region: us-east-2
@@ -23340,6 +23760,14 @@ prefixes:
 - ip_prefix: 3.33.128.0/17
   network_border_group: GLOBAL
   region: GLOBAL
+  service: AMAZON
+- ip_prefix: 15.230.15.36/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.78/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.209.0/24
   network_border_group: ap-southeast-1
@@ -23449,6 +23877,10 @@ prefixes:
   network_border_group: ap-southeast-1
   region: ap-southeast-1
   service: AMAZON
+- ip_prefix: 15.230.15.66/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.107.2/31
   network_border_group: ap-southeast-2
   region: ap-southeast-2
@@ -23521,6 +23953,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: AMAZON
+- ip_prefix: 15.230.15.34/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.43.0/24
   network_border_group: eu-west-2
   region: eu-west-2
@@ -23576,6 +24012,10 @@ prefixes:
 - ip_prefix: 15.181.243.0/24
   network_border_group: us-east-1-phl-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 15.230.15.144/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.23.0/24
   network_border_group: ap-southeast-2
@@ -24017,6 +24457,10 @@ prefixes:
   network_border_group: af-south-1
   region: af-south-1
   service: AMAZON
+- ip_prefix: 15.230.15.92/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.94.0/24
   network_border_group: sa-east-1
   region: sa-east-1
@@ -24064,6 +24508,10 @@ prefixes:
 - ip_prefix: 13.34.50.64/27
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ip_prefix: 15.230.15.212/31
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ip_prefix: 15.230.39.58/31
   network_border_group: us-east-2
@@ -24317,6 +24765,10 @@ prefixes:
   network_border_group: us-west-2-den-1
   region: us-west-2
   service: AMAZON
+- ip_prefix: 15.230.15.124/31
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
 - ip_prefix: 15.230.39.86/31
   network_border_group: us-east-2
   region: us-east-2
@@ -24446,6 +24898,14 @@ prefixes:
   region: ap-south-1
   service: AMAZON
 - ip_prefix: 15.177.68.0/23
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.3/32
+  network_border_group: eu-central-1
+  region: eu-central-1
+  service: AMAZON
+- ip_prefix: 15.230.15.80/31
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
@@ -37813,4 +38273,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1696370587'
+syncToken: '1696404789'
