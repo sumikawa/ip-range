@@ -1,4 +1,4 @@
-createDate: 2023-10-27-07-43-08
+createDate: 2023-10-27-20-43-10
 ipv6_prefixes:
 - ipv6_prefix: 2605:9cc0:1ff0:500::/56
   network_border_group: us-east-1
@@ -33793,6 +33793,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: ROUTE53_RESOLVER
+- ip_prefix: 13.200.140.0/23
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: API_GATEWAY
 - ip_prefix: 13.200.7.128/29
   network_border_group: ap-south-1
   region: ap-south-1
@@ -38893,4 +38897,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1698392588'
+syncToken: '1698439390'
