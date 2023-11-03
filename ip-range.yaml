@@ -1,4 +1,4 @@
-createDate: 2023-11-02-23-43-10
+createDate: 2023-11-03-09-43-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -36769,6 +36769,10 @@ prefixes:
   network_border_group: me-central-1
   region: me-central-1
   service: CLOUDFRONT
+- ip_prefix: 51.112.11.64/28
+  network_border_group: me-central-1
+  region: me-central-1
+  service: S3
 - ip_prefix: 15.184.1.128/26
   network_border_group: me-south-1
   region: me-south-1
@@ -39089,4 +39093,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1698968590'
+syncToken: '1699004587'
