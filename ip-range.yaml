@@ -1,4 +1,4 @@
-createDate: 2023-12-20-22-13-07
+createDate: 2023-12-21-19-13-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -1228,6 +1228,10 @@ ipv6_prefixes:
   network_border_group: ca-central-1
   region: ca-central-1
   service: AMAZON
+- ipv6_prefix: 2620:107:4000:9900:50:81::/96
+  network_border_group: us-west-2
+  region: us-west-2
+  service: AMAZON
 - ipv6_prefix: 2600:1f12:4000::/36
   network_border_group: us-east-1
   region: us-east-1
@@ -1831,6 +1835,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2620:107:4000:4204::/64
   network_border_group: us-west-1
   region: us-west-1
+  service: AMAZON
+- ipv6_prefix: 2620:107:4000:9900:50:82::/96
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2600:1f10:4000::/36
   network_border_group: us-east-1
@@ -2467,6 +2475,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2606:f40:a100::/40
   network_border_group: eu-south-2
   region: eu-south-2
+  service: AMAZON
+- ipv6_prefix: 2620:107:4000:9900:50:83::/96
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2a05:d078:1000::/40
   network_border_group: eu-south-2
@@ -39773,4 +39785,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1703110387'
+syncToken: '1703185987'
