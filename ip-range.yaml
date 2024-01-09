@@ -1,4 +1,4 @@
-createDate: 2024-01-09-15-53-07
+createDate: 2024-01-09-19-53-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -31837,19 +31837,11 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: EC2
-- ip_prefix: 205.251.201.0/24
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: ROUTE53
 - ip_prefix: 52.95.110.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: ROUTE53
 - ip_prefix: 205.251.192.0/21
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: ROUTE53
-- ip_prefix: 205.251.200.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: ROUTE53
@@ -31970,6 +31962,10 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 58.254.138.0/25
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 205.251.201.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -32162,6 +32158,10 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 52.124.128.0/17
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: CLOUDFRONT
+- ip_prefix: 205.251.200.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -39837,4 +39837,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1704815587'
+syncToken: '1704829987'
