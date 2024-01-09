@@ -1,4 +1,4 @@
-createDate: 2024-01-08-23-53-10
+createDate: 2024-01-09-15-53-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -8692,10 +8692,6 @@ prefixes:
 - ip_prefix: 150.222.252.248/31
   network_border_group: us-west-1
   region: us-west-1
-  service: AMAZON
-- ip_prefix: 216.221.160.0/19
-  network_border_group: GLOBAL
-  region: GLOBAL
   service: AMAZON
 - ip_prefix: 13.34.71.0/27
   network_border_group: ap-northeast-2
@@ -27361,10 +27357,6 @@ prefixes:
   network_border_group: ap-southeast-2-akl-1
   region: ap-southeast-2
   service: EC2
-- ip_prefix: 216.221.160.0/19
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: EC2
 - ip_prefix: 52.4.0.0/14
   network_border_group: us-east-1
   region: us-east-1
@@ -31845,11 +31837,19 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: EC2
+- ip_prefix: 205.251.201.0/24
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: ROUTE53
 - ip_prefix: 52.95.110.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: ROUTE53
 - ip_prefix: 205.251.192.0/21
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: ROUTE53
+- ip_prefix: 205.251.200.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: ROUTE53
@@ -31970,10 +31970,6 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 58.254.138.0/25
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 205.251.201.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -32166,10 +32162,6 @@ prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ip_prefix: 52.124.128.0/17
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: CLOUDFRONT
-- ip_prefix: 205.251.200.0/24
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -39845,4 +39837,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1704757990'
+syncToken: '1704815587'
