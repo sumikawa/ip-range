@@ -1,4 +1,4 @@
-createDate: 2024-01-17-21-53-10
+createDate: 2024-01-18-15-53-11
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -37576,6 +37576,10 @@ prefixes:
 - ip_prefix: 3.29.57.0/26
   network_border_group: me-central-1
   region: me-central-1
+  service: CLOUDFRONT_ORIGIN_FACING
+- ip_prefix: 3.29.57.0/26
+  network_border_group: me-central-1
+  region: me-central-1
   service: CLOUDFRONT
 - ip_prefix: 3.29.89.0/24
   network_border_group: me-central-1
@@ -39921,4 +39925,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1705528390'
+syncToken: '1705593191'
