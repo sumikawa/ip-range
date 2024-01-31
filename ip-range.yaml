@@ -1,4 +1,4 @@
-createDate: 2024-01-30-22-43-09
+createDate: 2024-01-31-00-43-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -7925,6 +7925,10 @@ ipv6_prefixes:
   region: cn-north-1
   service: ROUTE53_HEALTHCHECKS
 - ipv6_prefix: 2400:7fc0:83cc:ce00::/56
+  network_border_group: cn-north-1
+  region: cn-north-1
+  service: ROUTE53_HEALTHCHECKS
+- ipv6_prefix: 2400:7fc0:8e66:5a00::/56
   network_border_group: cn-north-1
   region: cn-north-1
   service: ROUTE53_HEALTHCHECKS
@@ -40865,4 +40869,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1706654589'
+syncToken: '1706661787'
