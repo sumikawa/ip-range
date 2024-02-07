@@ -1,4 +1,4 @@
-createDate: 2024-02-06-19-53-07
+createDate: 2024-02-07-16-53-09
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -28413,10 +28413,6 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: EC2
-- ip_prefix: 15.197.64.0/19
-  network_border_group: GLOBAL
-  region: GLOBAL
-  service: EC2
 - ip_prefix: 54.156.0.0/14
   network_border_group: us-east-1
   region: us-east-1
@@ -33056,6 +33052,10 @@ prefixes:
 - ip_prefix: 13.248.119.0/24
   network_border_group: eu-west-1
   region: eu-west-1
+  service: GLOBALACCELERATOR
+- ip_prefix: 15.197.64.0/19
+  network_border_group: GLOBAL
+  region: GLOBAL
   service: GLOBALACCELERATOR
 - ip_prefix: 13.248.100.0/24
   network_border_group: eu-north-1
@@ -40909,4 +40909,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1707249187'
+syncToken: '1707324789'
