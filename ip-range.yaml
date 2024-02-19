@@ -1,4 +1,4 @@
-createDate: 2024-02-19-15-53-10
+createDate: 2024-02-19-16-53-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -37197,22 +37197,6 @@ prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.48.4.200/32
-  network_border_group: eu-north-1
-  region: eu-north-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.48.4.201/32
-  network_border_group: eu-north-1
-  region: eu-north-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.48.4.202/32
-  network_border_group: eu-north-1
-  region: eu-north-1
-  service: EC2_INSTANCE_CONNECT
-- ip_prefix: 13.48.4.203/32
-  network_border_group: eu-north-1
-  region: eu-north-1
-  service: EC2_INSTANCE_CONNECT
 - ip_prefix: 13.48.4.208/29
   network_border_group: eu-north-1
   region: eu-north-1
@@ -40989,4 +40973,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1708357990'
+syncToken: '1708361590'
