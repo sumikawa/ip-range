@@ -1,4 +1,4 @@
-createDate: 2024-02-24-02-53-10
+createDate: 2024-02-24-04-53-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -40021,6 +40021,22 @@ prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: CLOUDFRONT
+- ip_prefix: 44.220.196.0/23
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 44.220.198.0/23
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 44.220.200.0/23
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
+- ip_prefix: 44.220.202.0/23
+  network_border_group: us-east-1
+  region: us-east-1
+  service: CLOUDFRONT
 - ip_prefix: 44.220.25.0/25
   network_border_group: us-east-1
   region: us-east-1
@@ -41153,4 +41169,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1708743190'
+syncToken: '1708750390'
