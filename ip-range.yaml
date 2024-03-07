@@ -1,4 +1,4 @@
-createDate: 2024-03-06-20-33-10
+createDate: 2024-03-07-12-03-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -35005,6 +35005,10 @@ prefixes:
   network_border_group: ap-south-1
   region: ap-south-1
   service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 13.201.231.0/24
+  network_border_group: ap-south-1
+  region: ap-south-1
+  service: AMAZON
 - ip_prefix: 13.232.67.128/27
   network_border_group: ap-south-1
   region: ap-south-1
@@ -40685,4 +40689,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1709757190'
+syncToken: '1709812987'
