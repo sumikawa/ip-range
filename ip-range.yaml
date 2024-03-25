@@ -1,4 +1,4 @@
-createDate: 2024-03-21-05-33-10
+createDate: 2024-03-25-02-33-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -39297,6 +39297,14 @@ prefixes:
   network_border_group: eu-west-2
   region: eu-west-2
   service: KINESIS_VIDEO_STREAMS
+- ip_prefix: 18.175.65.0/24
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CLOUDFRONT
+- ip_prefix: 18.175.66.0/24
+  network_border_group: eu-west-2
+  region: eu-west-2
+  service: CLOUDFRONT
 - ip_prefix: 3.10.127.32/27
   network_border_group: eu-west-2
   region: eu-west-2
@@ -42405,4 +42413,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1710999190'
+syncToken: '1711333987'
