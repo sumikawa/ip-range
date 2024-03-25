@@ -1,4 +1,4 @@
-createDate: 2024-03-25-11-33-07
+createDate: 2024-03-25-12-33-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -29897,6 +29897,10 @@ prefixes:
   network_border_group: eu-west-1
   region: eu-west-1
   service: EC2
+- ip_prefix: 99.77.55.46/32
+  network_border_group: eu-south-2
+  region: eu-south-2
+  service: EC2
 - ip_prefix: 151.148.40.0/24
   network_border_group: ap-northeast-2
   region: ap-northeast-2
@@ -29988,6 +29992,10 @@ prefixes:
 - ip_prefix: 54.229.0.0/16
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ip_prefix: 99.77.55.41/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 136.18.0.0/23
   network_border_group: us-gov-west-1
@@ -30480,6 +30488,10 @@ prefixes:
 - ip_prefix: 64.252.108.0/24
   network_border_group: ap-southeast-2
   region: ap-southeast-2
+  service: EC2
+- ip_prefix: 99.77.55.43/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 99.77.156.0/24
   network_border_group: eu-west-2
@@ -31233,6 +31245,10 @@ prefixes:
   network_border_group: eu-south-2
   region: eu-south-2
   service: EC2
+- ip_prefix: 99.77.55.40/32
+  network_border_group: eu-south-2
+  region: eu-south-2
+  service: EC2
 - ip_prefix: 3.5.180.0/22
   network_border_group: ap-southeast-5
   region: ap-southeast-5
@@ -31288,6 +31304,10 @@ prefixes:
 - ip_prefix: 64.252.117.0/24
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ip_prefix: 99.77.55.47/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 99.151.104.0/21
   network_border_group: ap-southeast-1
@@ -31460,6 +31480,10 @@ prefixes:
 - ip_prefix: 46.51.216.0/21
   network_border_group: ap-southeast-1
   region: ap-southeast-1
+  service: EC2
+- ip_prefix: 99.77.55.44/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 136.18.132.0/23
   network_border_group: us-east-1
@@ -31900,6 +31924,10 @@ prefixes:
 - ip_prefix: 96.0.56.0/22
   network_border_group: us-east-1-scl-1
   region: us-east-1
+  service: EC2
+- ip_prefix: 99.77.55.45/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 15.220.204.0/24
   network_border_group: us-west-2-den-1
@@ -32700,6 +32728,10 @@ prefixes:
 - ip_prefix: 35.152.0.0/16
   network_border_group: eu-south-1
   region: eu-south-1
+  service: EC2
+- ip_prefix: 99.77.55.42/32
+  network_border_group: eu-south-2
+  region: eu-south-2
   service: EC2
 - ip_prefix: 99.150.0.0/21
   network_border_group: us-east-2
@@ -42445,4 +42477,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1711366387'
+syncToken: '1711369990'
