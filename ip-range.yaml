@@ -1,4 +1,4 @@
-createDate: 2024-03-29-00-43-07
+createDate: 2024-03-29-12-43-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:2::/48
   network_border_group: us-east-1
@@ -40449,6 +40449,14 @@ prefixes:
   network_border_group: sa-east-1
   region: sa-east-1
   service: WORKSPACES_GATEWAYS
+- ip_prefix: 18.230.229.0/24
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: CLOUDFRONT
+- ip_prefix: 18.230.230.0/25
+  network_border_group: sa-east-1
+  region: sa-east-1
+  service: CLOUDFRONT
 - ip_prefix: 18.230.46.0/27
   network_border_group: sa-east-1
   region: sa-east-1
@@ -42705,4 +42713,4 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: ROUTE53_HEALTHCHECKS
-syncToken: '1711672987'
+syncToken: '1711716190'
