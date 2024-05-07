@@ -1,4 +1,4 @@
-createDate: 2024-05-06-20-03-10
+createDate: 2024-05-07-04-33-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:81d0::/46
   network_border_group: us-east-1
@@ -1483,6 +1483,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffb:60c0::/48
   network_border_group: us-east-2
   region: us-east-2
+  service: AMAZON
+- ipv6_prefix: 2606:7b40:f000:100::/60
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2a05:d03a:5000:300::/56
   network_border_group: il-central-1
@@ -6711,6 +6715,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:1ffb:60c0::/48
   network_border_group: us-east-2
   region: us-east-2
+  service: EC2
+- ipv6_prefix: 2606:7b40:f000:100::/60
+  network_border_group: us-west-2
+  region: us-west-2
   service: EC2
 - ipv6_prefix: 2a05:d03a:5000:300::/56
   network_border_group: il-central-1
@@ -29953,6 +29961,10 @@ prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: AMAZON
+- ip_prefix: 15.230.121.0/31
+  network_border_group: me-south-1
+  region: me-south-1
+  service: AMAZON
 - ip_prefix: 15.230.209.0/24
   network_border_group: ap-southeast-1
   region: ap-southeast-1
@@ -39453,6 +39465,10 @@ prefixes:
   network_border_group: GLOBAL
   region: GLOBAL
   service: GLOBALACCELERATOR
+- ip_prefix: 99.83.97.0/24
+  network_border_group: us-west-1
+  region: us-west-1
+  service: GLOBALACCELERATOR
 - ip_prefix: 13.248.100.0/24
   network_border_group: eu-north-1
   region: eu-north-1
@@ -45589,4 +45605,4 @@ prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: DYNAMODB
-syncToken: '1715025790'
+syncToken: '1715056387'
