@@ -1,4 +1,4 @@
-createDate: 2024-05-13-18-43-10
+createDate: 2024-05-13-19-43-07
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:81d0::/46
   network_border_group: us-east-1
@@ -16577,6 +16577,10 @@ prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ip_prefix: 18.96.0.0/24
+  network_border_group: us-east-1
+  region: us-east-1
+  service: AMAZON
 - ip_prefix: 35.71.128.0/17
   network_border_group: GLOBAL
   region: GLOBAL
@@ -20356,6 +20360,10 @@ prefixes:
 - ip_prefix: 15.220.146.0/23
   network_border_group: me-south-1-mct-1
   region: me-south-1
+  service: AMAZON
+- ip_prefix: 18.96.2.0/24
+  network_border_group: us-east-1
+  region: us-east-1
   service: AMAZON
 - ip_prefix: 52.93.126.205/32
   network_border_group: ap-south-1
@@ -35909,6 +35917,10 @@ prefixes:
   network_border_group: us-west-2
   region: us-west-2
   service: EC2
+- ip_prefix: 18.96.0.0/24
+  network_border_group: us-east-1
+  region: us-east-1
+  service: EC2
 - ip_prefix: 43.204.0.0/15
   network_border_group: ap-south-1
   region: ap-south-1
@@ -36592,6 +36604,10 @@ prefixes:
 - ip_prefix: 15.220.146.0/23
   network_border_group: me-south-1-mct-1
   region: me-south-1
+  service: EC2
+- ip_prefix: 18.96.2.0/24
+  network_border_group: us-east-1
+  region: us-east-1
   service: EC2
 - ip_prefix: 52.95.246.0/24
   network_border_group: us-west-1
@@ -45625,4 +45641,4 @@ prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: DYNAMODB
-syncToken: '1715625790'
+syncToken: '1715629387'
