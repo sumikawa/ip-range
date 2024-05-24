@@ -1,4 +1,4 @@
-createDate: 2024-05-23-12-43-09
+createDate: 2024-05-23-22-43-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:81d0::/46
   network_border_group: us-east-1
@@ -3668,6 +3668,10 @@ ipv6_prefixes:
   network_border_group: eu-north-1
   region: eu-north-1
   service: AMAZON
+- ipv6_prefix: 2606:7b40:10ff:d210::/60
+  network_border_group: us-west-2
+  region: us-west-2
+  service: AMAZON
 - ipv6_prefix: 2600:1f69:a400::/40
   network_border_group: ca-west-1
   region: ca-west-1
@@ -4483,6 +4487,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d072:8000::/40
   network_border_group: eu-west-1
   region: eu-west-1
+  service: AMAZON
+- ipv6_prefix: 2606:7b40:10ff:f210::/60
+  network_border_group: us-west-2
+  region: us-west-2
   service: AMAZON
 - ipv6_prefix: 2400:7fc0:4000:100::/56
   network_border_group: cn-north-1
@@ -8072,6 +8080,10 @@ ipv6_prefixes:
   network_border_group: us-west-2-wl1-sfo-wlz-1
   region: us-west-2
   service: EC2
+- ipv6_prefix: 2606:7b40:10ff:d210::/60
+  network_border_group: us-west-2
+  region: us-west-2
+  service: EC2
 - ipv6_prefix: 2600:1f69:a400::/40
   network_border_group: ca-west-1
   region: ca-west-1
@@ -8635,6 +8647,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d072:8000::/40
   network_border_group: eu-west-1
   region: eu-west-1
+  service: EC2
+- ipv6_prefix: 2606:7b40:10ff:f210::/60
+  network_border_group: us-west-2
+  region: us-west-2
   service: EC2
 - ipv6_prefix: 2600:9000:3000::/36
   network_border_group: GLOBAL
@@ -45985,4 +46001,4 @@ prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: DYNAMODB
-syncToken: '1716468189'
+syncToken: '1716504190'
