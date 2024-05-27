@@ -1,6 +1,6 @@
 {
-  "syncToken": "1716592989",
-  "createDate": "2024-05-24-23-23-09",
+  "syncToken": "1716784390",
+  "createDate": "2024-05-27-04-33-10",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -29475,6 +29475,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "150.222.52.192/27",
+      "region": "ap-southeast-5",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-5"
+    },
+    {
       "ip_prefix": "176.34.128.0/17",
       "region": "eu-west-1",
       "service": "AMAZON",
@@ -57677,6 +57683,12 @@
       "network_border_group": "ap-east-1"
     },
     {
+      "ipv6_prefix": "2406:dab8:a000::/40",
+      "region": "ap-south-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-south-1"
+    },
+    {
       "ipv6_prefix": "2406:daf8:b000::/40",
       "region": "ap-south-2",
       "service": "AMAZON",
@@ -60531,6 +60543,12 @@
       "region": "me-central-1",
       "service": "AMAZON",
       "network_border_group": "me-central-1"
+    },
+    {
+      "ipv6_prefix": "2406:daf5:a000::/40",
+      "region": "ap-south-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-south-1"
     },
     {
       "ipv6_prefix": "2600:1f2b:4000::/36",
@@ -65549,6 +65567,12 @@
       "network_border_group": "ap-east-1"
     },
     {
+      "ipv6_prefix": "2406:dab8:a000::/40",
+      "region": "ap-south-1",
+      "service": "EC2",
+      "network_border_group": "ap-south-1"
+    },
+    {
       "ipv6_prefix": "2a05:d030:4000::/40",
       "region": "eu-central-1",
       "service": "EC2",
@@ -67383,6 +67407,12 @@
       "region": "me-central-1",
       "service": "EC2",
       "network_border_group": "me-central-1"
+    },
+    {
+      "ipv6_prefix": "2406:daf5:a000::/40",
+      "region": "ap-south-1",
+      "service": "EC2",
+      "network_border_group": "ap-south-1"
     },
     {
       "ipv6_prefix": "2600:1f2b:4000::/36",
