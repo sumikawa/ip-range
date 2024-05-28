@@ -1,4 +1,4 @@
-createDate: 2024-05-27-04-33-10
+createDate: 2024-05-28-18-33-09
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:81d0::/46
   network_border_group: us-east-1
@@ -3111,6 +3111,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:0:214::/62
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ipv6_prefix: 2620:107:3002::/64
+  network_border_group: ca-central-1
+  region: ca-central-1
   service: AMAZON
 - ipv6_prefix: 2a05:d078:a000::/40
   network_border_group: eu-south-1
@@ -7736,6 +7740,10 @@ ipv6_prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: EC2
+- ipv6_prefix: 2620:107:3002::/64
+  network_border_group: ca-central-1
+  region: ca-central-1
+  service: EC2
 - ipv6_prefix: 2600:1f25:8000::/36
   network_border_group: us-east-1
   region: us-east-1
@@ -9893,6 +9901,10 @@ prefixes:
   network_border_group: ap-southeast-3
   region: ap-southeast-3
   service: AMAZON
+- ip_prefix: 150.222.52.224/27
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
+  service: AMAZON
 - ip_prefix: 13.34.8.136/32
   network_border_group: us-east-1
   region: us-east-1
@@ -10908,6 +10920,10 @@ prefixes:
 - ip_prefix: 136.18.128.0/23
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 150.222.53.0/27
+  network_border_group: ap-southeast-5
+  region: ap-southeast-5
   service: AMAZON
 - ip_prefix: 208.78.132.0/23
   network_border_group: eu-west-2
@@ -26381,6 +26397,10 @@ prefixes:
   network_border_group: ap-southeast-2
   region: ap-southeast-2
   service: AMAZON
+- ip_prefix: 13.34.125.128/27
+  network_border_group: us-west-1
+  region: us-west-1
+  service: AMAZON
 - ip_prefix: 15.177.98.0/24
   network_border_group: eu-central-2
   region: eu-central-2
@@ -27916,6 +27936,10 @@ prefixes:
 - ip_prefix: 13.34.98.96/27
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ip_prefix: 13.34.125.160/27
+  network_border_group: us-west-1
+  region: us-west-1
   service: AMAZON
 - ip_prefix: 15.230.4.150/31
   network_border_group: ap-southeast-1
@@ -46061,4 +46085,4 @@ prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: DYNAMODB
-syncToken: '1716784390'
+syncToken: '1716921189'
