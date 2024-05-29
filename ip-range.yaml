@@ -1,4 +1,4 @@
-createDate: 2024-05-28-18-33-09
+createDate: 2024-05-29-17-33-10
 ipv6_prefixes:
 - ipv6_prefix: 2600:1ff9:81d0::/46
   network_border_group: us-east-1
@@ -327,6 +327,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2a05:d035:5000::/40
   network_border_group: il-central-1
   region: il-central-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d038:e000::/48
+  network_border_group: me-south-1
+  region: me-south-1
   service: AMAZON
 - ipv6_prefix: 2a05:d050:2000::/40
   network_border_group: eu-west-3
@@ -1188,6 +1192,10 @@ ipv6_prefixes:
   network_border_group: us-east-1
   region: us-east-1
   service: AMAZON
+- ipv6_prefix: 2406:da38:1000::/48
+  network_border_group: af-south-1
+  region: af-south-1
+  service: AMAZON
 - ipv6_prefix: 2600:1ffd:8149::/48
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -1507,6 +1515,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:daff:7000::/40
   network_border_group: me-central-1
   region: me-central-1
+  service: AMAZON
+- ipv6_prefix: 2406:da38:9000::/48
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
   service: AMAZON
 - ipv6_prefix: 2406:da60:1000::/40
   network_border_group: af-south-1
@@ -1967,6 +1979,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:6010::/44
   network_border_group: us-east-1
   region: us-east-1
+  service: AMAZON
+- ipv6_prefix: 2a05:d038:4000::/48
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: AMAZON
 - ipv6_prefix: 2a05:d079:4000::/40
   network_border_group: eu-central-1
@@ -3536,6 +3552,10 @@ ipv6_prefixes:
   network_border_group: us-east-2
   region: us-east-2
   service: AMAZON
+- ipv6_prefix: 2a05:d038:2000::/48
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: AMAZON
 - ipv6_prefix: 2a05:d077:60c1::/48
   network_border_group: eu-north-1
   region: eu-north-1
@@ -4515,6 +4535,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2606:7b40:10ff:f210::/60
   network_border_group: us-west-2
   region: us-west-2
+  service: AMAZON
+- ipv6_prefix: 2600:9000:5200::/40
+  network_border_group: GLOBAL
+  region: GLOBAL
   service: AMAZON
 - ipv6_prefix: 2400:7fc0:4000:100::/56
   network_border_group: cn-north-1
@@ -6032,6 +6056,10 @@ ipv6_prefixes:
   network_border_group: il-central-1
   region: il-central-1
   service: EC2
+- ipv6_prefix: 2a05:d038:e000::/48
+  network_border_group: me-south-1
+  region: me-south-1
+  service: EC2
 - ipv6_prefix: 2404:c2c0::/40
   network_border_group: cn-northwest-1
   region: cn-northwest-1
@@ -6512,6 +6540,10 @@ ipv6_prefixes:
   network_border_group: eu-central-1
   region: eu-central-1
   service: EC2
+- ipv6_prefix: 2406:da38:1000::/48
+  network_border_group: af-south-1
+  region: af-south-1
+  service: EC2
 - ipv6_prefix: 2600:1ffd:8149::/48
   network_border_group: ap-northeast-1
   region: ap-northeast-1
@@ -6707,6 +6739,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2406:daff:7000::/40
   network_border_group: me-central-1
   region: me-central-1
+  service: EC2
+- ipv6_prefix: 2406:da38:9000::/48
+  network_border_group: ap-southeast-3
+  region: ap-southeast-3
   service: EC2
 - ipv6_prefix: 2406:da60:1000::/40
   network_border_group: af-south-1
@@ -7031,6 +7067,10 @@ ipv6_prefixes:
 - ipv6_prefix: 2600:f0f0:6010::/44
   network_border_group: us-east-1
   region: us-east-1
+  service: EC2
+- ipv6_prefix: 2a05:d038:4000::/48
+  network_border_group: eu-central-1
+  region: eu-central-1
   service: EC2
 - ipv6_prefix: 2406:daf0:6000::/40
   network_border_group: ap-northeast-3
@@ -8024,6 +8064,10 @@ ipv6_prefixes:
   network_border_group: ap-northeast-2
   region: ap-northeast-2
   service: EC2
+- ipv6_prefix: 2a05:d038:2000::/48
+  network_border_group: eu-west-3
+  region: eu-west-3
+  service: EC2
 - ipv6_prefix: 2a05:d077:60c1::/48
   network_border_group: eu-north-1
   region: eu-north-1
@@ -8801,6 +8845,10 @@ ipv6_prefixes:
   region: GLOBAL
   service: CLOUDFRONT
 - ipv6_prefix: 2600:9000:eee::/48
+  network_border_group: GLOBAL
+  region: GLOBAL
+  service: CLOUDFRONT
+- ipv6_prefix: 2600:9000:5200::/40
   network_border_group: GLOBAL
   region: GLOBAL
   service: CLOUDFRONT
@@ -46085,4 +46133,4 @@ prefixes:
   network_border_group: ap-south-2
   region: ap-south-2
   service: DYNAMODB
-syncToken: '1716921189'
+syncToken: '1717003990'
